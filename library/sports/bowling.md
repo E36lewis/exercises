@@ -4,5 +4,5 @@ name: bowling
 met_score: 3.0
 aerobic: true
 anaerobic: false
-participated_on: bowling ally
+participated_on: bowling alley
 ---

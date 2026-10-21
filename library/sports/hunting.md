@@ -4,5 +4,5 @@ name: hunting
 met_score: 6.0
 aerobic: true
 anaerobic: false
-participated_on: "outdoors "
+participated_on: outdoors
 ---

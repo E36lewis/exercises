@@ -4,5 +4,5 @@ name: speed skating
 met_score: 15.0
 aerobic: false
 anaerobic: true
-participated_on: ice ring
+participated_on: ice rink
 ---
