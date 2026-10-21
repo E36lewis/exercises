@@ -1,6 +1,6 @@
 ---
 id: 962518ad-3c78-4ca5-88d8-1aed00127aa4
-name: swing  arm switch
+name: swing arm switch
 equipment: kettlebell
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
