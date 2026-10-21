@@ -4,6 +4,7 @@ name: roller
 equipment: foam roller
 region: "Abdomen, Lower Back, & Pelvis"
 type: stretch
+retired: 2026-10-20
 example: body_weight/roller
 muscles:
   target: [iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion]
