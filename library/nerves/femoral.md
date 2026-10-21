@@ -3,7 +3,7 @@ id: 39cba371-7b08-452c-b4f2-f6e0808c0aa8
 name: femoral
 system: spinal
 branch: false
-branches: [anterior-cutaneous-branches-of-femoral-9c23f585-4eb9-461d-b2da-5891af42b8ca, saphenous]
+branches: [anterior-cutaneous-branches-of-femoral-2, saphenous]
 plexuses: [lumbar-plexus-posterior-division]
 ---
 The femoral nerve is a nerve in the thigh that supplies skin on the upper thigh and inner leg, and the muscles that extend the knee. 

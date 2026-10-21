@@ -3,7 +3,7 @@ id: b7d93f11-a060-4cbd-9d00-0829d47cf586
 name: superficial fibular
 system: spinal
 branch: true
-branches: [dorsal-digital-branches-of-deep-fibular, intermediate_dorsel_cutaneous, medial-dorsal-cutaneous]
+branches: [dorsal-digital-branches-of-deep-fibular, intermediate-dorsal-cutaneous, medial-dorsal-cutaneous]
 ---
 The superficial fibular nerve is a terminal branch of the common fibular nerve, which itself is a branch of the sciatic nerve. 
 The superficial fibular nerve contains both motor and sensory fibers, meaning it provides both motion and sensation.
