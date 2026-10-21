@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "aerobic": {
+      "type": "boolean"
+    },
+    "anaerobic": {
+      "type": "boolean"
+    },
+    "id": {
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+      "type": "string"
+    },
+    "met_score": {
+      "type": "number"
+    },
+    "name": {
+      "type": "string"
+    },
+    "participated_on": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "participated_on"
+  ],
+  "title": "The front matter of a file in library/sports/",
+  "type": "object"
+}

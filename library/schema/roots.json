@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+      "type": "string"
+    },
+    "level": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "level"
+  ],
+  "title": "The front matter of a file in library/roots/",
+  "type": "object"
+}
