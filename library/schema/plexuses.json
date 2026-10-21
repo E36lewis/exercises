@@ -5,7 +5,7 @@
     "branch": {
       "enum": [
         "no_branch",
-        "supraclavicluar",
+        "supraclavicular",
         "child_branch"
       ]
     },

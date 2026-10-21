@@ -3,7 +3,7 @@ id: 586b4f07-3fbd-45c1-90ee-dfea4f7c90de
 name: brachial plexus
 trunk: no_trunk
 division: no_division
-branch: supraclavicluar
+branch: supraclavicular
 ---
 The Brachial plexus is formed by the ventral rami of C5-C8-T1 spinal nerves, 
     and lower and upper halves of C4 and T2 spinal nerves. The plexus extends toward the armpit. 
