@@ -4,5 +4,5 @@ name: running
 met_score: 10.0
 aerobic: true
 anaerobic: false
-participated_on: outdoors / indoor
+participated_on: indoors or outdoors
 ---

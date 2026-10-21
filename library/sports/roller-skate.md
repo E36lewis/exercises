@@ -4,5 +4,5 @@ name: roller skate
 met_score: 7.0
 aerobic: true
 anaerobic: true
-participated_on: out doors
+participated_on: outdoors
 ---

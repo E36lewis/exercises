@@ -4,5 +4,5 @@ name: water volleyball
 met_score: 5.0
 aerobic: false
 anaerobic: true
-participated_on: water court
+participated_on: pool
 ---

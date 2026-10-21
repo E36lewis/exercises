@@ -4,5 +4,5 @@ name: orienteering
 met_score: 9.0
 aerobic: true
 anaerobic: false
-participated_on: out doors
+participated_on: outdoors
 ---

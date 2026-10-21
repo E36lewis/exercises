@@ -1,6 +1,6 @@
 ---
 id: a3bc92d7-40ac-4598-a4f6-37ea67b43731
-name: intermediate_dorsal_cutaneous
+name: intermediate dorsal cutaneous
 system: spinal
 branch: true
 ---

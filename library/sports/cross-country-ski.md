@@ -4,5 +4,5 @@ name: cross country ski
 met_score: 14.0
 aerobic: false
 anaerobic: true
-participated_on: out doors
+participated_on: outdoors
 ---

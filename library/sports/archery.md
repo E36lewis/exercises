@@ -4,5 +4,5 @@ name: archery
 met_score: 3.5
 aerobic: true
 anaerobic: false
-participated_on: out doors
+participated_on: outdoors
 ---
