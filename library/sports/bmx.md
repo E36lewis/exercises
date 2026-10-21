@@ -4,5 +4,5 @@ name: bmx
 met_score: 8.5
 aerobic: false
 anaerobic: true
-participated_on: on/off road
+participated_on: track or trail
 ---

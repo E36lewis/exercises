@@ -4,5 +4,5 @@ name: athletics / conditioning
 met_score: 8.0
 aerobic: true
 anaerobic: true
-participated_on: gym/field/getting at it
+participated_on: gym or field
 ---
