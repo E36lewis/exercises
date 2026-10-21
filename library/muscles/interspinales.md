@@ -9,11 +9,7 @@ shape: Parallel
 media_name: interspinales
 nerves:
   - nerve: dorsal-rami
-    roots: [c2, c3, c4, c5, c6, c7]
-  - nerve: dorsal-rami
-    roots: [l1, l2, l3, l4, l5]
-  - nerve: dorsal-rami
-    roots: [t1, t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12]
+    roots: [c2, c3, c4, c5, c6, c7, l1, l2, l3, l4, l5, t1, t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12]
 ---
 Short paired muscles that join the pointed bumps (spinous processes) on the backs of neighbouring vertebrae. They are best developed in the neck and the lower back, and are often absent or small in the mid-back. They sit in a deep layer, close to the spine.
 

@@ -10,11 +10,7 @@ media_name: semispinalis
 movements: [extension, rotation]
 nerves:
   - nerve: dorsal-rami
-    roots: [c2, c3]
-  - nerve: dorsal-rami
-    roots: [c5, c6, c7]
-  - nerve: dorsal-rami
-    roots: [t1, t2, t3, t4, t5, t6]
+    roots: [c2, c3, c5, c6, c7, t1, t2, t3, t4, t5, t6]
 ---
 A group of deep back and neck muscles (capitis, cervicis and thoracis) that run along the spine. Their fibres go from the transverse processes of the vertebrae up to the spinous processes above, and, for the capitis part, to the back of the skull.
 

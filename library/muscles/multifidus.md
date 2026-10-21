@@ -10,11 +10,7 @@ media_name: multifidus
 movements: [extension, lateral-flexion, rotation]
 nerves:
   - nerve: dorsal-rami
-    roots: [c1, c2, c3, c4, c5, c6]
-  - nerve: dorsal-rami
-    roots: [l1, l2, l3, l4, l5]
-  - nerve: dorsal-rami
-    roots: [t1, t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12]
+    roots: [c1, c2, c3, c4, c5, c6, l1, l2, l3, l4, l5, t1, t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12]
 ---
 A set of short, deep muscle bundles that lie in the groove beside the spine, from the sacrum up to the neck. Each bundle crosses two to four vertebrae, running from the lower one up and inward to the spiny process of the vertebra above.
 

@@ -14,9 +14,7 @@ nerves:
   - nerve: iliohypogastric
     roots: [l1]
   - nerve: intercostal
-    roots: [l1, t7, t8, t9, t10, t11, t12]
-  - nerve: intercostal
-    roots: [t5, t6, t7, t8, t9, t10, t11, t12]
+    roots: [l1, t5, t6, t7, t8, t9, t10, t11, t12]
 ---
 Two layers of muscle on each side of the abdomen. The external oblique is the outer one, with fibres that run like your hands going into front pockets. The internal oblique lies under it, with fibres running at a right angle to them.
 

@@ -9,11 +9,7 @@ shape: Parallel
 media_name: intertransversarii
 nerves:
   - nerve: dorsal-rami
-    roots: [c1, c2, c3, c4, c5, c6, c7]
-  - nerve: dorsal-rami
-    roots: [l1, l2, l3, l4, l5]
-  - nerve: dorsal-rami
-    roots: [t1, t2, t3, t4, t5, t6, t7, t8, t9, t10]
+    roots: [c1, c2, c3, c4, c5, c6, c7, l1, l2, l3, l4, l5, t1, t2, t3, t4, t5, t6, t7, t8, t9, t10]
   - nerve: ventral-rami
     roots: [l1, l2, l3, l4, l5]
 ---

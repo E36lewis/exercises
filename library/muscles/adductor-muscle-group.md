@@ -10,8 +10,6 @@ media_name: adductor_muscle_group
 movements: [adduction]
 nerves:
   - nerve: obturator
-    roots: [l2, l3]
-  - nerve: obturator
     roots: [l2, l3, l4]
   - nerve: sciatic
     roots: [l2, l3, l4]

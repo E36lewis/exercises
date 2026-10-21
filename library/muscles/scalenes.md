@@ -11,10 +11,6 @@ movements: [flexion, lateral-flexion, rotation]
 nerves:
   - nerve: ventral-rami
     roots: [c3, c4, c5, c6, c7]
-  - nerve: ventral-rami
-    roots: [c4, c5, c6, c7]
-  - nerve: ventral-rami
-    roots: [c5, c6, c7]
 ---
 Three muscles (anterior, middle and posterior) at the side of the neck. They run from the neck vertebrae to the first two ribs. The nerves and artery that supply the arm pass between the anterior and middle scalenes.
 

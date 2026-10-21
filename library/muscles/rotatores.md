@@ -10,11 +10,7 @@ media_name: rotatores
 movements: [extension, rotation]
 nerves:
   - nerve: dorsal-rami
-    roots: [c1, c2, c3, c4, c5, c6]
-  - nerve: dorsal-rami
-    roots: [l1, l2, l3, l4, l5]
-  - nerve: dorsal-rami
-    roots: [t1, t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12]
+    roots: [c1, c2, c3, c4, c5, c6, l1, l2, l3, l4, l5, t1, t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12]
 ---
 A group of small, deep back muscles on each side of the spine, one at each level, most developed in the chest (thoracic) region. Each runs from the transverse process of one vertebra to the base of the spinous process of the vertebra above (rotatores brevis) or two above (longus).
 
