@@ -1,0 +1,46 @@
+name: Sport injuries reminder
+
+on:
+  schedule:
+    # NEISS publishes a year some months after it ends: the 1st of each month, May to December.
+    - cron: "0 15 1 5-12 *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open an issue when last year's release is missing
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          year=$(( $(date -u +%Y) - 1 ))
+          tag="sport-injuries-${year}"
+          title="Release ${tag} (NEISS ${year})"
+
+          if gh release list --limit 200 --json tagName --jq '.[].tagName' | grep -Eq "^${tag}(\.[0-9]+)?$"; then
+            echo "${tag} is released"
+            exit 0
+          fi
+          if gh issue list --state all --limit 200 --search "\"${title}\" in:title" --json title --jq '.[].title' | grep -Fxq "${title}"; then
+            echo "There's already an issue for ${tag}"
+            exit 0
+          fi
+
+          gh issue create --title "${title}" --body "$(cat <<EOF
+          NEISS ${year} may be out: check the archived annual data on CPSC's NEISS page (https://www.cpsc.gov/cgibin/NEISSQuery/home.aspx).
+
+          1. Download \`neiss${year}.tsv\` in a web browser (cpsc.gov refuses other downloads).
+          2. In a checkout of this repo: \`apex_library sport-injuries release neiss${year}.tsv out/${tag}\`
+          3. Publish it:
+             \`gh release create ${tag} out/${tag}/sport-injuries.ndjson out/${tag}/manifest.json --repo E36lewis/exercises --title "Sport injuries (NEISS ${year})" --notes "Sport injury counts from NEISS ${year}."\`
+          4. Close this issue.
+
+          The steps are in ApexMortals' docs/library.md, "Sport injury releases".
+          EOF
+          )"
