@@ -10,7 +10,7 @@ muscles:
   synergist: [rhomboids, serratus-anterior, teres-major]
   dynamic: []
   antagonist: [deltoid]
-variations: [body_weight/pull-up]
+variations: [pull_up_bar/pull-up]
 ---
 The scapular pull up is a small movement on a bar with straight arms. You pull your shoulder blades down and together, which lifts the body a few centimetres. It teaches the shoulder position needed for every pull-up and hang.
 

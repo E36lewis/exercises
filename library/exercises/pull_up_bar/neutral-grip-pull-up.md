@@ -10,7 +10,7 @@ muscles:
   synergist: [rhomboids, trapezius, teres-major, deltoid, flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-carpi-radialis, flexor-carpi-ulnaris]
   dynamic: []
   antagonist: [triceps-brachii]
-variations: [body_weight/pull-up]
+variations: [pull_up_bar/pull-up]
 ---
 The neutral grip pull-up is done with the palms facing each other on parallel handles. Your wrists and elbows sit in a natural position, so it is often easier on the elbows than an overhand pull-up.
 

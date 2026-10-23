@@ -1,7 +1,7 @@
 ---
 id: ac537b7a-7b26-424e-85fb-edae34681bda
 name: chin up
-equipment: body weight
+equipment: pull up bar
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
@@ -10,7 +10,7 @@ muscles:
   synergist: [brachialis, brachioradialis, deltoid, infrapinatus, latissimus-dorsi, pectoralis-major, rhomboids, teres-major, teres-minor, trapezius]
   dynamic: [biceps-brachii, triceps-brachii]
   antagonist: []
-variations: [body_weight/pull-up]
+variations: [pull_up_bar/pull-up]
 ---
 The chin up is a pulling exercise. You hang from a bar with an underhand grip and pull your chin above it. The latissimus dorsi (the large back muscle) leads, with the biceps working hard because of the palms-facing-you grip.
 

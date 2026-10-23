@@ -10,7 +10,7 @@ muscles:
   synergist: [flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-carpi-radialis, flexor-carpi-ulnaris, rhomboids, trapezius, teres-major, deltoid]
   dynamic: []
   antagonist: [triceps-brachii]
-variations: [body_weight/pull-up]
+variations: [pull_up_bar/pull-up]
 ---
 The lock off pull up is a pull-up with a pause at the top, or at a chosen elbow angle. You hold with one or both arms bent. It builds the strength to hold a bent-arm position, as in climbing.
 

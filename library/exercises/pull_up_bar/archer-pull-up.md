@@ -10,7 +10,7 @@ muscles:
   synergist: [rhomboids, trapezius, teres-major, deltoid, flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-carpi-radialis, flexor-carpi-ulnaris]
   dynamic: []
   antagonist: [triceps-brachii]
-variations: [body_weight/pull-up]
+variations: [pull_up_bar/pull-up]
 ---
 The archer pull up is a wide-grip pull-up in which you pull towards one hand while the other arm stays nearly straight. It is a step toward the one-arm pull-up.
 

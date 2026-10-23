@@ -10,7 +10,7 @@ muscles:
   synergist: [biceps-brachii, brachialis, brachioradialis, rhomboids, trapezius, infrapinatus, teres-minor, pectoralis-major]
   dynamic: [triceps-brachii]
   antagonist: [deltoid, triceps-brachii]
-variations: [body_weight/pull-up, body_weight/chin-up]
+variations: [pull_up_bar/pull-up, pull_up_bar/chin-up]
 ---
 The lat pulldown is a machine exercise for the back. You sit and pull a bar down to your upper chest. It trains the latissimus dorsi, the large muscles of your back, and is a good way to build toward pull-ups.
 

@@ -10,7 +10,7 @@ muscles:
   synergist: [brachialis, brachioradialis, biceps-brachii, latissimus-dorsi]
   dynamic: []
   antagonist: [extensor-carpi-radialis-longus, extensor-carpi-radialis-brevis, extensor-carpi-ulnaris, extensor-digitorum]
-variations: [body_weight/pull-up]
+variations: [pull_up_bar/pull-up]
 ---
 The dead hang is simply hanging from a bar with straight arms for time. The fingers and forearms hold your whole body weight. It builds grip and gently decompresses the shoulders.
 

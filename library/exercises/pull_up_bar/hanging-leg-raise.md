@@ -1,7 +1,7 @@
 ---
 id: acf13b73-d5bb-4166-a574-5d8ea28c13db
 name: hanging leg raise
-equipment: body weight
+equipment: pull up bar
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: body_weight/hanging_leg_raise

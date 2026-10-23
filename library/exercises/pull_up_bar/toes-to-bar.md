@@ -10,7 +10,7 @@ muscles:
   synergist: [tensor-fasciae-latae, sartorius, external-and-internal-obliques, latissimus-dorsi]
   dynamic: [rectus-femoris]
   antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion, hamstrings]
-variations: [body_weight/hanging-leg-raise]
+variations: [pull_up_bar/hanging-leg-raise]
 ---
 Toes to bar raises your straight legs all the way up until your feet touch the bar you are hanging from. It trains the abdominals and hip flexors through a large range, and it takes strong shoulders and grip.
 

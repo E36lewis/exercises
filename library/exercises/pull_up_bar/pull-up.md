@@ -1,7 +1,7 @@
 ---
 id: 32a24402-2503-4759-87eb-ff9e395ba155
 name: pull up
-equipment: body weight
+equipment: pull up bar
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: body_weight/pull_up

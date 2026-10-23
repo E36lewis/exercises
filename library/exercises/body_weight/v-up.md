@@ -11,7 +11,7 @@ muscles:
   synergist: [adductor-muscle-group, external-and-internal-obliques, pectineus, rectus-femoris, sartorius, tensor-fasciae-latae]
   dynamic: []
   antagonist: []
-variations: [body_weight/hanging-leg-raise, body_weight/lying-floor-leg-raise]
+variations: [pull_up_bar/hanging-leg-raise, body_weight/lying-floor-leg-raise]
 ---
 The V-up is a body-weight core exercise in which you fold your body into a V by lifting your straight legs and torso toward each other. It mainly works the rectus abdominis (the "six-pack" muscle), with the hip flexors and obliques helping.
 

@@ -10,7 +10,7 @@ muscles:
   synergist: [rectus-femoris, tensor-fasciae-latae, sartorius, external-and-internal-obliques]
   dynamic: [rectus-femoris]
   antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: [body_weight/hanging-leg-raise]
+variations: [pull_up_bar/hanging-leg-raise]
 ---
 The hanging knee raise is the easier version of the hanging leg raise. While hanging from a bar you bend your knees and lift them toward your chest. It works the abdominals and hip flexors and also builds grip.
 
