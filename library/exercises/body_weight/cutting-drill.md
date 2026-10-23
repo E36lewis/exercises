@@ -9,7 +9,7 @@ muscles:
   stabilizer: [adductor-muscle-group, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
   synergist: [fibularis-brevis, fibularis-longus, hamstrings, tensor-fasciae-latae, tibialis-anterior]
   dynamic: [hamstrings, rectus-femoris]
-  antagonist: [adductor-muscle-group]
+  antagonist: []
 variations: []
 ---
 The cutting drill trains you to plant one foot and push off at about 45 degrees to change direction while running. It builds the leg strength and control used in cuts on the field and court.

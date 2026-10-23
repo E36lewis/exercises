@@ -9,7 +9,7 @@ muscles:
   synergist: [external-and-internal-obliques, quadratus-lumborum]
   stabilizer: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae, rectus-abdominis, serratus-anterior]
   dynamic: []
-  antagonist: [gluteus-medius]
+  antagonist: []
 variations: [body_weight/side-plank]
 ---
 A side plank with your top leg on a bench and your bottom leg lifted. The inner thigh muscles of the top leg work hard to hold you up. It is one of the best-supported ways to prevent groin strains.

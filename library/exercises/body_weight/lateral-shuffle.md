@@ -9,7 +9,7 @@ muscles:
   stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
   synergist: [fibularis-longus, gastrocnemius, sartorius, soleus, tensor-fasciae-latae]
   dynamic: [hamstrings, rectus-femoris]
-  antagonist: [adductor-muscle-group]
+  antagonist: []
 variations: []
 ---
 The lateral shuffle is a side-to-side movement in a low athletic stance, without crossing the feet. It trains the hips and thighs that push you sideways and keeps you balanced while you move.

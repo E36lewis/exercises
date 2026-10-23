@@ -9,7 +9,7 @@ muscles:
   stabilizer: [gluteus-medius, rectus-abdominis, transversus-abdominis]
   synergist: [gluteus-maximus]
   dynamic: []
-  antagonist: [gluteus-medius]
+  antagonist: []
 variations: []
 ---
 The straddle stretch is a seated stretch with the legs wide apart. It lengthens the inner thighs and the hamstrings.

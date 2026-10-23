@@ -9,7 +9,7 @@ muscles:
   stabilizer: [trapezius, rhomboids, subscapularis, infrapinatus]
   synergist: [pectoralis-major, pectoralis-minor, deltoid, coracobrachialis, triceps-brachii]
   dynamic: []
-  antagonist: [rhomboids, trapezius]
+  antagonist: []
 variations: [body_weight/push-up]
 ---
 The dumbbell serratus punch is a lying exercise in which you punch a dumbbell straight up toward the ceiling by pushing your shoulder blade forward. It trains the serratus anterior, the muscle that holds your shoulder blade against your ribs and moves it as you punch.

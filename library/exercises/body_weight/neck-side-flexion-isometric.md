@@ -9,7 +9,7 @@ muscles:
   synergist: [splenius-capitis, splenius-cervicis, levator-scapulae, trapezius]
   stabilizer: [longus-capitis, longus-colli, semispinalis]
   dynamic: []
-  antagonist: [scalenes, levator-scapulae]
+  antagonist: []
 variations: [resistance_band/neck-banded-hold]
 ---
 A hold where you push the side of your head into your hand and the neck doesn't move. It strengthens the muscles at the sides of the neck.

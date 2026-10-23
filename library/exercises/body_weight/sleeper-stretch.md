@@ -6,7 +6,7 @@ region: Shoulder & Upper Arm
 type: stretch
 muscles:
   target: [infrapinatus, teres-minor]
-  stabilizer: [serratus-anterior, subscapularis, supraspinatus]
+  stabilizer: [serratus-anterior, supraspinatus]
   synergist: [deltoid]
   dynamic: []
   antagonist: [subscapularis]

@@ -6,7 +6,7 @@ region: Ankle & Foot
 type: stretch
 muscles:
   target: [plantaris, soleus]
-  stabilizer: [tibialis-anterior, vasti-group]
+  stabilizer: [vasti-group]
   synergist: [fibularis-longus, flexor-digitorum-longus, flexor-hallucis-longus]
   dynamic: []
   antagonist: [tibialis-anterior]

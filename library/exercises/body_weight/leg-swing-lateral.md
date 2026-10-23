@@ -9,7 +9,7 @@ muscles:
   stabilizer: [gluteus-medius, gluteus-minimus, transversus-abdominis]
   synergist: [gluteus-maximus, sartorius, tensor-fasciae-latae]
   dynamic: []
-  antagonist: [gluteus-medius]
+  antagonist: []
 variations: []
 ---
 The lateral leg swing is a dynamic warm-up in which you swing a leg from side to side across your body. It warms and loosens the inner thighs and the hip joint.

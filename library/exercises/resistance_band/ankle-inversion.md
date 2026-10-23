@@ -6,7 +6,7 @@ region: "Ankle & Foot"
 type: weight
 muscles:
   target: [tibialis-posterior, tibialis-anterior]
-  stabilizer: [fibularis-longus, fibularis-brevis]
+  stabilizer: []
   synergist: [flexor-digitorum-longus, flexor-hallucis-longus, extensor-hallucis-longus]
   dynamic: []
   antagonist: [fibularis-longus, fibularis-brevis]

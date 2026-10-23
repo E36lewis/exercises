@@ -9,7 +9,7 @@ muscles:
   stabilizer: [multifidus, gluteus-medius, flexor-digitorum-superficialis, flexor-digitorum-profundus]
   synergist: [rectus-abdominis, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
   dynamic: []
-  antagonist: [external-and-internal-obliques]
+  antagonist: []
 variations: []
 ---
 The dumbbell side bend is a standing exercise in which you hold a dumbbell in one hand and bend your trunk sideways. It trains the obliques and the muscles at the side of your spine.

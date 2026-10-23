@@ -9,7 +9,7 @@ muscles:
   stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
   synergist: [fibularis-longus, gluteus-maximus, hamstrings, tensor-fasciae-latae, tibialis-anterior]
   dynamic: [hamstrings, rectus-femoris]
-  antagonist: [adductor-muscle-group]
+  antagonist: []
 variations: []
 ---
 The mirror drill is a reactive agility game with a partner. One person leads with side-to-side and forward and back movements, and the other copies them as if they were a mirror.

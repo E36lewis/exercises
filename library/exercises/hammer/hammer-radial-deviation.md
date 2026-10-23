@@ -6,7 +6,7 @@ region: "Wrist & Hand"
 type: weight
 muscles:
   target: [extensor-carpi-radialis-longus, flexor-carpi-radialis]
-  stabilizer: [flexor-carpi-ulnaris, extensor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  stabilizer: [flexor-digitorum-superficialis, flexor-digitorum-profundus]
   synergist: [abductor-pollicis-longus, extensor-pollicis-brevis, extensor-pollicis-longus, extensor-carpi-radialis-brevis]
   dynamic: []
   antagonist: [extensor-carpi-ulnaris, flexor-carpi-ulnaris]

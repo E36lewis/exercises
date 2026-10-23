@@ -7,7 +7,7 @@ type: weight
 muscles:
   target: [tibialis-anterior]
   synergist: [extensor-hallucis-longus, extensor-digitorum-longus, fibularis-tertitus]
-  stabilizer: [gastrocnemius, soleus]
+  stabilizer: []
   dynamic: []
   antagonist: [gastrocnemius, soleus]
 variations: []

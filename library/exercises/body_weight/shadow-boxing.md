@@ -9,7 +9,7 @@ muscles:
   stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
   synergist: [biceps-brachii, gluteus-maximus, latissimus-dorsi, rhomboids, trapezius, vasti-group]
   dynamic: [external-and-internal-obliques]
-  antagonist: [rhomboids]
+  antagonist: []
 variations: []
 ---
 Shadow boxing is throwing punches and moving as if you had an opponent, without a bag or a partner. It trains punching technique, footwork and conditioning.

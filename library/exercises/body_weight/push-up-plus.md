@@ -9,7 +9,7 @@ muscles:
   synergist: [pectoralis-major, pectoralis-minor, deltoid, triceps-brachii]
   stabilizer: [external-and-internal-obliques, rectus-abdominis, transversus-abdominis, gluteus-maximus, trapezius]
   dynamic: [biceps-brachii]
-  antagonist: [rhomboids, trapezius]
+  antagonist: [rhomboids]
 variations: [body_weight/push-up]
 ---
 A push-up where you keep pushing at the top so your shoulder blades spread apart around your ribs. It trains the serratus anterior, which holds the shoulder blade against the rib cage.

@@ -9,7 +9,7 @@ muscles:
   stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, rectus-abdominis, serratus-anterior]
   synergist: [triceps-brachii, pectoralis-major, deltoid, infrapinatus]
   dynamic: [triceps-brachii]
-  antagonist: [deltoid]
+  antagonist: []
 variations: [resistance_band/banded-straight-arm-pulldown]
 ---
 The straight arm pulldown is a cable exercise that isolates the lats. You stand facing a high cable and push a bar down with straight arms, as in the pulling phase of a swimming stroke. The elbows stay almost straight, so the lats do the work.

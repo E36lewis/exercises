@@ -5,11 +5,11 @@ equipment: body weight
 region: Hip & Thigh
 type: stretch
 muscles:
-  target: [gluteus-maximus, gluteus-medius, piriformis]
+  target: [gluteus-maximus, piriformis]
   stabilizer: [gluteus-medius, transversus-abdominis]
   synergist: [hamstrings, iliacus, psoas-major, rectus-femoris]
   dynamic: [hamstrings]
-  antagonist: [iliacus]
+  antagonist: []
 variations: []
 ---
 The walking knee hug is a dynamic warm-up. With each step you pull one knee to your chest, which stretches the glute and warms the hip.

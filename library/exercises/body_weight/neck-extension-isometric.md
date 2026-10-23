@@ -7,7 +7,7 @@ type: weight
 muscles:
   target: [splenius-capitis, splenius-cervicis, semispinalis]
   synergist: [trapezius, levator-scapulae, rectus-capitis-posterior-major, rectus-capitis-posterior-minor]
-  stabilizer: [sternocleidomastoid, longus-colli, scalenes]
+  stabilizer: [sternocleidomastoid, scalenes]
   dynamic: []
   antagonist: [longus-capitis, longus-colli]
 variations: [resistance_band/neck-banded-hold]

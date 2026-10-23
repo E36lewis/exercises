@@ -9,7 +9,7 @@ muscles:
   stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
   synergist: [gastrocnemius, rectus-femoris, sartorius, soleus, tensor-fasciae-latae]
   dynamic: [hamstrings, rectus-femoris]
-  antagonist: [adductor-muscle-group]
+  antagonist: []
 variations: []
 ---
 The imitation skating stride is a dryland drill that copies the side push of skating. You push off one leg to the side and glide the other, then switch.

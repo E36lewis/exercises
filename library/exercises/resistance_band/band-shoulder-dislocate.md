@@ -5,9 +5,9 @@ equipment: resistance band
 region: "Shoulder & Upper Arm"
 type: stretch
 muscles:
-  target: [deltoid, pectoralis-major, pectoralis-minor]
+  target: [deltoid]
   stabilizer: [serratus-anterior, infrapinatus, teres-minor, supraspinatus]
-  synergist: [latissimus-dorsi, teres-major, subscapularis, rhomboids, trapezius]
+  synergist: [latissimus-dorsi, teres-major, rhomboids, trapezius]
   dynamic: []
   antagonist: [pectoralis-major, pectoralis-minor, subscapularis]
 variations: []

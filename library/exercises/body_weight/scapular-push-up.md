@@ -9,7 +9,7 @@ muscles:
   synergist: [pectoralis-minor, trapezius]
   stabilizer: [pectoralis-major, deltoid, triceps-brachii, external-and-internal-obliques, rectus-abdominis, transversus-abdominis]
   dynamic: []
-  antagonist: [rhomboids, trapezius]
+  antagonist: [rhomboids]
 variations: []
 ---
 From a plank with straight arms, you let your chest sink between your shoulder blades, then push the floor away. Only the shoulder blades move. It trains the serratus anterior to control the shoulder blade.

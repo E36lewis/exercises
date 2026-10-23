@@ -6,7 +6,7 @@ region: "Thorax"
 type: stretch
 muscles:
   target: [spinalis-portion, longissimus-portion, iliocostalis-portion]
-  stabilizer: [rectus-abdominis, transversus-abdominis]
+  stabilizer: [transversus-abdominis]
   synergist: [multifidus, rotatores, semispinalis, trapezius]
   dynamic: []
   antagonist: [rectus-abdominis, pectoralis-minor, pectoralis-major]

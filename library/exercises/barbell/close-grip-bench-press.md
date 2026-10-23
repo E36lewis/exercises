@@ -9,7 +9,7 @@ muscles:
   stabilizer: [biceps-brachii, latissimus-dorsi, trapezius, rectus-abdominis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
   synergist: [deltoid, anconeus, serratus-anterior, coracobrachialis]
   dynamic: []
-  antagonist: [latissimus-dorsi, rhomboids]
+  antagonist: [rhomboids]
 variations: [barbell/bench-press, dumbbell/bench-press]
 ---
 The close grip bench press is a bench press with your hands closer together, about shoulder-width. It shifts more of the work onto the triceps and the inner chest, while the shoulders help.

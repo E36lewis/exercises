@@ -9,7 +9,7 @@ muscles:
   stabilizer: [supraspinatus, trapezius, rhomboids, external-and-internal-obliques]
   synergist: [pectoralis-major, latissimus-dorsi, deltoid, triceps-brachii, serratus-anterior]
   dynamic: []
-  antagonist: [infrapinatus, teres-minor]
+  antagonist: []
 variations: []
 ---
 The medicine ball wall throw at 90 degrees is a fast throwing drill. You stand facing a wall with your arm raised to shoulder height and elbow bent, and throw and catch a light medicine ball against the wall. It trains the rotator cuff to work quickly, as in a baseball throw.

@@ -9,7 +9,7 @@ muscles:
   stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
   synergist: [gastrocnemius, gluteus-maximus, obturator-internus, piriformis, soleus, vasti-group]
   dynamic: [hamstrings, rectus-femoris]
-  antagonist: [adductor-muscle-group]
+  antagonist: []
 variations: []
 ---
 Carioca is a sideways run in which the trailing leg crosses in front and then behind the lead leg. The twist at the hips and shoulders trains hip rotation and quick feet.

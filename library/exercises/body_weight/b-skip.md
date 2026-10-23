@@ -9,7 +9,7 @@ muscles:
   stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
   synergist: [gastrocnemius, iliacus, sartorius, soleus, tibialis-anterior, vasti-group]
   dynamic: [hamstrings, rectus-femoris]
-  antagonist: [tibialis-anterior]
+  antagonist: []
 variations: []
 ---
 The B skip adds a leg extension to the A skip. After the knee lifts, the lower leg kicks forward and then paws back down. It trains the hamstrings to pull the foot under the body.

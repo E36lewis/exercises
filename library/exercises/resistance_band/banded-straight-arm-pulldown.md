@@ -9,7 +9,7 @@ muscles:
   stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, rectus-abdominis, serratus-anterior]
   synergist: [triceps-brachii, pectoralis-major, deltoid, infrapinatus]
   dynamic: [triceps-brachii]
-  antagonist: [deltoid]
+  antagonist: []
 variations: [cable/straight-arm-pulldown]
 ---
 The banded straight arm pulldown is a home version of the straight arm pulldown. You anchor a band overhead and pull it down to your thighs with straight arms. It trains the lats in the same pattern as the pull of a swimming stroke.

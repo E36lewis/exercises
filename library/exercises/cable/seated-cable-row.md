@@ -9,7 +9,7 @@ muscles:
   stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, multifidus, transversus-abdominis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
   synergist: [biceps-brachii, brachialis, brachioradialis, deltoid, infrapinatus, teres-minor]
   dynamic: [triceps-brachii]
-  antagonist: [pectoralis-major, deltoid]
+  antagonist: [pectoralis-major]
 variations: [dumbbell/row, barbell/row]
 ---
 The seated cable row is a pulling exercise. You sit at a low cable and pull a handle toward your belly. It trains the muscles in the middle of your back, including the rhomboids and the lats.

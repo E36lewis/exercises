@@ -9,7 +9,7 @@ muscles:
   stabilizer: [gluteus-medius, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
   synergist: [iliacus, psoas-major, rectus-femoris, sartorius]
   dynamic: [hamstrings, rectus-femoris]
-  antagonist: [gluteus-maximus]
+  antagonist: []
 variations: []
 ---
 The forward leg swing is a dynamic warm-up. You stand on one leg and swing the other forward and back like a pendulum, taking the hip through its range and warming the hamstrings and hip flexors.

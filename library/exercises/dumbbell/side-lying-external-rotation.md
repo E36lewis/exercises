@@ -6,7 +6,7 @@ region: "Shoulder & Upper Arm"
 type: weight
 muscles:
   target: [infrapinatus, teres-minor]
-  stabilizer: [subscapularis, trapezius, serratus-anterior]
+  stabilizer: [trapezius, serratus-anterior]
   synergist: [deltoid, supraspinatus, rhomboids]
   dynamic: []
   antagonist: [subscapularis, pectoralis-major]

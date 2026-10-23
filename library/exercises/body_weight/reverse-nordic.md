@@ -9,7 +9,7 @@ muscles:
   synergist: [tibialis-anterior]
   stabilizer: [external-and-internal-obliques, rectus-abdominis, gluteus-maximus, hamstrings, gastrocnemius]
   dynamic: [sartorius]
-  antagonist: [hamstrings]
+  antagonist: []
 variations: []
 ---
 From a kneeling position you lean slowly backward, keeping your body straight from knees to head, then return. It loads the quadriceps and the patellar tendon while they are stretched.
