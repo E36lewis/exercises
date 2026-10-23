@@ -2,16 +2,16 @@
 id: 4eb591ea-0047-41c0-a42f-68035a9b1531
 name: front squat
 equipment: barbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: barbell/front_squat
 muscles:
   target: [rectus-femoris, vasti-group]
-  stabilizer: [deltoid, iliocostalis-portion, levator-scapulae, longissimus-portion, pectoralis-major, serratus-anterior, spinalis-portion, supraspinatus, trapezius]
-  synergist: [adductor-muscle-group, gluteus-maximus, soleus]
+  stabilizer: [deltoid, trapezius, rhomboids, serratus-anterior, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [gluteus-maximus, adductor-muscle-group, soleus]
   dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [barbell/skull-crusher]
+  antagonist: [rectus-abdominis]
+variations: [barbell/box-squat, barbell/overhead-squat, barbell/squat, barbell/zercher-squat]
 ---
 The front squat is a squat with a barbell resting across the front of your shoulders. It works the thighs and glutes, and the upright position also trains the upper back and trunk.
 

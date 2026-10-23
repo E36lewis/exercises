@@ -6,11 +6,11 @@ region: Hip & Thigh
 type: weight
 muscles:
   target: [gluteus-medius]
-  stabilizer: [gluteus-maximus, gluteus-minimus, quadratus-lumborum, tensor-fasciae-latae]
-  synergist: [gemellus-inferior, gemellus-superior, obturator-externus, obturator-internus, piriformis]
-  dynamic: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
-  antagonist: [adductor-muscle-group, gracilis]
-variations: []
+  stabilizer: [gluteus-minimus, transversus-abdominis, external-and-internal-obliques, quadratus-lumborum]
+  synergist: [gluteus-maximus, piriformis, obturator-internus, gemellus-superior, gemellus-inferior]
+  dynamic: [tensor-fasciae-latae]
+  antagonist: [adductor-muscle-group]
+variations: [resistance_band/hip-abduction, resistance_band/lateral-walk, body_weight/fire-hydrant]
 ---
 The clam is a side-lying exercise with a resistance band around your thighs. You open your top knee like a clam shell, which works the side of your hip, mainly the gluteus medius, and the small hip rotators.
 

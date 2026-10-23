@@ -6,12 +6,12 @@ region: Neck
 type: stretch
 example: body_weight/neck_roll
 muscles:
-  target: [obliquus-capitis-inferior, platysma, rectus-capitis-posterior-major, rectus-capitis-posterior-minor, splenius-capitis, splenius-cervicis, trapezius]
-  stabilizer: []
-  synergist: []
-  dynamic: [splenius-capitis, splenius-cervicis, trapezius]
-  antagonist: []
-variations: []
+  target: [levator-scapulae, semispinalis, splenius-capitis, splenius-cervicis, trapezius]
+  synergist: [obliquus-capitis-inferior, rectus-capitis-posterior-major, rectus-capitis-posterior-minor]
+  stabilizer: [longus-capitis, longus-colli]
+  dynamic: []
+  antagonist: [sternocleidomastoid]
+variations: [body_weight/neck-pull, body_weight/levator-scapulae-stretch, body_weight/chin-tuck]
 ---
 A simple bodyweight stretch for the muscles at the back and sides of your neck and the top of your shoulders. You move your head slowly in two directions, forward and to each side.
 

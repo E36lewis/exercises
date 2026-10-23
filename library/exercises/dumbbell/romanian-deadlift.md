@@ -2,17 +2,17 @@
 id: 1a84e0e8-8055-4b31-bdff-fb47c73c62f6
 name: romanian deadlift
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: kettlebellalt/romanian_deadlift
 other_examples: [dumbbell/romanian_deadlift, kettlebell/romanian_deadlift]
 muscles:
-  target: [gluteus-maximus, hamstrings, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  synergist: [gastrocnemius, soleus]
-  dynamic: [rectus-femoris, vasti-group]
-  antagonist: []
-variations: [barbell/deadlift, barbell/romanian-deadlift]
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [trapezius, rhomboids, rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, vasti-group, soleus]
+  dynamic: [gastrocnemius, hamstrings]
+  antagonist: [iliacus, psoas-major]
+variations: [barbell/deadlift, barbell/romanian-deadlift, body_weight/single-leg-romanian-deadlift, dumbbell/deadlift, dumbbell/single-leg-deadlift]
 ---
 This is a hip-hinge lift with a dumbbell in each hand. You lower the weights by pushing your hips back, with your knees only slightly bent. It mainly works the hamstrings, glutes and the muscles along your spine, with your calves and thighs helping.
 

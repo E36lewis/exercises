@@ -2,16 +2,16 @@
 id: a153e4a3-2405-4d89-9c93-8a51de88a59b
 name: balanced squat star
 equipment: bosu ball
-region: Ankle & Foot
+region: Hip & Thigh
 type: weight
 example: bosu_ball/balanced_squat_star
 muscles:
-  target: [gastrocnemius, rectus-femoris, soleus, vasti-group]
-  stabilizer: [fibularis-brevis, fibularis-longus, gluteus-medius, gluteus-minimus, tibialis-anterior]
-  synergist: [gluteus-medius, gluteus-minimus, iliacus, psoas-major, rectus-femoris, tensor-fasciae-latae, tibialis-anterior]
-  dynamic: [external-and-internal-obliques, hamstrings, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
-  antagonist: []
-variations: []
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae, fibularis-brevis, fibularis-longus, tibialis-anterior, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [bosu_ball/balanced-squat, kettlebell/pistol-squat, dumbbell/pistol-squat]
 ---
 The balanced squat star combines a single-leg squat on a BOSU ball with reaching your free foot out to different points, like a star. It works the thighs, hips, calves and the small muscles that keep your ankle and hip steady.
 

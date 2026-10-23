@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/frog_pose
 muscles:
   target: [adductor-muscle-group, gracilis, pectineus]
-  stabilizer: []
-  synergist: [gluteus-maximus, hamstrings]
-  dynamic: []
-  antagonist: []
-variations: []
+  synergist: [gluteus-maximus]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, triceps-brachii]
+  dynamic: [hamstrings]
+  antagonist: [gluteus-medius]
+variations: [body_weight/butterfly, body_weight/straddle-stretch, body_weight/childs-pose]
 ---
 Frog pose is a yoga stretch for the inner thighs. With your knees wide and your hips back, it stretches the adductors and the groin.
 

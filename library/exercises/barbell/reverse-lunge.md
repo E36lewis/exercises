@@ -2,16 +2,16 @@
 id: 0e8c8f23-d224-4ecc-9dcf-b8b696bc9a99
 name: reverse lunge
 equipment: barbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: barbell/reverse_lunge
 muscles:
   target: [rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, transversus-abdominis]
-  synergist: [adductor-muscle-group, gastrocnemius, gluteus-maximus, soleus]
+  stabilizer: [gluteus-medius, gluteus-minimus, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [gluteus-maximus, adductor-muscle-group, soleus]
   dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis, tibialis-anterior]
-variations: [dumbbell/reverse-lunge]
+  antagonist: [iliacus, psoas-major]
+variations: [body_weight/reverse-lunge, dumbbell/reverse-lunge, slide_board/slide-board-reverse-lunge]
 ---
 A lunge where you step backward with a barbell on your upper back. It works the quadriceps (the front of the thigh) and glutes, with the hamstrings and calves helping, and your trunk working to hold the bar steady.
 

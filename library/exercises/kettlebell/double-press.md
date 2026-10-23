@@ -5,12 +5,12 @@ equipment: kettlebell
 region: Shoulder & Upper Arm
 type: weight
 muscles:
-  target: [deltoid]
-  stabilizer: [levator-scapulae, trapezius]
-  synergist: [deltoid, pectoralis-major, serratus-anterior, supraspinatus, trapezius, triceps-brachii]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: [pectoralis-minor]
-variations: [body_weight/hand-stand-push-up, dumbbell/alternating-arm-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-maximus, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [serratus-anterior, trapezius, pectoralis-major]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, teres-major]
+variations: [kettlebell/alternating-arm-press, kettlebell/seesaw-press, kettlebell/seated-press, dumbbell/shoulder-press, barbell/overhead-press]
 ---
 The double press is a kettlebell shoulder press done with two kettlebells at once. The shoulders (deltoids) do most of the pushing, with the triceps and upper back helping and the trunk holding you steady.
 

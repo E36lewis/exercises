@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: cardio
 example: body_weight/squat_jack
 muscles:
-  target: [adductor-muscle-group, flexor-digitorum-longus, flexor-hallucis-longus, gluteus-maximus, gluteus-medius, gluteus-minimus, gracilis, pectineus, plantaris, sartorius, soleus, tensor-fasciae-latae, tibialis-posterior, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [adductor-muscle-group, biceps-brachii, coracobrachialis, deltoid, pectineus, pectoralis-major, psoas-major, rectus-femoris, sartorius, supraspinatus, tensor-fasciae-latae, vasti-group]
-  dynamic: [adductor-muscle-group, gluteus-maximus, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [adductor-muscle-group, gastrocnemius, gluteus-maximus, gluteus-medius, soleus, vasti-group]
+  synergist: [deltoid, gluteus-minimus, gracilis, pectineus, plantaris, tensor-fasciae-latae, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/jump-squat, body_weight/rock-star-jump, body_weight/frog-leap]
 ---
 The squat jack is a body-weight cardio exercise that mixes a jumping jack with a squat. You jump your feet wide into a squat and then back together. It raises your heart rate and works the thighs, glutes, inner thighs and calves.
 
@@ -23,7 +23,7 @@ The squat jack is a body-weight cardio exercise that mixes a jumping jack with a
 5. Land softly each time, then repeat at a steady pace.
 6. Stop when your form slips.
 
-**Tips:** Land on the balls of your feet with soft knees, and do not let your knees drift inward. Keep your chest lifted. Replace the jump with a step side to side if jumping bothers your joints.
+**Tips:** Land on the balls of your feet with soft knees, and do not let your knees drift inward. Keep your chest lifted. Replace the jump with a step side to side if jumping bothers your joints. Try 3 to 5 sets of 20 to 30 seconds, resting 30 to 45 seconds.
 
 ### In daily life
 Quick, repeated leg work like this prepares you for sprinting to catch a train or hurrying up a flight of stairs.

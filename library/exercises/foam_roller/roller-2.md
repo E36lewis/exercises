@@ -2,15 +2,15 @@
 id: fec12242-6cfd-4f23-916d-e28de77e0074
 name: roller
 equipment: foam roller
-region: Multi Region
+region: Thorax
 type: stretch
 muscles:
-  target: [iliocostalis-portion, latissimus-dorsi, longissimus-portion, spinalis-portion]
-  stabilizer: []
-  synergist: []
+  target: [iliocostalis-portion, longissimus-portion, spinalis-portion, latissimus-dorsi]
+  stabilizer: [transversus-abdominis, gluteus-maximus]
+  synergist: [teres-major]
   dynamic: []
   antagonist: []
-variations: []
+variations: [foam_roller/roller, foam_roller/thoracic-extension-over-foam-roller]
 ---
 This is a foam roller drill that uses your body weight. It targets the long muscles beside your spine and the lats (latissimus dorsi), the broad muscles that run from the mid-back up to the arm. It can help release tension, but it is not a strength exercise.
 

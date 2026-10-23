@@ -2,16 +2,16 @@
 id: 9b7bd998-0393-49b3-b45f-53410a164f62
 name: overhead press
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: barbell/overhead_press
 muscles:
-  target: [deltoid, trapezius, triceps-brachii]
-  stabilizer: [external-and-internal-obliques, gluteus-maximus, iliocostalis-portion, longissimus-portion, quadratus-lumborum, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  synergist: [infrapinatus, levator-scapulae, pectoralis-major, rhomboids, subscapularis, supraspinatus, teres-minor]
-  dynamic: [deltoid, serratus-anterior, trapezius, triceps-brachii]
-  antagonist: [biceps-brachii, latissimus-dorsi, pectoralis-major]
-variations: [dumbbell/arnold-press, kettlebell/alternating-arm-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [gluteus-maximus, rectus-abdominis, quadratus-lumborum, infrapinatus, subscapularis, teres-minor, external-and-internal-obliques, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [trapezius, serratus-anterior, pectoralis-major, supraspinatus]
+  dynamic: [triceps-brachii]
+  antagonist: [latissimus-dorsi, teres-major, biceps-brachii]
+variations: [barbell/overhead-push-press, barbell/seated-shoulder-press, dumbbell/arnold-press, dumbbell/shoulder-press, kettlebell/alternating-arm-press]
 ---
 A standing barbell lift where you press the bar from your shoulders to overhead. It works the deltoids (shoulders), triceps and upper back, and your abdomen and glutes keep your trunk upright.
 

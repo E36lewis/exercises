@@ -7,11 +7,11 @@ type: weight
 example: body_weight/single_leg_romanian_deadlift
 muscles:
   target: [gluteus-maximus, hamstrings]
-  stabilizer: [external-and-internal-obliques, gemellus-inferior, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, obturator-externus, obturator-internus, quadratus-lumborum, rectus-femoris, spinalis-portion, vasti-group]
   synergist: [adductor-muscle-group]
+  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion, vasti-group]
   dynamic: []
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [barbell/romanian-deadlift]
+  antagonist: [iliacus, psoas-major]
+variations: [barbell/romanian-deadlift, dumbbell/single-leg-deadlift, dumbbell/romanian-deadlift, kettlebell/single-leg-deadlift, bosu_ball/single-leg-deadlift]
 ---
 This is a one-leg hip hinge using only your body weight. It works the glutes and hamstrings, and the hips and core keep you balanced.
 

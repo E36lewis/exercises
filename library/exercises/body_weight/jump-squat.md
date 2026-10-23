@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: cardio
 example: body_weight/jump_squat
 muscles:
-  target: [fibularis-brevis, fibularis-longus, gastrocnemius, plantaris, rectus-femoris, soleus, tibialis-posterior, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [adductor-muscle-group, biceps-brachii, coracobrachialis, deltoid, gluteus-maximus, pectoralis-major, rectus-femoris, sartorius, tensor-fasciae-latae, vasti-group]
-  dynamic: [adductor-muscle-group, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [body_weight/frog-leap, body_weight/high-knees, body_weight/reach-jump, body_weight/rock-star-jump]
+  target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]
+  synergist: [adductor-muscle-group, deltoid, fibularis-brevis, fibularis-longus, plantaris, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/frog-leap, body_weight/high-knees, body_weight/reach-jump, body_weight/rock-star-jump, body_weight/squat-jack, body_weight/countermovement-jump, body_weight/tuck-jump, plyo_box/box-jump]
 ---
 The jump squat is a bodyweight squat followed by an explosive jump. The quick push from your thighs, glutes and calves trains power and speed, and the soft landing trains control.
 
@@ -23,7 +23,7 @@ The jump squat is a bodyweight squat followed by an explosive jump. The quick pu
 5. Land softly on the balls of your feet, then straight into the next squat.
 6. Reset your posture and repeat.
 
-**Tips:** Land quietly, and bend your knees as you land. Keep your knees in line with your toes. Skip this if your knees are sore.
+**Tips:** Land quietly, and bend your knees as you land. Keep your knees in line with your toes. Skip this if your knees are sore. Try 3 to 5 sets of 6 to 10 jumps, resting 60 to 90 seconds so that every jump stays crisp.
 
 ### In daily life
 Hopping up onto a kerb or jumping to reach something overhead uses the same quick push from squat to flight.

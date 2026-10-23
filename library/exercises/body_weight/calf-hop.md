@@ -5,12 +5,12 @@ equipment: body weight
 region: Knee & Lower Leg
 type: cardio
 muscles:
-  target: [gastrocnemius, plantaris, soleus, tibialis-posterior]
-  stabilizer: []
-  synergist: []
-  dynamic: [adductor-muscle-group, gracilis, hamstrings, rectus-femoris, sartorius, vasti-group]
-  antagonist: []
-variations: []
+  target: [fibularis-longus, soleus, tibialis-posterior]
+  synergist: [fibularis-brevis, flexor-digitorum-longus, flexor-hallucis-longus]
+  stabilizer: [gluteus-medius, transversus-abdominis, vasti-group]
+  dynamic: [gastrocnemius, plantaris]
+  antagonist: [tibialis-anterior]
+variations: [jump_rope/jump-rope, jump_rope/single-leg-jump-rope, body_weight/tire-hop]
 ---
 The calf hop is a small, quick hop that comes mainly from the ankles, with little bend at the knees or hips. It works the calves and the small muscles of the foot, and it lifts your heart rate.
 
@@ -22,7 +22,7 @@ The calf hop is a small, quick hop that comes mainly from the ankles, with littl
 5. Keep your steps small and quick, like skipping rope without the rope.
 6. Continue for a set time, then rest.
 
-**Tips:** Hop low and quickly. Land softly and stay on the balls of your feet. Build up slowly and stop if you feel pain in your calves or Achilles tendon.
+**Tips:** Hop low and quickly. Land softly and stay on the balls of your feet. Build up slowly and stop if you feel pain in your calves or Achilles tendon. Try 3 to 5 sets of 20 to 30 hops, resting 30 to 60 seconds, or 20 seconds of hops with 10 seconds of rest.
 
 ### In daily life
 It trains the springy ankle that helps you hurry across a street or hop over a puddle.

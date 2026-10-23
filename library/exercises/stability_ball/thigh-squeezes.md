@@ -5,12 +5,12 @@ equipment: stability ball
 region: Hip & Thigh
 type: weight
 muscles:
-  target: [adductor-muscle-group]
-  stabilizer: []
-  synergist: [gluteus-maximus, gluteus-medius, gluteus-minimus, piriformis, rectus-femoris, tensor-fasciae-latae, vasti-group]
-  dynamic: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  antagonist: [iliacus, psoas-major, rectus-femoris, tensor-fasciae-latae]
-variations: []
+  target: [adductor-muscle-group, pectineus]
+  stabilizer: [transversus-abdominis, rectus-abdominis, external-and-internal-obliques]
+  synergist: []
+  dynamic: [gracilis]
+  antagonist: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae]
+variations: [resistance_band/hip-adduction, body_weight/copenhagen-plank]
 ---
 Thigh squeezes use a stability ball held between your knees to work the adductors, the inner-thigh muscles that pull your legs together. It is a gentle, low-impact way to wake up the muscles that steady your hips and knees.
 

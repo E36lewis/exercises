@@ -5,12 +5,12 @@ equipment: body weight
 region: Thorax
 type: weight
 muscles:
-  target: [anconeus, deltoid, pectoralis-major, triceps-brachii]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, external-and-internal-obliques, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digiti-minimi-brevis, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, pectoralis-minor, rectus-abdominis, rectus-femoris, serratus-anterior, vasti-group]
-  synergist: [deltoid, pectoralis-major, triceps-brachii]
+  target: [deltoid, pectoralis-major, triceps-brachii]
+  synergist: [anconeus, pectoralis-minor, serratus-anterior]
+  stabilizer: [dorsal-interossei-hand, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digitorum, external-and-internal-obliques, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, lumbricals-hand, palmar-interossei, rectus-abdominis, rectus-femoris, transversus-abdominis, vasti-group]
   dynamic: [biceps-brachii]
-  antagonist: [iliocostalis-portion, longissimus-portion]
-variations: [barbell/bench-press, body_weight/push-up, body_weight/side-push-up, dumbbell/flye, kettlebell/alternating-pushup-row]
+  antagonist: [rhomboids]
+variations: [barbell/bench-press, body_weight/push-up, body_weight/side-push-up, body_weight/incline-push-up, body_weight/archer-push-up, body_weight/plyo-push-up, kettlebell/alternating-pushup-row]
 ---
 A push-up on your fingertips instead of your palms. It works the chest, front of the shoulders and triceps like a normal push-up, and it adds a load for the muscles of your fingers and forearms that hold your hand in a claw.
 

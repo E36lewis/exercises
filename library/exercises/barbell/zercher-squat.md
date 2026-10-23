@@ -2,16 +2,16 @@
 id: 417c5573-6bb6-42ee-98b4-6d1683be73e6
 name: zercher squat
 equipment: barbell
-region: Multi Region
+region: "Hip & Thigh"
 type: weight
 example: barbell/zercher_squat
 muscles:
-  target: [gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-maximus, gluteus-minimus, rectus-abdominis, transversus-abdominis]
-  synergist: [adductor-muscle-group, iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion]
-  dynamic: [fibularis-brevis, fibularis-longus, gastrocnemius, soleus]
+  target: [gluteus-maximus, rectus-femoris, vasti-group]
+  stabilizer: [trapezius, rhomboids, rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, hamstrings, gluteus-medius, soleus, biceps-brachii]
+  dynamic: [gastrocnemius, hamstrings]
   antagonist: [iliacus, psoas-major]
-variations: [barbell/hack-squat, barbell/squat]
+variations: [barbell/box-squat, barbell/front-squat, barbell/hack-squat, barbell/squat]
 ---
 The Zercher squat is a barbell squat in which the bar sits in the crooks of your elbows, in front of your body. This front load pulls your torso forward, so the upper back and trunk work hard to stay upright. It trains the thighs, glutes and hamstrings, along with the core and upper back.
 

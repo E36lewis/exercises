@@ -5,12 +5,12 @@ equipment: body weight
 region: Hip & Thigh
 type: weight
 muscles:
-  target: [vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion, tibialis-anterior]
-  synergist: [adductor-muscle-group, gluteus-maximus, soleus]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: []
-variations: [body_weight/reverse-lunge]
+  target: [gluteus-maximus, vasti-group]
+  synergist: [adductor-muscle-group, gluteus-medius, soleus]
+  stabilizer: [external-and-internal-obliques, gluteus-minimus, iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion, transversus-abdominis]
+  dynamic: [gastrocnemius, hamstrings, rectus-femoris]
+  antagonist: [iliacus, psoas-major]
+variations: [body_weight/reverse-lunge, body_weight/lunge, body_weight/curtsy-lunge, dumbbell/lunge]
 ---
 The walking lunge is a body-weight exercise in which you step forward into a lunge, then keep going by stepping through with the other leg. It mainly works the quadriceps (the vasti group), with the glutes, adductors and calves helping.
 

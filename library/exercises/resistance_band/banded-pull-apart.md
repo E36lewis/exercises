@@ -2,15 +2,15 @@
 id: cf517117-977f-4123-81d7-87b253441014
 name: banded pull apart
 equipment: resistance band
-region: "Abdomen, Lower Back, & Pelvis"
+region: Shoulder & Upper Arm
 type: weight
 muscles:
-  target: [deltoid]
-  stabilizer: [deltoid, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, iliocostalis-portion, longissimus-portion, rhomboids, spinalis-portion, trapezius, triceps-brachii]
-  synergist: [deltoid, infrapinatus, rhomboids, teres-minor, trapezius]
+  target: [deltoid, rhomboids, trapezius]
+  stabilizer: [supraspinatus, subscapularis, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [infrapinatus, teres-minor]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [pectoralis-major]
+variations: [dumbbell/reverse-flye, resistance_band/band-shoulder-dislocate, resistance_band/band-draw-hold, cable/cable-face-pull]
 ---
 The banded pull apart is a band exercise for the upper back and rear shoulders. You hold a resistance band in front of you and pull it apart by moving your hands out to the sides. The rear deltoids, rhomboids and middle trapezius do most of the work, with the rotator cuff helping.
 

@@ -2,16 +2,16 @@
 id: 44bbdb34-c457-4f26-9e68-1083fd567cd3
 name: pushup feet on bosu ball
 equipment: bosu ball
-region: Shoulder & Upper Arm
+region: Thorax
 type: weight
 example: bosu_ball/pushup_feet
 muscles:
-  target: [deltoid, pectoralis-major, triceps-brachii]
-  stabilizer: [brachioradialis, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, flexor-carpi-radialis, flexor-digitorum-superficialis, pronator-teres, rhomboids, trapezius]
-  synergist: [biceps-brachii, brachioradialis, flexor-digitorum-superficialis, rectus-femoris, serratus-anterior, vasti-group]
-  dynamic: [external-and-internal-obliques, iliocostalis-portion, infrapinatus, longissimus-portion, spinalis-portion, subscapularis, supraspinatus, teres-minor, transversus-abdominis]
+  target: [pectoralis-major, deltoid, triceps-brachii]
+  stabilizer: [rectus-abdominis, transversus-abdominis, external-and-internal-obliques, supraspinatus, infrapinatus, teres-minor, subscapularis, rhomboids, trapezius, vasti-group, rectus-femoris]
+  synergist: [serratus-anterior, anconeus]
+  dynamic: [biceps-brachii]
   antagonist: [latissimus-dorsi]
-variations: [bosu_ball/pushup-hands-on-bosu-ball]
+variations: [bosu_ball/pushup-hands-on-bosu-ball, body_weight/push-up, stability_ball/push-up-hands-on-ball]
 ---
 A push-up with your feet on a Bosu ball (a half-dome balance trainer) and your hands on the floor. It works the chest, shoulders and triceps, while your core and legs balance on the wobbly dome. With your feet raised, more of your weight rests on your shoulders.
 

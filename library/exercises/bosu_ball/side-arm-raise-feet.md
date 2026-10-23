@@ -7,12 +7,12 @@ type: weight
 example: bosu_ball/side_arm_raise_hands
 other_examples: [bosu_ball/side_arm_raise_feet]
 muscles:
-  target: [deltoid, trapezius]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, infrapinatus, longissimus-portion, rhomboids, spinalis-portion, subscapularis, teres-minor, transversus-abdominis]
-  synergist: [serratus-anterior, supraspinatus]
+  target: [deltoid, supraspinatus]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, fibularis-brevis, fibularis-longus, tibialis-anterior, gluteus-medius, infrapinatus, teres-minor, subscapularis, rhomboids]
+  synergist: [trapezius, serratus-anterior]
   dynamic: []
-  antagonist: [latissimus-dorsi]
-variations: []
+  antagonist: [latissimus-dorsi, teres-major]
+variations: [dumbbell/lateral-raise, dumbbell/single-arm-lateral-raise]
 ---
 This is a lateral raise done while standing on a Bosu ball. You lift your arms out to the sides to shoulder height. It works the shoulders (deltoids) and upper trapezius, while your core and legs work to keep you balanced on the unsteady surface.
 

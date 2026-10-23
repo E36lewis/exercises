@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/arm_circles
 muscles:
   target: [deltoid]
-  stabilizer: [infrapinatus, teres-major, teres-minor]
-  synergist: [deltoid]
+  synergist: [serratus-anterior, supraspinatus, trapezius]
+  stabilizer: [infrapinatus, subscapularis, teres-minor]
   dynamic: []
   antagonist: []
-variations: [body_weight/back-to-front-swing, body_weight/single-arm-swing]
+variations: [body_weight/back-to-front-swing, body_weight/single-arm-swing, body_weight/alternation-swing-raise, body_weight/wrist-circles, body_weight/hip-circles]
 ---
 Arm circles are a simple mobility drill in which you draw circles in the air with your outstretched arms. They warm up the shoulder joint and the muscles around the shoulder blades, led by the deltoids.
 

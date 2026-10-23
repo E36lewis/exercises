@@ -7,11 +7,11 @@ type: weight
 example: body_weight/tri_dip
 muscles:
   target: [triceps-brachii]
-  stabilizer: [trapezius]
-  synergist: [deltoid, latissimus-dorsi, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids]
-  dynamic: [biceps-brachii]
-  antagonist: []
-variations: []
+  synergist: [deltoid, latissimus-dorsi, pectoralis-major, pectoralis-minor]
+  stabilizer: [levator-scapulae, rhomboids, serratus-anterior, trapezius]
+  dynamic: []
+  antagonist: [biceps-brachii]
+variations: [dip_bars/tri-dip-handle, stability_ball/tricep-dip]
 ---
 The body-weight tricep dip, often called a bench dip, uses a bench or sturdy chair behind you. You lower and raise your body with your arms, which mainly works the triceps. The chest and shoulders assist.
 

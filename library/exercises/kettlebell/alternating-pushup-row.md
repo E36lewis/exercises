@@ -2,15 +2,15 @@
 id: 250514ec-dc1c-41aa-9198-206200c0e888
 name: alternating pushup row
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Thorax
 type: weight
 muscles:
-  target: [latissimus-dorsi, pectoralis-major]
-  stabilizer: [pectoralis-minor, rectus-femoris, serratus-anterior, vasti-group]
-  synergist: [biceps-brachii, brachialis, brachioradialis, deltoid, infrapinatus, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids, teres-minor, trapezius, triceps-brachii]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [body_weight/push-up]
+  target: [pectoralis-major, latissimus-dorsi, triceps-brachii]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, rectus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-maximus, vasti-group, supraspinatus, infrapinatus, teres-minor, subscapularis]
+  synergist: [deltoid, rhomboids, trapezius, teres-major, serratus-anterior]
+  dynamic: [biceps-brachii]
+  antagonist: []
+variations: [body_weight/push-up, dumbbell/renegade-row, kettlebell/single-arm-bent-over-row]
 ---
 This combines a push-up with a row. You do a push-up with your hands on two kettlebells, then row one bell up toward your ribs. It works the chest, back, arms and core, and the anti-twist demand on your trunk is high.
 

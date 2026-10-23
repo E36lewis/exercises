@@ -6,11 +6,11 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
   target: [external-and-internal-obliques]
-  stabilizer: [external-and-internal-obliques, gracilis, pectineus, pectoralis-major, rectus-abdominis, rectus-femoris, rhomboids, sartorius, trapezius, triceps-brachii, vasti-group]
-  synergist: [iliocostalis-portion, longissimus-portion, psoas-major, quadratus-lumborum]
-  dynamic: [deltoid]
+  stabilizer: [multifidus, quadratus-lumborum, gluteus-maximus, gluteus-medius, transversus-abdominis]
+  synergist: [deltoid, trapezius, rectus-abdominis]
+  dynamic: [hamstrings]
   antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: []
+variations: [kettlebell/kettlebell-swing, kettlebell/single-arm-swing, hammer/wood-choppers, cable/cable-chop, dumbbell/woodchop]
 ---
 A kettlebell exercise where you swing the weight in a diagonal arc from one hip toward the opposite side. It works the obliques, the muscles along the spine and the hips as they control the rotation.
 

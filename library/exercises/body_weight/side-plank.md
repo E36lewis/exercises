@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: body_weight/side_plank
 muscles:
-  target: [external-and-internal-obliques]
-  stabilizer: [adductor-muscle-group, gluteus-maximus, gluteus-medius, gluteus-minimus, gracilis, iliocostalis-portion, latissimus-dorsi, levator-scapulae, pectineus, pectoralis-major, psoas-major, rectus-abdominis, tensor-fasciae-latae]
-  synergist: [quadratus-lumborum]
+  target: [external-and-internal-obliques, quadratus-lumborum]
+  synergist: [adductor-muscle-group, gluteus-medius, gluteus-minimus, tensor-fasciae-latae]
+  stabilizer: [deltoid, gluteus-maximus, rectus-abdominis, serratus-anterior, transversus-abdominis]
   dynamic: []
   antagonist: []
-variations: [body_weight/bird-dog, resistance_band/band-plank-march, stability_ball/stability-ball-front-plank]
+variations: [body_weight/plank, body_weight/copenhagen-plank, stability_ball/side-plank]
 ---
 This is a no-equipment hold on one forearm and the side of your foot. It works the obliques and the deep side of your trunk, and your glutes and hip muscles keep your hips lifted.
 

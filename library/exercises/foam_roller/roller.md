@@ -2,19 +2,19 @@
 id: b6f07a52-e108-410b-a23d-ee1d90154c5a
 name: roller
 equipment: foam roller
-region: "Abdomen, Lower Back, & Pelvis"
+region: Thorax
 type: stretch
 retired: 2026-10-20
 example: body_weight/roller
 muscles:
-  target: [iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion]
-  stabilizer: []
-  synergist: []
+  target: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+  stabilizer: [transversus-abdominis, gluteus-maximus]
+  synergist: [trapezius]
   dynamic: []
   antagonist: []
-variations: []
+variations: [foam_roller/roller-2, foam_roller/thoracic-extension-over-foam-roller]
 ---
-This is a self-massage and mobility drill. You lie on a foam roller and use your body weight to press the muscles along your spine, including the deep lower-back muscle (quadratus lumborum). It is a gentle way to work out tight spots, not a strength exercise.
+This is a self-massage and mobility drill. You lie on a foam roller and use your body weight to press the muscles along your spine, including the erector spinae (the long muscles beside your spine). It is a gentle way to work out tight spots, not a strength exercise.
 
 ### How to do it
 1. Place a foam roller on the floor and sit in front of it.

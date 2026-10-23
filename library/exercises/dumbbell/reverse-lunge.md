@@ -2,17 +2,17 @@
 id: 0d2a7c16-2ccb-4f33-8ef7-6a3dcdce6e4f
 name: reverse lunge
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: kettlebell/reverse_lunge
 other_examples: [dumbbell/reverse_lunge, kettlebellalt/reverse_lunge]
 muscles:
-  target: [gluteus-maximus, rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  synergist: [adductor-muscle-group]
-  dynamic: [gastrocnemius, hamstrings, soleus]
+  target: [rectus-femoris, vasti-group, gluteus-maximus]
+  stabilizer: [gluteus-minimus, rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, hamstrings, soleus, gluteus-medius]
+  dynamic: [gastrocnemius, hamstrings]
   antagonist: [iliacus, psoas-major]
-variations: [dumbbell/lunge, kettlebell/side-lunge]
+variations: [barbell/reverse-lunge, body_weight/reverse-lunge, dumbbell/lunge, kettlebell/side-lunge, slide_board/slide-board-reverse-lunge]
 ---
 A lunge where you step backward while holding a dumbbell in each hand. It works the thighs (quadriceps) and glutes, with the hamstrings and calves helping, and your core holds you upright.
 

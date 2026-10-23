@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: stretch
 example: body_weight/cat_stretch
 muscles:
-  target: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  stabilizer: []
-  synergist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  dynamic: [external-and-internal-obliques, rectus-abdominis, rhomboids]
+  target: [iliocostalis-portion, longissimus-portion, multifidus, spinalis-portion]
+  synergist: [external-and-internal-obliques, rectus-abdominis, rhomboids]
+  stabilizer: [deltoid, serratus-anterior, transversus-abdominis, triceps-brachii]
+  dynamic: []
   antagonist: []
-variations: []
+variations: [body_weight/bird-dog, body_weight/open-book, body_weight/thread-the-needle]
 ---
 The cat stretch is a gentle spine mobility exercise on hands and knees. You move your back from rounded to arched, which moves each part of the spine through its range.
 

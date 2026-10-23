@@ -2,15 +2,15 @@
 id: 820029d9-91ae-429e-b0a5-f5b6c0a86a22
 name: drag curl
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 muscles:
   target: [biceps-brachii]
-  stabilizer: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, trapezius]
-  synergist: [brachioradialis]
-  dynamic: [biceps-brachii, brachialis]
+  stabilizer: [trapezius, deltoid, flexor-carpi-radialis, flexor-carpi-ulnaris, external-and-internal-obliques, transversus-abdominis]
+  synergist: [brachialis, brachioradialis]
+  dynamic: [biceps-brachii]
   antagonist: [triceps-brachii]
-variations: [barbell/bicep-curl]
+variations: [barbell/bicep-curl, barbell/reverse-bicep-curl]
 ---
 The drag curl is a barbell biceps curl in which the bar slides up along your body while your elbows move back. It works the biceps, with the forearm muscles helping you hold on.
 

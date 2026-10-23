@@ -2,16 +2,16 @@
 id: 8c298ab6-f09a-4831-88d0-f152b55a0f7a
 name: seated shoulder press
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: barbell/seated_shoulder_press
 muscles:
-  target: [deltoid]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rhomboids, spinalis-portion, transversus-abdominis]
-  synergist: [infrapinatus, serratus-anterior, subscapularis, supraspinatus, teres-minor]
-  dynamic: [levator-scapulae, trapezius, triceps-brachii]
-  antagonist: [biceps-brachii]
-variations: [barbell/overhead-press, barbell/overhead-push-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [infrapinatus, subscapularis, teres-minor, rhomboids, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [trapezius, serratus-anterior, pectoralis-major, supraspinatus]
+  dynamic: [triceps-brachii]
+  antagonist: [latissimus-dorsi, biceps-brachii]
+variations: [barbell/overhead-press, barbell/overhead-push-press, dumbbell/shoulder-press, kettlebell/seated-press]
 ---
 This is an overhead press with a barbell, done sitting down on a bench with back support. You press the bar from upper-chest height until your arms are straight. It mainly works the shoulders (deltoids), with the triceps, upper back and core helping.
 

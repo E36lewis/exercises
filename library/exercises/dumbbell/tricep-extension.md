@@ -2,17 +2,17 @@
 id: b702d2cc-d8ce-46b0-9a22-641285d20ee5
 name: tricep extension
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/tricep_extension
 other_examples: [kettlebell/tricep_extension, kettlebellalt/tricep_extension]
 muscles:
   target: [triceps-brachii]
-  stabilizer: [external-and-internal-obliques, rectus-abdominis, transversus-abdominis]
-  synergist: [brachialis, brachioradialis, deltoid]
-  dynamic: [anconeus]
+  stabilizer: [deltoid, supraspinatus, infrapinatus, subscapularis, teres-minor, rectus-abdominis, transversus-abdominis, external-and-internal-obliques]
+  synergist: [anconeus]
+  dynamic: [triceps-brachii]
   antagonist: [biceps-brachii]
-variations: [dumbbell/single-arm-extension, dumbbell/skull-crusher]
+variations: [barbell/skull-crusher, dumbbell/single-arm-extension, dumbbell/skull-crusher]
 ---
 The dumbbell triceps extension isolates the triceps, the muscle on the back of the upper arm that straightens the elbow. This version is done overhead with both hands holding one dumbbell, which also stretches the long head of the triceps.
 

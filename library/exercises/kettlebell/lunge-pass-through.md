@@ -2,15 +2,15 @@
 id: 0ecea024-09fc-40fa-af44-f47754ddbe8e
 name: lunge pass through
 equipment: kettlebell
-region: Multi Region
+region: Hip & Thigh
 type: weight
 muscles:
-  target: [external-and-internal-obliques, gracilis, rectus-femoris, tensor-fasciae-latae, vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, quadratus-lumborum, rectus-abdominis, tibialis-anterior]
-  synergist: [adductor-muscle-group, deltoid, gluteus-maximus, soleus]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: [body_weight/reverse-lunge, hammer/lunge-with-twist, kettlebell/side-lunge]
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, quadratus-lumborum, fibularis-brevis, fibularis-longus]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [body_weight/lunge, dumbbell/lunge, body_weight/reverse-lunge, hammer/lunge-with-twist, kettlebell/side-lunge]
 ---
 A lunge with a kettlebell that you pass from hand to hand under your front thigh. The legs and glutes do the lunge, while the obliques and hips control your trunk as the weight moves across.
 

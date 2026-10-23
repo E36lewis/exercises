@@ -2,17 +2,17 @@
 id: abc9736d-faae-493f-844a-c46c4be7c440
 name: reverse flye
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/reverse_flye
 other_examples: [kettlebell/reverse_flye, kettlebellalt/reverse_flye]
 muscles:
   target: [deltoid]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, levator-scapulae]
-  synergist: [deltoid, rhomboids, supraspinatus, trapezius]
+  stabilizer: [levator-scapulae, supraspinatus, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [rhomboids, trapezius, infrapinatus, teres-minor, teres-major]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [pectoralis-major, pectoralis-minor]
+variations: [barbell/rear-delt-row, dumbbell/incline-row]
 ---
 A dumbbell exercise where you lift your arms out to the sides while bent forward. It works the rear of the shoulders (rear deltoids) and the upper back, mainly the rhomboids and middle trapezius.
 

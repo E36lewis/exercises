@@ -6,11 +6,11 @@ region: Hip & Thigh
 type: weight
 muscles:
   target: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae]
-  stabilizer: [gemellus-inferior, gemellus-superior, obturator-internus, piriformis, sartorius]
-  synergist: [gluteus-maximus, piriformis, sartorius]
-  dynamic: []
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis, quadratus-lumborum, external-and-internal-obliques, fibularis-brevis, fibularis-longus, tibialis-anterior]
+  synergist: [gluteus-maximus, piriformis, vasti-group]
+  dynamic: [sartorius]
+  antagonist: [adductor-muscle-group]
+variations: [resistance_band/hip-abduction, resistance_band/clam, resistance_band/lateral-single-leg-hop, body_weight/lateral-shuffle]
 ---
 A sideways walk with a resistance band around your legs. It works the muscles on the outside of the hip that move your leg away from the midline (gluteus medius and minimus, and the tensor fasciae latae), with the glutes and hip rotators helping.
 

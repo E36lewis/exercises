@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: stretch
 example: body_weight/side_lean
 muscles:
-  target: [deltoid, external-and-internal-obliques, latissimus-dorsi, levator-scapulae, pectoralis-major, quadratus-lumborum, serratus-anterior, teres-major, teres-minor, trapezius, triceps-brachii]
-  stabilizer: []
-  synergist: []
-  dynamic: [levator-scapulae, rhomboids, serratus-anterior, trapezius]
+  target: [external-and-internal-obliques, latissimus-dorsi, quadratus-lumborum, teres-major]
+  synergist: [external-intercostals, internal-intercostals, serratus-anterior, triceps-brachii]
+  stabilizer: [deltoid, gluteus-medius, trapezius]
+  dynamic: []
   antagonist: []
-variations: []
+variations: [body_weight/lat-stretch, body_weight/open-book, dumbbell/dumbbell-side-bend]
 ---
 This is a standing stretch using your body weight. You raise one arm overhead and bend your trunk to the opposite side. It opens the side of your body, especially the lat (latissimus dorsi) and the muscles around your shoulder blade and arm.
 

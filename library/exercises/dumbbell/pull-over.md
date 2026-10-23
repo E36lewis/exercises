@@ -2,17 +2,17 @@
 id: 4bd0603a-8700-4288-bed8-991a2046bc94
 name: pull over
 equipment: dumbbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Thorax"
 type: weight
 example: dumbbell/pull_over
 other_examples: [dumbbell/incline_pull_over]
 muscles:
   target: [latissimus-dorsi]
-  stabilizer: [infrapinatus, rhomboids, subscapularis, supraspinatus, teres-minor]
-  synergist: [pectoralis-major, triceps-brachii]
-  dynamic: []
-  antagonist: [biceps-brachii]
-variations: []
+  stabilizer: [serratus-anterior, rhomboids, infrapinatus, supraspinatus, subscapularis, teres-minor, rectus-abdominis, transversus-abdominis]
+  synergist: [pectoralis-major, teres-major, triceps-brachii]
+  dynamic: [triceps-brachii]
+  antagonist: [deltoid]
+variations: [kettlebell/pull-over]
 ---
 A dumbbell exercise lying on a bench, arcing the weight from over your chest to behind your head and back. It works the latissimus dorsi (the large muscles of your back), with the triceps and chest muscles helping.
 

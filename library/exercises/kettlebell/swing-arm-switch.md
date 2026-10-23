@@ -2,15 +2,15 @@
 id: 962518ad-3c78-4ca5-88d8-1aed00127aa4
 name: swing arm switch
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Hip & Thigh
 type: weight
 muscles:
-  target: [adductor-muscle-group, coracobrachialis, deltoid, gluteus-maximus, hamstrings, rectus-femoris, rhomboids, supraspinatus, vasti-group]
-  stabilizer: [biceps-brachii, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, external-and-internal-obliques, rectus-abdominis, triceps-brachii]
-  synergist: [adductor-muscle-group, coracobrachialis, deltoid, gluteus-maximus, hamstrings, rectus-femoris, supraspinatus, vasti-group]
-  dynamic: [latissimus-dorsi, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids, serratus-anterior]
-  antagonist: [iliocostalis-portion, longissimus-portion, multifidus, psoas-major, spinalis-portion, trapezius]
-variations: []
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, multifidus, quadratus-lumborum, gluteus-medius, trapezius, rhomboids, latissimus-dorsi, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [adductor-muscle-group, vasti-group, deltoid]
+  dynamic: [gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [kettlebell/kettlebell-swing, kettlebell/single-arm-swing, kettlebell/pirate-swing]
 ---
 The kettlebell swing with an arm switch is a hip-driven swing where you pass the bell from one hand to the other at the top. The hips, glutes and hamstrings generate the swing. The shoulders and grip control the switch.
 

@@ -2,16 +2,16 @@
 id: 6757fc5d-5332-4ef3-a204-aa1c16a0a91a
 name: row
 equipment: dumbbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Thorax"
 type: weight
 example: kettlebell/one_arm_bent_row
 muscles:
-  target: [deltoid, latissimus-dorsi, levator-scapulae, rhomboids, teres-major]
-  stabilizer: []
-  synergist: [brachialis, brachioradialis, deltoid, infrapinatus, latissimus-dorsi, pectoralis-major, rhomboids, teres-major, teres-minor, trapezius]
+  target: [latissimus-dorsi, rhomboids, trapezius, teres-major]
+  stabilizer: [gluteus-maximus, hamstrings, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [deltoid, brachialis, brachioradialis, infrapinatus, teres-minor, levator-scapulae]
   dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: []
-variations: [barbell/romanian-deadlift, dumbbell/single-arm-bent-row]
+  antagonist: [pectoralis-major]
+variations: [barbell/row, dumbbell/incline-row, dumbbell/single-arm-bent-row, kettlebell/bent-over-row-dual-weight]
 ---
 This is a bent-over pulling exercise with a dumbbell in each hand. You hinge at the hips and pull the weights towards your ribs. It mainly works the upper back (lats, rhomboids and rear shoulders), with the biceps and other arm muscles assisting.
 

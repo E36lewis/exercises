@@ -6,11 +6,11 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
   target: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  stabilizer: [adductor-muscle-group, gluteus-medius]
-  synergist: [quadratus-lumborum, transversus-abdominis]
-  dynamic: [gluteus-maximus, hamstrings]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques]
+  synergist: [gluteus-maximus, multifidus, quadratus-lumborum]
+  dynamic: [hamstrings]
   antagonist: [rectus-abdominis]
-variations: [machine/reverse-hyperextension]
+variations: [body_weight/hyperextension, machine/reverse-hyperextension, stability_ball/bird-dog, body_weight/superman, barbell/good-morning]
 ---
 The stability-ball back extension strengthens the muscles along your spine (the erector spinae), with the glutes and hamstrings helping. The ball makes the movement smooth and a little unstable, so your trunk has to stay alert.
 

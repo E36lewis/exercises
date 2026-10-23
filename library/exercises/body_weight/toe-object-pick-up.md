@@ -5,12 +5,12 @@ equipment: body weight
 region: Ankle & Foot
 type: weight
 muscles:
-  target: [adductor-muscle-group, fibularis-brevis, fibularis-longus, flexor-digitorum-brevis, flexor-digitorum-longus, flexor-hallucis-longus, quadratus-plantae, tibialis-posterior]
-  stabilizer: []
-  synergist: []
+  target: [flexor-digitorum-brevis, flexor-digitorum-longus, flexor-hallucis-brevis, flexor-hallucis-longus]
+  synergist: [abductor-hallucis, adductor-hallucis, plantar-interossei, quadratus-plantae, tibialis-posterior]
+  stabilizer: [fibularis-longus, tibialis-anterior]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [extensor-digitorum-longus, extensor-hallucis-longus]
+variations: [body_weight/short-foot, body_weight/foot-arch-roll, resistance_band/toe-flex]
 ---
 Toe object pick up is a body-weight foot exercise where you grip small objects with your toes. The muscles of the arch and the toe flexors do the gripping.
 

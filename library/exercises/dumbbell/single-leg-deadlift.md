@@ -2,17 +2,17 @@
 id: 67a700e2-39fa-4c5c-8508-b3a426f73904
 name: single leg deadlift
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: dumbbell/single_leg_deadlift
 other_examples: [kettlebellalt/single_leg_deadlift]
 muscles:
-  target: [gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings]
-  stabilizer: [iliocostalis-portion, longissimus-portion, rectus-femoris, sartorius, spinalis-portion, tensor-fasciae-latae, vasti-group]
-  synergist: []
-  dynamic: [adductor-muscle-group]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [barbell/romanian-deadlift]
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [rectus-femoris, vasti-group, sartorius, tensor-fasciae-latae, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [gluteus-medius, gluteus-minimus, adductor-muscle-group]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [iliacus, psoas-major]
+variations: [barbell/romanian-deadlift, body_weight/single-leg-romanian-deadlift, bosu_ball/single-leg-deadlift, dumbbell/romanian-deadlift, kettlebell/single-leg-deadlift]
 ---
 This is a one-leg hip hinge holding dumbbells. It works the glutes and hamstrings, and your hips and core keep you balanced.
 

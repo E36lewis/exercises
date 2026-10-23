@@ -2,15 +2,15 @@
 id: 916b0d72-a410-46ce-a528-2b51aff0a243
 name: front squat flag pole single arm
 equipment: hammer
-region: Shoulder & Upper Arm
+region: Hip & Thigh
 type: weight
 muscles:
-  target: [deltoid, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, levator-scapulae, rectus-femoris, rhomboids, vasti-group]
-  stabilizer: [deltoid, iliocostalis-portion, levator-scapulae, longissimus-portion, pectoralis-major, serratus-anterior, spinalis-portion, supraspinatus, trapezius]
-  synergist: [adductor-muscle-group, gluteus-maximus, soleus]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [body_weight/reverse-lunge, body_weight/walking-lunge]
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [deltoid, trapezius, rhomboids, serratus-anterior, transversus-abdominis, external-and-internal-obliques, quadratus-lumborum, iliocostalis-portion, longissimus-portion, spinalis-portion, flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-carpi-radialis, flexor-carpi-ulnaris]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [hammer/front-squats-flag-pole-both-arm, barbell/front-squat, kettlebell/goblet-squat]
 ---
 This is a front squat done while holding a hammer out to the side in one hand, like a flag pole. The thighs and glutes do the squat, while the shoulder, forearm and trunk fight the off-centre weight.
 

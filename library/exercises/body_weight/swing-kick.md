@@ -2,16 +2,16 @@
 id: 04dadb7e-d57a-4ad1-b632-d5acb7138260
 name: swing kick
 equipment: body weight
-region: Multi Region
+region: Hip & Thigh
 type: cardio
 example: body_weight/swing_kick
 muscles:
-  target: [adductor-muscle-group, iliacus, rectus-femoris, sartorius, vasti-group]
-  stabilizer: [gluteus-medius]
-  synergist: [adductor-muscle-group, gracilis, pectineus, rectus-femoris, sartorius, tensor-fasciae-latae]
-  dynamic: [adductor-muscle-group, gluteus-maximus, hamstrings, sartorius]
-  antagonist: []
-variations: []
+  target: [iliacus, psoas-major, sartorius]
+  synergist: [adductor-muscle-group, pectineus, tensor-fasciae-latae, vasti-group]
+  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [gluteus-maximus]
+variations: [body_weight/leg-swing-forward, body_weight/leg-swing-lateral, body_weight/ballistic-hamstring]
 ---
 The swing kick is a body-weight cardio movement where you swing one leg forward and up, then lower it under control. It works the hip flexors and the front of the thigh, with the calf and hip muscles helping you stay balanced.
 
@@ -22,7 +22,7 @@ The swing kick is a body-weight cardio movement where you swing one leg forward 
 4. Lower the leg back to the start without letting it drop.
 5. Repeat for a set, then switch legs.
 
-**Tips:** Keep your trunk upright instead of leaning back. Swing only as far as is comfortable, not past your range of motion. Hold a wall or chair if your balance wobbles.
+**Tips:** Keep your trunk upright instead of leaning back. Swing only as far as is comfortable, not past your range of motion. Hold a wall or chair if your balance wobbles. Try 2 to 3 sets of 10 to 15 swings per leg, as a warm-up or between harder sets.
 
 ### In daily life
 This swing is the leg motion of striding up a hill or kicking a ball, and it can help you step over a low fence.

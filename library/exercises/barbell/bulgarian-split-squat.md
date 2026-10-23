@@ -2,15 +2,15 @@
 id: 33fec9bb-de51-4203-ac02-460470f501dc
 name: bulgarian split squat
 equipment: barbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: barbell/bulgarian_split_squat
 muscles:
   target: [rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, multifidus, rectus-abdominis, transversus-abdominis]
-  synergist: [adductor-muscle-group, gluteus-maximus, iliocostalis-portion, longissimus-portion, quadratus-lumborum, sartorius, soleus, spinalis-portion, tensor-fasciae-latae]
+  stabilizer: [gluteus-minimus, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, quadratus-lumborum]
+  synergist: [gluteus-maximus, adductor-muscle-group, soleus, gluteus-medius]
   dynamic: [gastrocnemius, hamstrings]
-  antagonist: [fibularis-brevis, fibularis-longus, tibialis-anterior]
+  antagonist: [iliacus, psoas-major]
 variations: [body_weight/bulgarian-split-squat, dumbbell/bulgarian-split-squat]
 ---
 The barbell Bulgarian split squat is a single-leg squat with a bar on your upper back and your rear foot on a bench. It loads the thighs and glutes heavily and asks your trunk to stay steady under the bar.

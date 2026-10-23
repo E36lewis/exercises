@@ -2,17 +2,17 @@
 id: 7c03218f-6ba2-4287-8fb6-ba17182f9c9d
 name: deadlift
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: dumbbell/deadlift
 other_examples: [kettlebell/deadlift, kettlebellalt/deadlift]
 muscles:
   target: [gluteus-maximus, hamstrings]
-  stabilizer: [external-and-internal-obliques, quadratus-lumborum, rectus-abdominis, transversus-abdominis]
-  synergist: [adductor-muscle-group, fibularis-brevis, fibularis-longus, gastrocnemius, soleus]
-  dynamic: [iliocostalis-portion, longissimus-portion, rectus-femoris, spinalis-portion, vasti-group]
-  antagonist: [rectus-femoris]
-variations: [barbell/deadlift, barbell/romanian-deadlift, dumbbell/single-leg-deadlift]
+  stabilizer: [trapezius, rhomboids, quadratus-lumborum, rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [adductor-muscle-group, vasti-group, rectus-femoris, soleus, gastrocnemius]
+  dynamic: [gastrocnemius]
+  antagonist: [iliacus, psoas-major]
+variations: [barbell/deadlift, barbell/romanian-deadlift, dumbbell/romanian-deadlift, dumbbell/single-leg-deadlift, trap_bar/trap-bar-deadlift]
 ---
 The dumbbell deadlift lifts a pair of dumbbells from the floor to standing. It works the hamstrings and glutes, with the calves, inner thighs and grip helping, and the abdominal and lower back muscles keeping your trunk steady.
 

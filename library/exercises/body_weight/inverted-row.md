@@ -2,15 +2,15 @@
 id: 7e0186a3-153c-456f-bba8-43e00cda0534
 name: inverted row
 equipment: body weight
-region: "Abdomen, Lower Back, & Pelvis"
+region: Thorax
 type: weight
 muscles:
-  target: [latissimus-dorsi]
-  stabilizer: [gluteus-maximus, hamstrings, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [brachialis, brachioradialis, deltoid, latissimus-dorsi, levator-scapulae, pectoralis-major, rhomboids, teres-major, teres-minor]
+  target: [latissimus-dorsi, rhomboids, teres-major, trapezius]
+  synergist: [brachialis, brachioradialis, deltoid, infrapinatus, teres-minor]
+  stabilizer: [external-and-internal-obliques, gluteus-maximus, hamstrings, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion]
   dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  antagonist: [pectoralis-major]
+variations: [barbell/row, dumbbell/row, cable/seated-cable-row, pull_up_bar/chin-up]
 ---
 The inverted row pulls your chest up to a fixed bar while you hang beneath it, with your heels on the floor. You use your own bodyweight as the load, so it works the back and the arms, and the body stays in a plank.
 

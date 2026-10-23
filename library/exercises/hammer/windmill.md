@@ -5,12 +5,12 @@ equipment: hammer
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [biceps-brachii, brachialis, coracobrachialis, deltoid, levator-scapulae, supraspinatus, triceps-brachii]
-  stabilizer: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, infrapinatus, latissimus-dorsi, levator-scapulae, trapezius]
-  synergist: [biceps-brachii, deltoid, trapezius, triceps-brachii]
-  dynamic: [biceps-brachii, deltoid, serratus-anterior, trapezius, triceps-brachii]
-  antagonist: [iliocostalis-portion, longissimus-portion, multifidus, rhomboids, rotatores, spinalis-portion]
-variations: [kettlebell/halo]
+  target: [external-and-internal-obliques, quadratus-lumborum, gluteus-maximus]
+  stabilizer: [deltoid, supraspinatus, infrapinatus, trapezius, serratus-anterior, triceps-brachii, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [gluteus-medius, adductor-muscle-group]
+  dynamic: [hamstrings]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [kettlebell/windmill, kettlebell/halo]
 ---
 The hammer windmill is a shoulder, core and hip exercise in which you hold a light hammer or hammer-shaped weight overhead and bend sideways, sliding your free hand down your leg. It works the shoulders that hold the weight up and the trunk muscles that control the lean.
 

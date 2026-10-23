@@ -2,17 +2,17 @@
 id: bed1c06a-1f63-4542-890f-932db95b4fb3
 name: bench press
 equipment: dumbbell
-region: Thorax
+region: "Thorax"
 type: weight
 example: dumbbell/bench_press
 other_examples: [kettlebell/bench_press, kettlebellalt/bench_press]
 muscles:
   target: [pectoralis-major]
-  stabilizer: [pectoralis-minor]
-  synergist: [deltoid, pectoralis-major, triceps-brachii]
+  stabilizer: [pectoralis-minor, serratus-anterior, subscapularis, supraspinatus]
+  synergist: [deltoid, triceps-brachii]
   dynamic: [biceps-brachii]
-  antagonist: []
-variations: []
+  antagonist: [latissimus-dorsi, rhomboids]
+variations: [barbell/bench-press, dumbbell/flye, dumbbell/incline-bench-press]
 ---
 The dumbbell bench press is a pressing exercise done lying on a flat bench. It works the chest (pectoralis major), the front of the shoulders and the triceps. Dumbbells let each arm move on its own path, which also asks more of your stabilizing muscles.
 

@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: body_weight/lying_floor_leg_raise
 muscles:
-  target: [psoas-major, rectus-abdominis]
-  stabilizer: [latissimus-dorsi, pectineus, rectus-femoris, teres-major, vasti-group]
-  synergist: [adductor-muscle-group, external-and-internal-obliques, iliacus, pectineus, psoas-major, rectus-femoris, sartorius, tensor-fasciae-latae, vasti-group]
-  dynamic: [external-and-internal-obliques, rectus-femoris]
-  antagonist: []
-variations: []
+  target: [iliacus, psoas-major, rectus-abdominis]
+  synergist: [adductor-muscle-group, pectineus, sartorius, tensor-fasciae-latae]
+  stabilizer: [external-and-internal-obliques, transversus-abdominis]
+  dynamic: [rectus-femoris]
+  antagonist: [gluteus-maximus, hamstrings]
+variations: [body_weight/v-up, pull_up_bar/hanging-leg-raise, stability_ball/reverse-crunches, body_weight/flutter-kick]
 ---
 A bodyweight core exercise lying on your back and lifting your legs. The hip flexors (including the psoas) do the lifting, while the rectus abdominis holds your pelvis and lower back steady against the floor.
 

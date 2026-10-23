@@ -7,12 +7,12 @@ type: weight
 example: kettlebellalt/situp
 other_examples: [dumbbell/situp, kettlebell/situp]
 muscles:
-  target: [external-and-internal-obliques, rectus-abdominis]
-  stabilizer: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-brevis, flexor-pollicis-longus, latissimus-dorsi, levator-scapulae, pectoralis-major, trapezius]
-  synergist: []
-  dynamic: []
-  antagonist: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, quadratus-lumborum, rectus-abdominis, spinalis-portion, trapezius]
-variations: []
+  target: [rectus-abdominis, external-and-internal-obliques]
+  stabilizer: [transversus-abdominis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [psoas-major, iliacus, tensor-fasciae-latae]
+  dynamic: [rectus-femoris, sartorius]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [barbell/press-sit-up, body_weight/crunch, body_weight/v-up]
 ---
 This is a sit-up holding a kettlebell against your chest. It works the abs and obliques, and the grip and upper body help hold the weight.
 

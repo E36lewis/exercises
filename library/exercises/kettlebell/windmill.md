@@ -7,12 +7,12 @@ type: weight
 example: kettlebellalt/single_windmill
 other_examples: [dumbbell/single_bent_over_press, dumbbell/single_windmill, dumbbell/windmill, kettlebell/single_windmill, kettlebell/windmill, kettlebellalt/single_bent_over_press, kettlebellalt/windmill]
 muscles:
-  target: [adductor-muscle-group, external-and-internal-obliques, gluteus-maximus, hamstrings, quadratus-lumborum, rectus-femoris, vasti-group]
-  stabilizer: [biceps-brachii, coracobrachialis, deltoid, iliocostalis-portion, infrapinatus, latissimus-dorsi, longissimus-portion, pectoralis-major, serratus-anterior, spinalis-portion, subscapularis, supraspinatus, teres-major, teres-minor, trapezius]
-  synergist: []
-  dynamic: [abductor-pollicis-longus, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, palmaris-longus]
-  antagonist: []
-variations: []
+  target: [external-and-internal-obliques, quadratus-lumborum, gluteus-maximus]
+  stabilizer: [deltoid, supraspinatus, infrapinatus, teres-minor, subscapularis, trapezius, serratus-anterior, triceps-brachii, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [gluteus-medius, adductor-muscle-group]
+  dynamic: [hamstrings]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [hammer/windmill]
 ---
 The kettlebell windmill is a core, hip and shoulder exercise. You keep a kettlebell locked out overhead, push your hips out to the side, and slide your free hand down your leg toward the floor. It stretches the hamstrings and works the obliques, glutes and the stabilising muscles of the shoulder.
 

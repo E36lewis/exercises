@@ -5,12 +5,12 @@ equipment: body weight
 region: Multi Region
 type: cardio
 muscles:
-  target: [adductor-muscle-group, flexor-digitorum-longus, flexor-hallucis-longus, gluteus-maximus, gluteus-medius, gracilis, pectineus, psoas-major, rectus-femoris, sartorius, tibialis-posterior, vasti-group]
-  stabilizer: []
-  synergist: [adductor-muscle-group, gluteus-maximus, infrapinatus]
-  dynamic: [adductor-muscle-group, gluteus-maximus, gluteus-medius, gluteus-minimus, tensor-fasciae-latae]
-  antagonist: []
-variations: [body_weight/airborne-heisman]
+  target: [adductor-muscle-group, gluteus-maximus, gluteus-medius, vasti-group]
+  synergist: [gastrocnemius, gracilis, pectineus, psoas-major, sartorius, soleus, tensor-fasciae-latae, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, gluteus-minimus, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/airborne-heisman, body_weight/cutting-drill, body_weight/lateral-shuffle]
 ---
 The double Heisman is a bodyweight agility drill: quick side-to-side cutting steps, as if dodging a tackler twice in a row. It works the hips, thighs and lower legs, and raises your heart rate.
 
@@ -22,7 +22,7 @@ The double Heisman is a bodyweight agility drill: quick side-to-side cutting ste
 5. Keep your chest up and your eyes forward, and swing your arms as you would when running.
 6. Repeat for a set time or number of reps.
 
-**Tips:** Land on the balls of your feet with your knees over your toes. Keep the steps small at first. Use a non-slip surface to protect your ankles.
+**Tips:** Land on the balls of your feet with your knees over your toes. Keep the steps small at first. Use a non-slip surface to protect your ankles. Try 6 to 8 passes of 10 to 15 meters, or 20 seconds of work with 40 seconds of rest.
 
 ### In daily life
 It trains the quick sidestep you use to dodge someone on a busy pavement or to catch a toddler who has bolted.

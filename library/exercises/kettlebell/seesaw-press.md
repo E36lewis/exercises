@@ -7,12 +7,12 @@ type: weight
 example: kettlebell/seesaw_press
 other_examples: [dumbbell/seesaw_press, kettlebellalt/seesaw_press]
 muscles:
-  target: [deltoid, serratus-anterior]
-  stabilizer: [levator-scapulae, trapezius]
-  synergist: [deltoid, pectoralis-major, serratus-anterior, supraspinatus, trapezius, triceps-brachii]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: []
-variations: [dumbbell/alternating-arm-press, dumbbell/single-arm-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-maximus, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [serratus-anterior, trapezius, pectoralis-major]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, teres-major]
+variations: [kettlebell/alternating-arm-press, kettlebell/double-press, kettlebell/seated-press, dumbbell/alternating-arm-press, dumbbell/single-arm-press]
 ---
 This is an alternating overhead press with two kettlebells. One goes up as the other comes down, like a seesaw. It works the shoulders and the muscle along your ribs that moves the shoulder blade (serratus anterior), with the triceps helping.
 

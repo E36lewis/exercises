@@ -2,15 +2,15 @@
 id: e4596c8c-61b5-4d1a-b8ac-e81b5904c1ec
 name: glute bridge marches
 equipment: stability ball
-region: "Abdomen, Lower Back, & Pelvis"
+region: Hip & Thigh
 type: weight
 muscles:
-  target: [gluteus-maximus, gluteus-medius]
-  stabilizer: [adductor-muscle-group, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [rectus-abdominis, rectus-femoris, transversus-abdominis, vasti-group]
-  dynamic: [hamstrings]
-  antagonist: []
-variations: [stability_ball/bridge]
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [gluteus-medius, gluteus-minimus, transversus-abdominis, rectus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, quadratus-lumborum]
+  synergist: [adductor-muscle-group]
+  dynamic: [rectus-femoris, sartorius, gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [stability_ball/bridge, stability_ball/hamstring-curls, body_weight/glute-bridge, body_weight/single-leg-glute-bridge]
 ---
 Glute bridge marches are done lying on your back with your heels on a stability ball. You hold a bridge and lift one foot at a time, so your glutes keep your hips up while your abdomen stops your pelvis from tipping.
 

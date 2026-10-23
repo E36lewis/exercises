@@ -7,12 +7,12 @@ type: weight
 example: medicine_ball/standing_side_throw
 other_examples: [bosu_ball/side_throw]
 muscles:
-  target: [external-and-internal-obliques, gluteus-maximus, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, trapezius]
-  synergist: [gemellus-inferior, gemellus-superior, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, iliacus, obturator-externus, obturator-internus, piriformis, psoas-major, rectus-femoris, vasti-group]
-  dynamic: [iliocostalis-portion, longissimus-portion, multifidus, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [medicine_ball/ball-slam, medicine_ball/squat-vertical-throw]
+  target: [external-and-internal-obliques, gluteus-maximus]
+  stabilizer: [transversus-abdominis, multifidus, quadratus-lumborum, gluteus-medius, fibularis-brevis, fibularis-longus]
+  synergist: [vasti-group, adductor-muscle-group, hamstrings, deltoid, pectoralis-major, latissimus-dorsi]
+  dynamic: [gastrocnemius]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [medicine_ball/kneeling-side-throw, medicine_ball/ball-slam, medicine_ball/squat-vertical-throw]
 ---
 The standing side throw is a medicine ball exercise that builds rotational power. You turn your hips and trunk and throw the ball sideways to a wall or partner. The obliques and hips power the throw, with the legs pushing off the floor.
 

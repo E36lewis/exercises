@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: stretch
 example: body_weight/quad_flexor_crane
 muscles:
-  target: [gracilis, iliacus, psoas-major, rectus-femoris, vasti-group]
-  stabilizer: []
-  synergist: [deltoid, infrapinatus, triceps-brachii]
+  target: [iliacus, psoas-major, rectus-femoris, vasti-group]
+  synergist: [gluteus-maximus, sartorius, tensor-fasciae-latae]
+  stabilizer: [gluteus-medius, transversus-abdominis]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [hamstrings]
+variations: [body_weight/walking-quad-stretch, body_weight/couch-stretch, body_weight/lying-knee-to-chest]
 ---
 A standing stretch for the front of your thigh (the quadriceps) and the hip flexors, the muscles that lift your thigh. You hold one foot behind you, and you can raise the opposite arm to lengthen the stretch.
 

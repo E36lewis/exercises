@@ -2,16 +2,16 @@
 id: c4383834-164a-4e80-b353-1a084f217e4d
 name: high knees
 equipment: body weight
-region: "Abdomen, Lower Back, & Pelvis"
+region: Hip & Thigh
 type: cardio
 example: body_weight/high_knees
 muscles:
-  target: [adductor-muscle-group, gastrocnemius, gluteus-maximus, gracilis, psoas-major, rectus-femoris, sartorius, soleus, tensor-fasciae-latae, vasti-group]
-  stabilizer: []
-  synergist: [adductor-muscle-group, gluteus-maximus, hamstrings]
-  dynamic: [iliocostalis-portion, levator-scapulae, longissimus-portion, multifidus, quadratus-lumborum, spinalis-portion, trapezius]
+  target: [iliacus, psoas-major, sartorius]
+  synergist: [adductor-muscle-group, gastrocnemius, gluteus-maximus, gracilis, pectineus, soleus, tensor-fasciae-latae, vasti-group]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
   antagonist: []
-variations: []
+variations: [body_weight/a-skip, body_weight/a-run, body_weight/butt-kicks, resistance_band/running-in-place, body_weight/running]
 ---
 High knees is a running drill where you run in place and drive your knees up to hip height. It raises your heart rate and works the hip flexors, glutes, calves and thighs.
 
@@ -23,7 +23,7 @@ High knees is a running drill where you run in place and drive your knees up to 
 5. Stay on the balls of your feet, with your chest up.
 6. Keep a steady rhythm for the set time.
 
-**Tips:** Stay tall and don't lean back. Land softly and quietly. Slow down or stop if you tire and your form slips.
+**Tips:** Stay tall and don't lean back. Land softly and quietly. Slow down or stop if you tire and your form slips. Try 6 to 8 rounds of 20 to 30 seconds fast with 30 seconds of rest, or 20 meters at a time.
 
 ### In daily life
 Stepping over low obstacles or running upstairs asks for the same quick knee lift and light, springy footfall.

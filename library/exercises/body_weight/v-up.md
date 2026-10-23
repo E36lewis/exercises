@@ -7,11 +7,11 @@ type: weight
 example: body_weight/v_up
 muscles:
   target: [rectus-abdominis]
-  stabilizer: []
-  synergist: [adductor-muscle-group, external-and-internal-obliques, pectineus, rectus-femoris, sartorius, tensor-fasciae-latae]
-  dynamic: []
-  antagonist: []
-variations: [pull_up_bar/hanging-leg-raise, body_weight/lying-floor-leg-raise]
+  synergist: [adductor-muscle-group, external-and-internal-obliques, iliacus, pectineus, psoas-major, sartorius, tensor-fasciae-latae]
+  stabilizer: [transversus-abdominis]
+  dynamic: [rectus-femoris]
+  antagonist: [gluteus-maximus, hamstrings]
+variations: [pull_up_bar/hanging-leg-raise, body_weight/lying-floor-leg-raise, stability_ball/v-ups, body_weight/hollow-rock, body_weight/crunch]
 ---
 The V-up is a body-weight core exercise in which you fold your body into a V by lifting your straight legs and torso toward each other. It mainly works the rectus abdominis (the "six-pack" muscle), with the hip flexors and obliques helping.
 

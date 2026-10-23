@@ -2,16 +2,16 @@
 id: e7efa5f4-de8b-483f-895e-7991acb388b8
 name: running
 equipment: body weight
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: cardio
 example: body_weight/running
 muscles:
-  target: [abductor-digiti-minimi-foot, abductor-hallucis, adductor-muscle-group, external-and-internal-obliques, fibularis-brevis, fibularis-longus, fibularis-tertitus, flexor-digitorum-longus, flexor-hallucis-longus, gastrocnemius, gemellus-superior, gluteus-maximus, hamstrings, iliacus, iliocostalis-portion, longissimus-portion, pectineus, popliteus, rectus-femoris, sartorius, soleus, spinalis-portion, tensor-fasciae-latae, tibialis-posterior, vasti-group]
-  stabilizer: [adductor-muscle-group, gluteus-maximus, gluteus-medius, gluteus-minimus, gracilis, hamstrings, iliacus, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [abductor-digiti-minimi-foot, abductor-hallucis, dorsal-interossei-foot, iliocostalis-portion, longissimus-portion, rectus-femoris, spinalis-portion, tensor-fasciae-latae, vasti-group]
-  dynamic: [gluteus-maximus, hamstrings, rectus-femoris, soleus, tibialis-anterior, vasti-group]
-  antagonist: []
-variations: []
+  target: [gastrocnemius, gluteus-maximus, iliacus, psoas-major, soleus, vasti-group]
+  synergist: [adductor-muscle-group, fibularis-brevis, fibularis-longus, flexor-digitorum-longus, flexor-hallucis-longus, gluteus-medius, pectineus, popliteus, sartorius, tensor-fasciae-latae, tibialis-posterior]
+  stabilizer: [abductor-digiti-minimi-foot, abductor-hallucis, external-and-internal-obliques, flexor-digitorum-brevis, gluteus-minimus, iliocostalis-portion, longissimus-portion, multifidus, quadratus-lumborum, quadratus-plantae, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, plantaris, rectus-femoris]
+  antagonist: [extensor-digitorum-longus, extensor-hallucis-longus, tibialis-anterior]
+variations: [body_weight/interval-run, body_weight/tempo-run, body_weight/fartlek, body_weight/strides, body_weight/hill-sprint, body_weight/stair-run, resistance_band/running-in-place, machine/treadmill-incline-walk, cone/shuttle-run]
 ---
 This is a cardio exercise that uses only your body weight. Each stride pushes you forward from the thighs, glutes and calves, while the muscles of your trunk, hips and feet keep you steady and absorb the landing.
 
@@ -24,7 +24,7 @@ This is a cardio exercise that uses only your body weight. Each stride pushes yo
 6. Keep your steps quick and light, and breathe in a steady rhythm.
 7. Slow to a walk to finish.
 
-**Tips:** Keep your stride short and relaxed rather than reaching out with your foot. Don't clench your hands or shoulders. Build distance and pace gradually, and wear shoes that suit you.
+**Tips:** Keep your stride short and relaxed rather than reaching out with your foot. Don't clench your hands or shoulders. Build distance and pace gradually, and wear shoes that suit you. Most people run 20 to 60 minutes at a steady pace where they can still talk (an easy zone 2 effort), or in intervals such as 6 × 3 minutes hard with 2 minutes easy between.
 
 ### In daily life
 Jogging to catch a bus, chasing a ball with the kids or sprinting across a car park all use this pattern. It also builds stamina for a long day on your feet.

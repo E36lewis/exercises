@@ -2,15 +2,15 @@
 id: 3fb0f245-3dc3-464b-94ca-8c8492277928
 name: alternate lateral pulldown
 equipment: resistance band
-region: "Abdomen, Lower Back, & Pelvis"
+region: Thorax
 type: weight
 muscles:
   target: [latissimus-dorsi]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [biceps-brachii, brachialis, brachioradialis, deltoid, infrapinatus, levator-scapulae, pectoralis-minor, rhomboids, teres-major, teres-minor, trapezius]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [teres-major, rhomboids, trapezius, biceps-brachii, brachialis, brachioradialis]
   dynamic: [triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  antagonist: [deltoid]
+variations: [pull_down_machine/lat-pulldown, resistance_band/banded-straight-arm-pulldown, resistance_band/banded-kneeling-one-arm-pull, cable/straight-arm-pulldown, pull_up_bar/pull-up]
 ---
 The alternate lateral pulldown uses a resistance band anchored overhead to train your back one arm at a time. It mainly works the latissimus dorsi, the large muscle that sweeps from your spine to your upper arm, with help from your upper back, rear shoulders and biceps.
 

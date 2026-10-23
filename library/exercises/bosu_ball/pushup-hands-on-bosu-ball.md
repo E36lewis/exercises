@@ -2,16 +2,16 @@
 id: fa87da59-e37e-422a-bdaa-8f870a5d760f
 name: pushup hands on bosu ball
 equipment: bosu ball
-region: Shoulder & Upper Arm
+region: Thorax
 type: weight
 example: bosu_ball/pushup_hands
 muscles:
-  target: [deltoid, pectoralis-major, triceps-brachii]
-  stabilizer: [rhomboids, trapezius]
-  synergist: [biceps-brachii, brachioradialis, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, flexor-carpi-radialis, flexor-digitorum-superficialis, pronator-teres, serratus-anterior]
-  dynamic: [external-and-internal-obliques, iliocostalis-portion, infrapinatus, longissimus-portion, spinalis-portion, subscapularis, supraspinatus, teres-minor, transversus-abdominis]
+  target: [pectoralis-major, deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, rhomboids, trapezius, rectus-abdominis, transversus-abdominis, external-and-internal-obliques, gluteus-maximus, extensor-carpi-radialis-longus, extensor-carpi-radialis-brevis, extensor-carpi-ulnaris, flexor-carpi-radialis]
+  synergist: [serratus-anterior, anconeus, brachioradialis]
+  dynamic: [biceps-brachii]
   antagonist: [latissimus-dorsi]
-variations: []
+variations: [bosu_ball/pushup-feet-on-bosu-ball, body_weight/push-up, stability_ball/push-up-hands-on-ball]
 ---
 A push-up with your hands on a Bosu ball (a half-dome balance trainer). It works the chest, shoulders and triceps, while the forearms, shoulder blade muscles and trunk work to steady the wobble.
 

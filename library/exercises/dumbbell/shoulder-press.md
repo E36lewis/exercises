@@ -2,17 +2,17 @@
 id: ceb7a647-5e10-4154-ba59-2c0bc0ad9640
 name: shoulder press
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/arm_press
 other_examples: [kettlebell/arm_press, kettlebellalt/arm_press]
 muscles:
-  target: [deltoid]
-  stabilizer: [infrapinatus, levator-scapulae, rhomboids, serratus-anterior, subscapularis, supraspinatus, teres-minor, trapezius]
-  synergist: [pectoralis-major, trapezius, triceps-brachii]
-  dynamic: [deltoid, triceps-brachii]
-  antagonist: []
-variations: [dumbbell/arnold-press, dumbbell/single-arm-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [infrapinatus, subscapularis, teres-minor, rhomboids, levator-scapulae, external-and-internal-obliques, transversus-abdominis]
+  synergist: [trapezius, serratus-anterior, pectoralis-major, supraspinatus]
+  dynamic: [triceps-brachii]
+  antagonist: [latissimus-dorsi, biceps-brachii]
+variations: [barbell/overhead-press, barbell/seated-shoulder-press, dumbbell/alternating-arm-press, dumbbell/arnold-press, dumbbell/single-arm-press, kettlebell/seated-press]
 ---
 This is an overhead press with a dumbbell in each hand. You push both weights from shoulder height until your arms are straight above you. It mainly works the shoulders (deltoids), with the triceps and upper back helping.
 

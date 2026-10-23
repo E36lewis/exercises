@@ -6,14 +6,14 @@ region: Ankle & Foot
 type: stretch
 example: body_weight/toe_flexor
 muscles:
-  target: [abductor-digiti-minimi-foot, abductor-hallucis, flexor-digiti-minimi-brevis-foot, flexor-digitorum-brevis, flexor-digitorum-longus, flexor-hallucis-brevis, flexor-hallucis-longus, gastrocnemius, plantar-interossei, quadratus-plantae]
+  target: [abductor-hallucis, flexor-digitorum-brevis, flexor-digitorum-longus, flexor-hallucis-brevis, flexor-hallucis-longus, plantar-interossei, quadratus-plantae]
+  synergist: [abductor-digiti-minimi-foot, flexor-digiti-minimi-brevis-foot, gastrocnemius]
   stabilizer: []
-  synergist: []
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [extensor-digitorum-longus, extensor-hallucis-longus]
+variations: [body_weight/tip-toe-extension, body_weight/short-foot]
 ---
-This toe flexor stretch is a second library version of the kneeling foot stretch. You tuck your toes under and sit back, which lengthens the muscles on the sole of the foot and the toes. Some of the lower leg muscles are involved as well.
+The toe flexor stretch is a kneeling stretch for the sole of the foot. You tuck your toes under and sit back, which lengthens the muscles on the sole of the foot and the toes. Some of the lower leg muscles are involved as well.
 
 ### How to do it
 1. Kneel on a mat with your toes tucked under.

@@ -6,11 +6,11 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
   target: [external-and-internal-obliques]
-  stabilizer: [adductor-muscle-group, deltoid, iliocostalis-portion, longissimus-portion, pectoralis-major, pectoralis-minor, rectus-abdominis, rhomboids, spinalis-portion, trapezius, triceps-brachii]
-  synergist: [innermost-intercostals, internal-intercostals, psoas-major, quadratus-lumborum]
-  dynamic: [external-and-internal-obliques]
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis, multifidus, quadratus-lumborum, gluteus-maximus, gluteus-medius, deltoid]
+  synergist: [rectus-abdominis, psoas-major, iliacus]
+  dynamic: []
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [cable/cable-chop, dumbbell/woodchop, hammer/wood-choppers, resistance_band/pallof-press]
 ---
 The banded core twist uses a resistance band anchored to one side to train your trunk to turn against resistance. It works the obliques, the muscles on the sides of your waist, with the abdominals and hip flexors helping.
 

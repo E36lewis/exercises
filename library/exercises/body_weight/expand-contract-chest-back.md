@@ -6,12 +6,12 @@ region: Thorax
 type: stretch
 example: body_weight/expand_contract_chest_back
 muscles:
-  target: [deltoid, infrapinatus, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, serratus-posterior-superior]
-  synergist: [deltoid, gluteus-maximus, hamstrings, infrapinatus]
+  target: [pectoralis-major, pectoralis-minor, rhomboids, trapezius]
+  synergist: [deltoid, infrapinatus, levator-scapulae]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, serratus-posterior-superior, spinalis-portion]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [serratus-anterior]
+variations: [body_weight/wide-chest, body_weight/cross-body-shoulder-stretch]
 ---
 This is a bodyweight stretch that moves between opening your chest and rounding your upper back. In the open position it stretches the chest and front of the shoulders; in the crossed position it stretches the muscles between and over the shoulder blades.
 

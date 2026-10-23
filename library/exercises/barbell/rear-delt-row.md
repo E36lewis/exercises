@@ -2,16 +2,16 @@
 id: e2985e54-f9c7-455a-a5a3-e6a6d2d40e0c
 name: rear delt row
 equipment: barbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Shoulder & Upper Arm"
 type: weight
 example: kettlebell/incline_row
 muscles:
   target: [deltoid]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
-  synergist: [biceps-brachii, brachialis, brachioradialis]
-  dynamic: [latissimus-dorsi, rhomboids, trapezius]
-  antagonist: [deltoid, pectoralis-major, pectoralis-minor]
-variations: []
+  stabilizer: [gluteus-maximus, hamstrings, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [rhomboids, trapezius, infrapinatus, teres-minor, teres-major, brachialis, brachioradialis]
+  dynamic: [biceps-brachii]
+  antagonist: [pectoralis-major, pectoralis-minor]
+variations: [barbell/pendlay-row, barbell/row, dumbbell/incline-row, dumbbell/reverse-flye]
 ---
 A barbell row with a wide grip and elbows flared out to the sides. Wide elbows shift the work to the rear of the shoulders (rear deltoids) and the upper back, with the biceps helping.
 

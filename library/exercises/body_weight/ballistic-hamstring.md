@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/ballistic_hamstring
 muscles:
   target: [hamstrings]
-  stabilizer: [external-and-internal-obliques, gluteus-maximus]
-  synergist: [psoas-major, rectus-femoris, vasti-group]
-  dynamic: [gastrocnemius, soleus]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: []
+  synergist: [gluteus-maximus]
+  stabilizer: [external-and-internal-obliques, gluteus-medius, transversus-abdominis]
+  dynamic: [gastrocnemius]
+  antagonist: [iliacus, psoas-major, rectus-femoris, vasti-group]
+variations: [body_weight/split-hamstring, body_weight/single-sitting-hamstring, body_weight/leg-swing-forward]
 ---
 The ballistic hamstring stretch uses a gentle, controlled swing of the leg to reach the back of the thigh. It targets the hamstrings, with the hip flexors and thigh muscles working to swing the leg.
 

@@ -6,11 +6,11 @@ region: Ankle & Foot
 type: weight
 muscles:
   target: [flexor-digitorum-brevis, flexor-digitorum-longus, flexor-hallucis-longus, quadratus-plantae]
-  stabilizer: []
-  synergist: []
+  stabilizer: [tibialis-posterior, tibialis-anterior]
+  synergist: [flexor-hallucis-brevis, lumbricals-foot, plantar-interossei]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [extensor-digitorum-longus, extensor-hallucis-longus, extensor-digitorum-brevis]
+variations: [body_weight/toe-flexor, body_weight/toe-object-pick-up]
 ---
 The resistance band toe flex trains the muscles under the foot and in the lower leg that curl your toes down. You curl your toes against the tension of a band.
 

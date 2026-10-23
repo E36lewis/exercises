@@ -2,17 +2,17 @@
 id: 157dcf5d-e1ff-4b6e-9315-3c817bc609c2
 name: bulgarian split squat
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: kettlebellalt/bulgarian_split_squat
 other_examples: [dumbbell/bulgarian_split_squat, kettlebell/bulgarian_split_squat]
 muscles:
   target: [rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, fibularis-brevis, fibularis-longus, quadratus-lumborum, transversus-abdominis]
-  synergist: [gastrocnemius, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, soleus, spinalis-portion]
-  dynamic: [adductor-muscle-group, hamstrings]
-  antagonist: [tibialis-anterior]
-variations: [body_weight/bulgarian-split-squat]
+  stabilizer: [gluteus-minimus, quadratus-lumborum, fibularis-longus, fibularis-brevis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [gluteus-maximus, adductor-muscle-group, soleus, gluteus-medius]
+  dynamic: [gastrocnemius, hamstrings]
+  antagonist: [iliacus, psoas-major]
+variations: [barbell/bulgarian-split-squat, body_weight/bulgarian-split-squat]
 ---
 The dumbbell Bulgarian split squat is a single-leg squat with your rear foot raised on a bench. The front thigh does most of the work, with the glutes and the inner thigh helping, and you have to balance as well.
 

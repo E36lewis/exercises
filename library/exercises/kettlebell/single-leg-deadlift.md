@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: kettlebell/single_leg_deadlift
 muscles:
-  target: [gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings]
-  stabilizer: [iliocostalis-portion, longissimus-portion, rectus-femoris, rhomboids, sartorius, spinalis-portion, vasti-group]
-  synergist: [adductor-muscle-group, hamstrings]
-  dynamic: []
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, quadratus-lumborum, fibularis-brevis, fibularis-longus]
+  synergist: [adductor-muscle-group]
+  dynamic: [gastrocnemius]
+  antagonist: [vasti-group, psoas-major, iliacus]
+variations: [bosu_ball/single-leg-deadlift, dumbbell/single-leg-deadlift, body_weight/single-leg-romanian-deadlift, dumbbell/romanian-deadlift]
 ---
 This is a one-leg hip hinge holding a kettlebell. It works the glutes and hamstrings, and your back and thigh muscles keep you steady.
 

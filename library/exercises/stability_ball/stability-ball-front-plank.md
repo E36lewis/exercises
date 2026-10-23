@@ -5,12 +5,12 @@ equipment: stability ball
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [rectus-abdominis]
-  stabilizer: [adductor-muscle-group, external-and-internal-obliques, iliacus, pectoralis-major, pectoralis-minor, psoas-major, rectus-femoris, sartorius, serratus-anterior, subscapularis, tensor-fasciae-latae, teres-minor, triceps-brachii, vasti-group]
-  synergist: [deltoid, latissimus-dorsi, pectoralis-major, pectoralis-minor, rhomboids]
+  target: [rectus-abdominis, transversus-abdominis]
+  stabilizer: [external-and-internal-obliques, deltoid, serratus-anterior, pectoralis-major, supraspinatus, infrapinatus, teres-minor, subscapularis, gluteus-maximus, vasti-group, multifidus, quadratus-lumborum, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [psoas-major, iliacus]
   dynamic: [rectus-femoris]
-  antagonist: [iliocostalis-portion, longissimus-portion, multifidus, quadratus-lumborum, rhomboids, spinalis-portion, trapezius]
-variations: []
+  antagonist: []
+variations: [body_weight/plank, stability_ball/stir-the-pot, stability_ball/roll-outs, stability_ball/pull-in-stability-ball, body_weight/bear-plank-hold]
 ---
 The stability ball front plank is a plank done with your forearms on a stability ball. The ball moves under you, so your abdominals and deep trunk muscles have to work harder to hold you still. Your shoulders and hips help as well.
 

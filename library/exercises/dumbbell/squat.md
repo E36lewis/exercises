@@ -2,16 +2,16 @@
 id: d3c253aa-a4de-4794-9cbc-1ea27eb81b8a
 name: squat
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: dumbbell/squat
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: [iliocostalis-portion, levator-scapulae, longissimus-portion, rhomboids, spinalis-portion, trapezius]
-  synergist: [adductor-muscle-group, gluteus-maximus, soleus]
+  target: [gluteus-maximus, rectus-femoris, vasti-group]
+  stabilizer: [trapezius, rhomboids, flexor-digitorum-superficialis, flexor-digitorum-profundus, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, soleus, hamstrings]
   dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [hammer/front-squat-flag-pole-single-arm, kettlebell/squat]
+  antagonist: [rectus-abdominis]
+variations: [barbell/squat, dumbbell/goblet-squat, hammer/front-squat-flag-pole-single-arm, kettlebell/squat]
 ---
 The dumbbell squat is a squat with a weight in each hand, hanging at your sides. It is an easy way to load the movement when you have no rack. Your thighs and glutes do most of the work, and your grip and upper back hold the dumbbells.
 

@@ -2,17 +2,17 @@
 id: b63b7ffd-cda9-4037-acf5-83d48c2ba8e7
 name: single arm bent row
 equipment: dumbbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Thorax"
 type: weight
 example: dumbbell/single_arm_bent_row
 other_examples: [kettlebell/single_arm_bent_row, kettlebellalt/single_arm_bent_row]
 muscles:
   target: [latissimus-dorsi]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [brachioradialis, deltoid, infrapinatus, latissimus-dorsi, pectoralis-minor, rhomboids, teres-major, teres-minor, trapezius]
+  stabilizer: [external-and-internal-obliques, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [rhomboids, trapezius, teres-major, deltoid, brachialis, brachioradialis, infrapinatus]
   dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  antagonist: [pectoralis-major, pectoralis-minor]
+variations: [barbell/row, dumbbell/incline-row, dumbbell/row, kettlebell/single-arm-bent-over-row]
 ---
 This is a one-arm dumbbell row with your other hand on a support. It mainly works the lats, with the upper back and arms helping.
 

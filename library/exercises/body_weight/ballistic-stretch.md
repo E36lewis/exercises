@@ -2,16 +2,16 @@
 id: 60531570-0642-425f-899e-a2bbb0284bf8
 name: ballistic stretch
 equipment: body weight
-region: Multi Region
+region: Hip & Thigh
 type: stretch
 example: body_weight/ballistic_stretch
 muscles:
-  target: [adductor-muscle-group, deltoid, hamstrings, pectoralis-major, soleus, vasti-group]
-  stabilizer: [gluteus-medius, infrapinatus]
-  synergist: []
-  dynamic: [external-and-internal-obliques, rectus-abdominis]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: []
+  target: [adductor-muscle-group, gracilis, hamstrings]
+  synergist: [gastrocnemius, gluteus-maximus, soleus]
+  stabilizer: [external-and-internal-obliques, gluteus-medius, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  dynamic: []
+  antagonist: [vasti-group]
+variations: [body_weight/straddle-stretch, body_weight/cossack-squat, body_weight/side-to-side-hamstring]
 ---
 This is a general lower-body stretch that uses a small, controlled bounce at the end of the range. In its side-lunge form it targets the inner thighs, hamstrings and thigh muscles.
 

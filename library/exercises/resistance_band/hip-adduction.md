@@ -6,11 +6,11 @@ region: Hip & Thigh
 type: weight
 muscles:
   target: [adductor-muscle-group, pectineus]
-  stabilizer: [adductor-muscle-group]
-  synergist: [gluteus-maximus, gracilis, pectineus]
-  dynamic: []
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis, quadratus-lumborum, external-and-internal-obliques]
+  synergist: []
+  dynamic: [gracilis]
+  antagonist: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae]
+variations: [resistance_band/hip-abduction, stability_ball/thigh-squeezes, body_weight/copenhagen-plank]
 ---
 Hip adduction with a resistance band pulls your leg across toward the middle, against the band. It works the inner thigh, mainly the adductor group.
 

@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: body_weight/wall_squat
 muscles:
-  target: [gluteus-maximus, hamstrings, rectus-femoris, vasti-group]
-  stabilizer: [adductor-muscle-group, external-and-internal-obliques, fibularis-brevis, fibularis-longus, iliocostalis-portion, longissimus-portion, spinalis-portion, tibialis-anterior, transversus-abdominis]
-  synergist: [gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  dynamic: [gastrocnemius, soleus]
-  antagonist: []
-variations: []
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [gluteus-medius, gluteus-minimus, fibularis-brevis, fibularis-longus, tibialis-anterior, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [hamstrings, adductor-muscle-group, soleus]
+  dynamic: [gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [stability_ball/wall-squats, bosu_ball/balanced-squat]
 ---
 This is a static leg exercise. You lean your back on a Bosu ball against a wall and hold a squat position. It works the thighs, hamstrings and glutes, while your calves and core help you stay steady on the ball.
 

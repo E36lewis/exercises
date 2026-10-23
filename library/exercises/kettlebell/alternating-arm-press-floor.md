@@ -7,12 +7,12 @@ type: weight
 example: kettlebell/alternating_arm_press_floor
 other_examples: [dumbbell/alternating_arm_press_floor, kettlebellalt/alternating_arm_press_floor]
 muscles:
-  target: [pectoralis-major]
-  stabilizer: [iliocostalis-portion, infrapinatus, longissimus-portion, spinalis-portion, supraspinatus, teres-major, teres-minor]
-  synergist: [deltoid, pectoralis-major, triceps-brachii]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [pectoralis-major, deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, transversus-abdominis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [serratus-anterior]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi]
+variations: [kettlebell/single-extended-range-arm-press, kettlebell/alternating-arm-press, kettlebell/double-press, dumbbell/bench-press]
 ---
 The floor press is a kettlebell press done lying on the ground, one arm at a time. It works the chest, the front of the shoulders and the triceps, and the floor stops your upper arm at a set depth.
 

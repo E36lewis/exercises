@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: cardio
 example: body_weight/tire_hop
 muscles:
-  target: [gastrocnemius, gracilis, rectus-femoris, sartorius, soleus, vasti-group]
-  stabilizer: [gluteus-maximus, gluteus-medius, iliocostalis-portion, longissimus-portion, multifidus, spinalis-portion]
-  synergist: [adductor-muscle-group, gluteus-maximus, hamstrings, sartorius, vasti-group]
-  dynamic: [adductor-muscle-group, gastrocnemius, gracilis, hamstrings, soleus, trapezius]
-  antagonist: [adductor-muscle-group, external-and-internal-obliques, hamstrings, rectus-abdominis]
-variations: []
+  target: [gastrocnemius, soleus, vasti-group]
+  synergist: [adductor-muscle-group, gluteus-maximus, gluteus-medius, plantaris, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, multifidus, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris, sartorius]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/calf-hop, hurdle/hurdle-hop, body_weight/lateral-leap]
 ---
 The tire hop is a body-weight cardio exercise where you hop in and out of a tire lying on the ground. It builds light, quick footwork and works the calves, thighs and glutes.
 
@@ -23,7 +23,7 @@ The tire hop is a body-weight cardio exercise where you hop in and out of a tire
 5. Repeat, hopping forward, back and sideways.
 6. Rest when your landings get heavy.
 
-**Tips:** Look at where you will land. Work on a flat, clear surface with a tire that cannot slide. Stop if you feel pain in your ankles or knees, and keep your hops small at first.
+**Tips:** Look at where you will land. Work on a flat, clear surface with a tire that cannot slide. Stop if you feel pain in your ankles or knees, and keep your hops small at first. Try 4 to 6 rounds of 20 to 30 seconds of quick hops, resting 30 to 45 seconds.
 
 ### In daily life
 Hopping lightly in and out of a tire is practice for jumping over a puddle or a low gap and landing safely.

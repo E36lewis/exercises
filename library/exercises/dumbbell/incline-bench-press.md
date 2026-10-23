@@ -2,17 +2,17 @@
 id: 87902088-aa12-4e11-ba2e-e20beb5bd568
 name: incline bench press
 equipment: dumbbell
-region: Thorax
+region: "Thorax"
 type: weight
 example: kettlebell/incline_bench_press
 other_examples: [dumbbell/incline_bench_press, dumbbell/single_incline_bench_press, kettlebell/single_incline_bench_press]
 muscles:
   target: [pectoralis-major]
-  stabilizer: [infrapinatus, levator-scapulae, rhomboids, subscapularis, supraspinatus, teres-minor, trapezius]
-  synergist: [coracobrachialis, deltoid, pectoralis-major, pectoralis-minor, triceps-brachii]
-  dynamic: [biceps-brachii, serratus-anterior]
-  antagonist: [latissimus-dorsi]
-variations: []
+  stabilizer: [pectoralis-minor, serratus-anterior, infrapinatus, supraspinatus, subscapularis, teres-minor]
+  synergist: [deltoid, triceps-brachii, coracobrachialis]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, rhomboids]
+variations: [barbell/incline-bench-press, dumbbell/bench-press, dumbbell/incline-flye]
 ---
 The dumbbell incline bench press presses two weights upward while you lie back on an angled bench. The slope shifts more work to the upper part of the chest and the front of the shoulders, and the triceps help straighten your arms.
 

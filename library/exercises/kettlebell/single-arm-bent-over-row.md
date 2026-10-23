@@ -2,17 +2,17 @@
 id: 9732e360-a7b2-426b-b1d7-b9c0acba0f69
 name: single arm bent over row
 equipment: kettlebell
-region: Shoulder & Upper Arm
+region: Thorax
 type: weight
 example: kettlebell/one_arm_bent_row
 other_examples: [kettlebell/arm_bent_row, kettlebellalt/one_arm_bent_row]
 muscles:
   target: [latissimus-dorsi, teres-major]
-  stabilizer: [adductor-muscle-group, gluteus-maximus, hamstrings, iliocostalis-portion, longissimus-portion, rectus-femoris, spinalis-portion, vasti-group]
-  synergist: [brachialis, brachioradialis, deltoid, latissimus-dorsi, pectoralis-major, rhomboids, teres-major, teres-minor, trapezius]
-  dynamic: [biceps-brachii, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [barbell/row, dumbbell/single-arm-bent-row, resistance_band/banded-kneeling-one-arm-pull]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-maximus, hamstrings, transversus-abdominis, external-and-internal-obliques, supraspinatus, infrapinatus, teres-minor, subscapularis]
+  synergist: [rhomboids, trapezius, deltoid, biceps-brachii, brachialis, brachioradialis]
+  dynamic: [triceps-brachii]
+  antagonist: [pectoralis-major]
+variations: [dumbbell/single-arm-bent-row, dumbbell/row, kettlebell/bent-over-row-dual-weight, resistance_band/banded-kneeling-one-arm-pull, barbell/row]
 ---
 This is a kettlebell row for one arm in a forward hinge. It mainly works the lats and teres major, with your upper back and arms helping and your legs and hips holding the position.
 

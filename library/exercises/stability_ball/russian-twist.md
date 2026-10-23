@@ -5,12 +5,12 @@ equipment: stability ball
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [external-and-internal-obliques, rectus-abdominis]
-  stabilizer: [adductor-muscle-group, biceps-brachii, deltoid, gluteus-maximus, gracilis, pectineus, pectoralis-major, pectoralis-minor]
-  synergist: [external-and-internal-obliques, quadratus-lumborum]
-  dynamic: [iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion]
-  antagonist: []
-variations: [medicine_ball/russian-twist]
+  target: [external-and-internal-obliques]
+  stabilizer: [gluteus-maximus, gluteus-medius, transversus-abdominis, multifidus, quadratus-lumborum]
+  synergist: [rectus-abdominis, psoas-major, iliacus, tensor-fasciae-latae]
+  dynamic: []
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [medicine_ball/russian-twist, dumbbell/russian-twist, body_weight/russian-twist]
 ---
 This is a rotating core exercise performed with your upper back on a stability ball. You hold your arms above your chest and turn them from side to side while your hips stay high. It works the obliques and abs, with the lower-back and hip muscles keeping you steady.
 

@@ -6,12 +6,12 @@ region: Multi Region
 type: cardio
 example: body_weight/rock_star_jump
 muscles:
-  target: [gastrocnemius, gluteus-maximus, gracilis, hamstrings, soleus, tibialis-posterior, vasti-group]
-  stabilizer: [biceps-brachii, coracobrachialis, deltoid, external-and-internal-obliques, infrapinatus, pectoralis-major, serratus-anterior, trapezius]
-  synergist: [adductor-muscle-group, pectineus, psoas-major, rectus-femoris, sartorius]
-  dynamic: [adductor-muscle-group, deltoid, gluteus-maximus, hamstrings, iliocostalis-portion, levator-scapulae, longissimus-portion, pectoralis-minor, spinalis-portion]
-  antagonist: [pectoralis-major, rectus-abdominis, triceps-brachii]
-variations: [body_weight/high-knees]
+  target: [deltoid, gastrocnemius, gluteus-maximus, soleus, vasti-group]
+  synergist: [adductor-muscle-group, gluteus-medius, pectoralis-major, serratus-anterior, supraspinatus, trapezius]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/high-knees, body_weight/squat-jack, body_weight/jump-squat]
 ---
 A bodyweight cardio jump from a squat in which your arms and legs spread wide in the air, like a star. It works the thighs, glutes, hamstrings and calves, and it raises your heart rate.
 
@@ -23,7 +23,7 @@ A bodyweight cardio jump from a squat in which your arms and legs spread wide in
 5. Return to the squat position.
 6. Repeat at a steady rhythm.
 
-**Tips:** Land quietly and keep your knees over your toes. Start with a small jump. Stop when your landings get heavy, and avoid it if jumping bothers your knees.
+**Tips:** Land quietly and keep your knees over your toes. Start with a small jump. Stop when your landings get heavy, and avoid it if jumping bothers your knees. Try 3 to 5 sets of 15 to 20 seconds of jumps, resting 30 to 45 seconds.
 
 ### In daily life
 Jumping off a step or springing up to react to something quickly uses this kind of leg power.

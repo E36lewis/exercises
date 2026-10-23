@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: body_weight/reverse_lunge
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, iliocostalis-portion, levator-scapulae, longissimus-portion, quadratus-lumborum, spinalis-portion, trapezius]
-  synergist: [adductor-muscle-group, gluteus-maximus, soleus]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: []
-variations: []
+  target: [gluteus-maximus, vasti-group]
+  synergist: [adductor-muscle-group, gluteus-medius, soleus]
+  stabilizer: [external-and-internal-obliques, gluteus-minimus, iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion, transversus-abdominis]
+  dynamic: [gastrocnemius, hamstrings, rectus-femoris]
+  antagonist: [iliacus, psoas-major]
+variations: [body_weight/lunge, body_weight/walking-lunge, body_weight/switch-lunge, body_weight/curtsy-lunge, barbell/reverse-lunge, dumbbell/reverse-lunge, slide_board/slide-board-reverse-lunge]
 ---
 A bodyweight lunge where you step backward. It works the thighs (quadriceps) and glutes, with the hamstrings, adductors and calves helping, and it asks you to balance on one leg as you go.
 

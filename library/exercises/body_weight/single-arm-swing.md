@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/single_arm_swing
 muscles:
   target: [deltoid]
-  stabilizer: [infrapinatus]
-  synergist: [teres-major, teres-minor, trapezius]
-  dynamic: [biceps-brachii, brachialis, coracobrachialis, triceps-brachii]
-  antagonist: []
-variations: []
+  synergist: [coracobrachialis, teres-major, teres-minor, trapezius]
+  stabilizer: [infrapinatus, subscapularis, supraspinatus]
+  dynamic: [biceps-brachii, triceps-brachii]
+  antagonist: [latissimus-dorsi]
+variations: [body_weight/arm-circles, body_weight/back-to-front-swing, body_weight/alternation-swing-raise]
 ---
 This is a loose arm swing with no equipment, used as a shoulder mobility drill. It warms up the deltoid and the muscles around the shoulder.
 

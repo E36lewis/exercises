@@ -6,11 +6,11 @@ region: Hip & Thigh
 type: weight
 muscles:
   target: [hamstrings]
-  stabilizer: [adductor-muscle-group, gastrocnemius, iliocostalis-portion, longissimus-portion, soleus, spinalis-portion]
-  synergist: [gluteus-maximus, gluteus-medius, gluteus-minimus, rectus-femoris, vasti-group]
-  dynamic: [external-and-internal-obliques, multifidus, quadratus-lumborum, rotatores, transversus-abdominis]
-  antagonist: [rectus-femoris, vasti-group]
-variations: []
+  stabilizer: [gluteus-maximus, gluteus-medius, gluteus-minimus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, adductor-muscle-group]
+  synergist: [gracilis, sartorius, popliteus]
+  dynamic: [gastrocnemius]
+  antagonist: [vasti-group, rectus-femoris]
+variations: [machine/leg-curl, stability_ball/bridge, body_weight/nordic-curl, body_weight/glute-bridge, slide_board/hamstring-slide-curl]
 ---
 Hamstring curls use a stability ball under your heels. You bridge up and roll the ball toward your hips, so the back of your thighs pull your heels in while your glutes hold your hips up.
 

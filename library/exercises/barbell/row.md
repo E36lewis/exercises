@@ -2,17 +2,17 @@
 id: c48a821b-4617-4384-b46a-5b0c03b7ccef
 name: row
 equipment: barbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Thorax"
 type: weight
 example: barbell/row
 other_examples: [barbell/pendlay_row]
 muscles:
   target: [latissimus-dorsi]
-  stabilizer: [adductor-muscle-group, gluteus-maximus, hamstrings, iliocostalis-portion, longissimus-portion, rectus-femoris, spinalis-portion, vasti-group]
-  synergist: [brachialis, brachioradialis, deltoid, infrapinatus, latissimus-dorsi, pectoralis-major, rhomboids, teres-major, teres-minor, trapezius]
+  stabilizer: [gluteus-maximus, hamstrings, adductor-muscle-group, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [rhomboids, trapezius, teres-major, deltoid, infrapinatus, teres-minor, brachialis, brachioradialis]
   dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [dumbbell/row, dumbbell/single-arm-bent-row, kettlebell/bent-over-row-dual-weight]
+  antagonist: [pectoralis-major]
+variations: [barbell/pendlay-row, barbell/rear-delt-row, cable/seated-cable-row, dumbbell/row, dumbbell/single-arm-bent-row, kettlebell/bent-over-row-dual-weight, kettlebell/single-arm-bent-over-row]
 ---
 This is a bent-over pulling exercise with a barbell. You hold a hinged position and row the bar towards your lower ribs. It mainly works the lats, with the upper back, rear shoulders and arms helping, while the legs and lower back hold you in place.
 

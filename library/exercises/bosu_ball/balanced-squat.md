@@ -7,12 +7,12 @@ type: weight
 example: bosu_ball/balanced_squat
 other_examples: [bosu_ball/seated_wall_squat]
 muscles:
-  target: [adductor-muscle-group, gluteus-maximus, rectus-femoris, vasti-group]
-  stabilizer: [iliocostalis-portion, levator-scapulae, longissimus-portion, spinalis-portion, trapezius]
-  synergist: []
-  dynamic: [flexor-digitorum-longus, flexor-hallucis-longus, gastrocnemius, hamstrings, plantaris, soleus, tibialis-posterior]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [hammer/front-squats-flag-pole-both-arm, kettlebell/goblet-squat, kettlebell/pistol-squat]
+  target: [vasti-group, rectus-femoris, gluteus-maximus, adductor-muscle-group]
+  stabilizer: [gluteus-medius, gluteus-minimus, fibularis-brevis, fibularis-longus, tibialis-anterior, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [soleus, tibialis-posterior]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [bosu_ball/balanced-squat-star, bosu_ball/seated-wall-squat, kettlebell/goblet-squat, kettlebell/squat, dumbbell/squat, barbell/squat, hammer/front-squats-flag-pole-both-arm]
 ---
 The balanced squat is a squat done standing on a BOSU ball, an unstable half-dome. It works the thighs, glutes and calves, and the wobble adds a balance challenge for your ankles, hips and trunk.
 

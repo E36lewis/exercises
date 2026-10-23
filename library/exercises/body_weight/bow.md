@@ -6,12 +6,12 @@ region: Multi Region
 type: stretch
 example: body_weight/bow
 muscles:
-  target: [deltoid, pectoralis-major, psoas-major, rectus-femoris, sartorius, vasti-group]
-  stabilizer: []
-  synergist: []
-  dynamic: [gluteus-maximus, hamstrings]
+  target: [iliacus, pectoralis-major, psoas-major, rectus-abdominis, rectus-femoris, vasti-group]
+  synergist: [deltoid, gluteus-maximus, sartorius]
+  stabilizer: [iliocostalis-portion, longissimus-portion, rhomboids, spinalis-portion, trapezius]
+  dynamic: [hamstrings]
   antagonist: []
-variations: []
+variations: [body_weight/camel, body_weight/upward-dog, body_weight/back-hero, body_weight/superman]
 ---
 The bow is a stretch based on the yoga bow pose. You lie face down, hold your ankles and lift your chest and thighs. It stretches the front of the thighs, the hip flexors, the abdomen and the chest and shoulders.
 

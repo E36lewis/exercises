@@ -2,15 +2,15 @@
 id: d15e39b9-ead3-41d4-895d-3ae88673aa80
 name: pendlay row
 equipment: barbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Thorax"
 type: weight
 muscles:
   target: [latissimus-dorsi, rhomboids, trapezius]
-  stabilizer: [external-and-internal-obliques, gluteus-maximus, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, multifidus, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  synergist: [deltoid, iliocostalis-portion, infrapinatus, longissimus-portion, rectus-femoris, spinalis-portion, teres-major, teres-minor, vasti-group]
-  dynamic: [biceps-brachii, brachialis, brachioradialis, latissimus-dorsi, rhomboids, trapezius]
-  antagonist: [biceps-brachii, deltoid, pectoralis-major]
-variations: []
+  stabilizer: [gluteus-maximus, hamstrings, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [teres-major, deltoid, infrapinatus, teres-minor, brachialis, brachioradialis]
+  dynamic: [biceps-brachii]
+  antagonist: [pectoralis-major]
+variations: [barbell/rear-delt-row, barbell/row, dumbbell/row, dumbbell/single-arm-bent-row]
 ---
 A barbell row where the bar starts on the floor each rep and your torso stays roughly parallel to the ground. It works the latissimus dorsi (lats) and mid-back muscles, with the arms and lower back helping.
 

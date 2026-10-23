@@ -2,16 +2,16 @@
 id: 141888f5-23f0-467a-9e39-f2f4975aeb8b
 name: pistol squat
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: dumbbell/pistol_squat
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: [deltoid, infrapinatus, subscapularis, supraspinatus, teres-minor]
-  synergist: [fibularis-brevis, fibularis-longus, gastrocnemius, soleus]
-  dynamic: [fibularis-brevis, fibularis-longus, gastrocnemius, soleus]
-  antagonist: [hamstrings]
-variations: []
+  target: [rectus-femoris, vasti-group, gluteus-maximus]
+  stabilizer: [gluteus-medius, gluteus-minimus, fibularis-longus, fibularis-brevis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [gastrocnemius, hamstrings]
+  antagonist: [iliacus, psoas-major]
+variations: [kettlebell/pistol-squat]
 ---
 A single-leg squat where you hold a dumbbell in front of you to balance the free leg. It works the front of the thigh (quadriceps) and the calves, and it tests balance and ankle and hip mobility.
 

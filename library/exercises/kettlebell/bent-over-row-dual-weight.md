@@ -2,17 +2,17 @@
 id: 839d3f53-1d74-4db1-a558-8bf59e9b8b3a
 name: bent over row dual weight
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Thorax
 type: weight
 example: kettlebell/row
 other_examples: [dumbbell/row, kettlebellalt/row]
 muscles:
-  target: [latissimus-dorsi, teres-major]
-  stabilizer: [adductor-muscle-group, gluteus-maximus, hamstrings, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [brachialis, brachioradialis, deltoid, infrapinatus, latissimus-dorsi, pectoralis-major, rhomboids, teres-major, teres-minor, trapezius]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis, rectus-femoris, sartorius, vasti-group]
-variations: [dumbbell/single-arm-bent-row, kettlebell/single-arm-bent-over-row]
+  target: [latissimus-dorsi, teres-major, rhomboids, trapezius]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-maximus, hamstrings, transversus-abdominis, supraspinatus, infrapinatus, teres-minor, subscapularis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [deltoid, biceps-brachii, brachialis, brachioradialis]
+  dynamic: [triceps-brachii]
+  antagonist: [pectoralis-major]
+variations: [kettlebell/single-arm-bent-over-row, dumbbell/row, dumbbell/single-arm-bent-row, barbell/row]
 ---
 This is a bent-over row with a kettlebell in each hand. It works the large back muscles (latissimus dorsi and teres major), the upper back and the biceps, while your hips and lower back hold the bent position.
 

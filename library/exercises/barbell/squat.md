@@ -2,16 +2,16 @@
 id: cec341e1-a8fd-4935-accd-f4cd8073839b
 name: squat
 equipment: barbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: barbell/squat
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [adductor-muscle-group, gluteus-maximus, soleus]
+  target: [gluteus-maximus, rectus-femoris, vasti-group]
+  stabilizer: [trapezius, rhomboids, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, soleus, hamstrings]
   dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [bosu_ball/balanced-squat, dumbbell/squat, hammer/front-squats-flag-pole-both-arm, kettlebell/goblet-squat, kettlebell/pistol-squat]
+  antagonist: [rectus-abdominis]
+variations: [barbell/box-squat, barbell/front-squat, barbell/overhead-squat, barbell/zercher-squat, bosu_ball/balanced-squat, dumbbell/squat, hammer/front-squats-flag-pole-both-arm, kettlebell/goblet-squat, kettlebell/pistol-squat]
 ---
 The barbell back squat is the classic loaded lower-body lift. The bar sits on your upper back as you bend your hips and knees. The thighs and glutes lift the load, and your trunk muscles keep you upright.
 

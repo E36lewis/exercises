@@ -5,12 +5,12 @@ equipment: body weight
 region: Knee & Lower Leg
 type: stretch
 muscles:
-  target: [gastrocnemius, soleus]
-  stabilizer: []
-  synergist: []
+  target: [gastrocnemius, plantaris, soleus]
+  synergist: [flexor-digitorum-longus, flexor-hallucis-longus, tibialis-posterior]
+  stabilizer: [gluteus-medius, vasti-group]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [tibialis-anterior]
+variations: [body_weight/calf-achilles, body_weight/bent-knee-calf-stretch, body_weight/eccentric-heel-drop]
 ---
 The calf wall is a stretch for the calf muscles, done by leaning toward a wall. With your back knee straight it reaches the gastrocnemius, and bending the knee shifts the stretch to the soleus.
 

@@ -6,12 +6,12 @@ region: Multi Region
 type: weight
 example: medicine_ball/ball_slam
 muscles:
-  target: [deltoid, external-and-internal-obliques, gluteus-maximus, hamstrings, latissimus-dorsi, rectus-abdominis, transversus-abdominis, triceps-brachii, vasti-group]
-  stabilizer: [coracobrachialis, external-and-internal-obliques, iliocostalis-portion, levator-scapulae, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  synergist: [quadratus-lumborum, rhomboids, trapezius]
-  dynamic: [infrapinatus, subscapularis, supraspinatus, teres-minor]
-  antagonist: [biceps-brachii]
-variations: []
+  target: [latissimus-dorsi, triceps-brachii, rectus-abdominis, gluteus-maximus]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, supraspinatus, infrapinatus, teres-minor, subscapularis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [deltoid, pectoralis-major, teres-major, hamstrings, vasti-group, adductor-muscle-group]
+  dynamic: [rectus-femoris]
+  antagonist: []
+variations: [medicine_ball/squat-vertical-throw, medicine_ball/standing-side-throw, medicine_ball/reverse-throw, hammer/sledgehammer-slam, battle_rope/battle-rope-slam]
 ---
 The ball slam is a full-body power exercise: you lift a slam ball overhead and throw it hard into the floor. It works the shoulders, lats, abdominals and legs in one fast movement.
 

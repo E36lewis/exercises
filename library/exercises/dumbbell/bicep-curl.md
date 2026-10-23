@@ -2,17 +2,17 @@
 id: ea338123-651a-40c8-9eba-58eb6b730d9e
 name: bicep curl
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/bicep_curl
 other_examples: [kettlebell/bicep_curl, kettlebell/hammer_curl, kettlebellalt/bicep_curl, kettlebellalt/hammer_curl]
 muscles:
   target: [biceps-brachii]
-  stabilizer: [abductor-pollicis-longus, deltoid, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, levator-scapulae, palmaris-longus, trapezius]
+  stabilizer: [deltoid, flexor-carpi-radialis, flexor-carpi-ulnaris, external-and-internal-obliques, transversus-abdominis]
   synergist: [brachialis, brachioradialis]
-  dynamic: []
-  antagonist: []
-variations: [dumbbell/incline-bicep-curl]
+  dynamic: [biceps-brachii]
+  antagonist: [triceps-brachii]
+variations: [barbell/bicep-curl, dumbbell/hammer-curl, dumbbell/incline-bicep-curl]
 ---
 The dumbbell bicep curl is a basic arm exercise that targets the biceps, with help from the brachialis and brachioradialis. Because each arm holds its own dumbbell, each side has to work on its own.
 

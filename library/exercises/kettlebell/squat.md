@@ -7,12 +7,12 @@ type: weight
 example: kettlebell/squat
 other_examples: [kettlebellalt/squat]
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [adductor-muscle-group, gluteus-maximus, soleus]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [barbell/squat, hammer/front-squats-flag-pole-both-arm]
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, trapezius, rhomboids]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [kettlebell/goblet-squat, dumbbell/goblet-squat, dumbbell/squat, barbell/squat, hammer/front-squats-flag-pole-both-arm, sandbag/sandbag-bear-hug-squat]
 ---
 The kettlebell squat, usually called a goblet squat, holds one kettlebell against your chest. The weight in front acts as a counterbalance, so it is easy to stay upright. It works the thighs and glutes.
 

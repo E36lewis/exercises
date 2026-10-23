@@ -2,15 +2,15 @@
 id: 544b80a4-6f39-40a7-93f6-7034adaf5a23
 name: front squats flag pole both arm
 equipment: hammer
-region: "Abdomen, Lower Back, & Pelvis"
+region: Hip & Thigh
 type: weight
 muscles:
-  target: [deltoid, rectus-femoris, vasti-group]
-  stabilizer: [deltoid, iliocostalis-portion, levator-scapulae, longissimus-portion, pectoralis-major, serratus-anterior, spinalis-portion, supraspinatus, trapezius]
-  synergist: [adductor-muscle-group, gluteus-maximus, rhomboids, rotatores, soleus]
-  dynamic: [gastrocnemius, gracilis, hamstrings, sartorius]
-  antagonist: [external-and-internal-obliques, pectoralis-minor, rectus-abdominis]
-variations: [hammer/front-squat-flag-pole-single-arm, kettlebell/goblet-squat]
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [deltoid, trapezius, rhomboids, serratus-anterior, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [hammer/front-squat-flag-pole-single-arm, barbell/front-squat, kettlebell/goblet-squat]
 ---
 This is a front squat with a hammer held out in front of you in both hands, like a flag on a pole. The weight sits out ahead of your body, so your thighs, glutes and shoulders all work to keep it up while you squat.
 

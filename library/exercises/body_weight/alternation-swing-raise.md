@@ -6,11 +6,11 @@ region: Shoulder & Upper Arm
 type: weight
 muscles:
   target: [deltoid]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, levator-scapulae, trapezius]
-  synergist: [deltoid, pectoralis-major, serratus-anterior, trapezius]
-  dynamic: [iliocostalis-portion, spinalis-portion]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [barbell/front-shoulder-raise, dumbbell/single-arm-shoulder-raise]
+  synergist: [pectoralis-major, serratus-anterior, trapezius]
+  stabilizer: [iliocostalis-portion, levator-scapulae, longissimus-portion, spinalis-portion, transversus-abdominis]
+  dynamic: []
+  antagonist: [latissimus-dorsi, rhomboids, teres-major]
+variations: [body_weight/arm-circles, body_weight/back-to-front-swing, body_weight/single-arm-swing, barbell/front-shoulder-raise, dumbbell/single-arm-shoulder-raise, dumbbell/front-arm-raise]
 ---
 The alternation swing raise is a body-weight movement in which you swing your arms forward and up one at a time, like a slow walking-pace arm swing. It works the front of the shoulders and warms up the upper body.
 

@@ -6,11 +6,11 @@ region: Shoulder & Upper Arm
 type: weight
 muscles:
   target: [triceps-brachii]
-  stabilizer: [biceps-brachii, serratus-anterior, trapezius]
-  synergist: [external-and-internal-obliques, rectus-abdominis, rhomboids, transversus-abdominis]
-  dynamic: [deltoid, pectoralis-major]
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, vasti-group, gluteus-maximus, supraspinatus, infrapinatus, teres-minor, subscapularis]
+  synergist: [pectoralis-major, deltoid, anconeus]
+  dynamic: []
+  antagonist: [biceps-brachii, brachialis]
+variations: [body_weight/tricep-dip, dip_bars/tri-dip-handle]
 ---
 The stability ball tricep dip is a bench dip with your feet resting on a stability ball. The ball is unstable, so your trunk has to work to keep you steady while the triceps do the pushing.
 

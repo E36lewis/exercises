@@ -2,15 +2,15 @@
 id: ec82eb10-33fd-449d-bbef-ae3dca62bb5d
 name: neck banded hold
 equipment: resistance band
-region: "Abdomen, Lower Back, & Pelvis"
+region: Neck
 type: weight
 muscles:
-  target: [iliocostalis-portion, longissimus-portion, obliquus-capitis-inferior, obliquus-capitis-superior, rectus-capitis-posterior-major, rectus-capitis-posterior-minor, spinalis-portion, splenius-capitis, splenius-cervicis]
-  stabilizer: [latissimus-dorsi, levator-scapulae, pectoralis-major, trapezius]
-  synergist: []
+  target: [splenius-capitis, splenius-cervicis, semispinalis]
+  stabilizer: [obliquus-capitis-inferior, obliquus-capitis-superior, rectus-capitis-posterior-major, rectus-capitis-posterior-minor, transversus-abdominis]
+  synergist: [trapezius, levator-scapulae]
   dynamic: []
-  antagonist: [iliocostalis-portion, levator-scapulae, longissimus-portion, psoas-major, quadratus-lumborum, spinalis-portion, trapezius]
-variations: []
+  antagonist: [longus-colli, longus-capitis, rectus-capitis-anterior, sternocleidomastoid]
+variations: [body_weight/neck-extension-isometric, body_weight/neck-flexion-isometric, body_weight/neck-side-flexion-isometric]
 ---
 An isometric neck exercise, meaning you hold still against resistance without moving. A resistance band pulls on your head, and the muscles at the back and sides of your neck and upper back work to keep it in place.
 

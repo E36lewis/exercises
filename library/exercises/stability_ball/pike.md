@@ -2,15 +2,15 @@
 id: 56e3c0d4-075d-4e09-b2aa-96da170e6314
 name: pike
 equipment: stability ball
-region: Shoulder & Upper Arm
+region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [deltoid, pectoralis-major, rectus-abdominis]
-  stabilizer: [rhomboids, serratus-anterior, trapezius]
-  synergist: [gluteus-maximus, gluteus-medius, hamstrings, triceps-brachii]
-  dynamic: [external-and-internal-obliques, iliacus, iliocostalis-portion, longissimus-portion, psoas-major, rectus-femoris, spinalis-portion, transversus-abdominis]
-  antagonist: [iliocostalis-portion, levator-scapulae, longissimus-portion, spinalis-portion]
-variations: []
+  target: [rectus-abdominis, psoas-major, iliacus]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, deltoid, pectoralis-major, serratus-anterior, supraspinatus, infrapinatus, teres-minor, subscapularis, triceps-brachii, quadratus-lumborum]
+  synergist: [tensor-fasciae-latae, sartorius]
+  dynamic: [rectus-femoris]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion, latissimus-dorsi]
+variations: [stability_ball/pull-in-stability-ball, stability_ball/roll-outs]
 ---
 A core exercise with your shins or feet on a stability ball and your hands on the floor. You lift your hips into an inverted V, working the abdominals, with the shoulders and chest holding you up.
 

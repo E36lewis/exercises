@@ -2,16 +2,16 @@
 id: 5f1ceaaa-4187-4a63-a271-1f2ea5405066
 name: romanian deadlift
 equipment: barbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: barbell/romanian_deadlift
 muscles:
   target: [gluteus-maximus, hamstrings]
-  stabilizer: [iliocostalis-portion, levator-scapulae, longissimus-portion, rhomboids, spinalis-portion, trapezius]
-  synergist: [adductor-muscle-group, rectus-femoris, soleus, vasti-group]
-  dynamic: [gastrocnemius]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  stabilizer: [trapezius, rhomboids, latissimus-dorsi, levator-scapulae, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [adductor-muscle-group, vasti-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [iliacus, psoas-major]
+variations: [barbell/deadlift, body_weight/single-leg-romanian-deadlift, dumbbell/romanian-deadlift, dumbbell/single-leg-deadlift]
 ---
 This is a hip-hinge lift with a barbell. You push your hips back to lower the bar along your thighs, then drive them forward to stand. It works the glutes and hamstrings together, while the back muscles and upper back hold your position and the thighs help.
 

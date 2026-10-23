@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: cardio
 example: body_weight/jump_squat_reach
 muscles:
-  target: [adductor-muscle-group, gastrocnemius, gracilis, hamstrings, plantaris, rectus-femoris, sartorius, soleus, tibialis-posterior, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [biceps-brachii, deltoid, pectineus, pectoralis-major, rectus-femoris, sartorius, tensor-fasciae-latae]
-  dynamic: [adductor-muscle-group, gluteus-maximus, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]
+  synergist: [adductor-muscle-group, deltoid, latissimus-dorsi, pectoralis-major, plantaris, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/jump-squat, body_weight/countermovement-jump, body_weight/approach-jump, body_weight/tuck-jump]
 ---
 A vertical jump where you swing your arms and reach one or both hands as high as you can. It works the thighs, glutes, hamstrings and calves, with the shoulders and chest helping swing the arms.
 
@@ -23,7 +23,7 @@ A vertical jump where you swing your arms and reach one or both hands as high as
 5. Land softly on the balls of your feet, then heels, with your knees bent.
 6. Reset and repeat.
 
-**Tips:** Land quietly and keep your knees over your toes. Make sure the ceiling is clear. End the set once your landings become heavy.
+**Tips:** Land quietly and keep your knees over your toes. Make sure the ceiling is clear. End the set once your landings become heavy. Try 3 to 5 sets of 5 to 8 jumps, resting 60 to 90 seconds.
 
 ### In daily life
 Reaching for a high shelf, jumping a puddle or leaping to catch a ball all use the same quick leg drive and arm swing.

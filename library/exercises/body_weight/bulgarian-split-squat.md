@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: body_weight/bulgarian_split_squat
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: [gluteus-minimus, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [adductor-muscle-group, soleus]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: []
-variations: []
+  target: [gluteus-maximus, vasti-group]
+  synergist: [adductor-muscle-group, gluteus-medius, soleus]
+  stabilizer: [external-and-internal-obliques, gluteus-minimus, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  dynamic: [gastrocnemius, hamstrings, rectus-femoris]
+  antagonist: [iliacus, psoas-major]
+variations: [barbell/bulgarian-split-squat, dumbbell/bulgarian-split-squat, body_weight/split-squat, body_weight/lunge, body_weight/reverse-lunge]
 ---
 The body-weight Bulgarian split squat is a single-leg squat with your rear foot raised on a bench and no added load. It works the thighs, glutes and inner thighs, and is a good way to learn the movement.
 

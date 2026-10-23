@@ -7,12 +7,12 @@ type: weight
 example: body_weight/wide_push_up
 other_examples: [body_weight/close_pushup, body_weight/pike_push_up, body_weight/push_up, body_weight/push_up_fingers]
 muscles:
-  target: [anconeus, deltoid, pectoralis-major, triceps-brachii]
-  stabilizer: [external-and-internal-obliques, pectoralis-minor, rectus-abdominis, rectus-femoris, serratus-anterior, vasti-group]
-  synergist: [deltoid, pectoralis-major, triceps-brachii]
+  target: [deltoid, pectoralis-major, triceps-brachii]
+  synergist: [anconeus, pectoralis-minor, serratus-anterior]
+  stabilizer: [external-and-internal-obliques, gluteus-maximus, rectus-abdominis, rectus-femoris, transversus-abdominis, vasti-group]
   dynamic: [biceps-brachii]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: [dumbbell/bench-press, dumbbell/flye, dumbbell/incline-flye]
+  antagonist: [rhomboids]
+variations: [dumbbell/bench-press, dumbbell/flye, dumbbell/incline-flye, body_weight/push-up-fingers, body_weight/side-push-up, body_weight/incline-push-up, body_weight/archer-push-up, body_weight/plyo-push-up, body_weight/push-up-plus, body_weight/scapular-push-up, stability_ball/push-up-hands-on-ball, bosu_ball/pushup-hands-on-bosu-ball, bosu_ball/pushup-feet-on-bosu-ball]
 ---
 A bodyweight press from the floor. It works the chest (pectoralis major), the front of the shoulders and the triceps, while your abdominals, glutes and serratus anterior keep your body in one line.
 

@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: stretch
 example: body_weight/back_hero
 muscles:
-  target: [psoas-major, rectus-femoris, vasti-group]
-  stabilizer: [gluteus-medius, gluteus-minimus]
-  synergist: [gluteus-maximus]
+  target: [iliacus, psoas-major, rectus-femoris, tibialis-anterior, vasti-group]
+  synergist: [gluteus-maximus, sartorius]
+  stabilizer: [deltoid, iliocostalis-portion, longissimus-portion, spinalis-portion, triceps-brachii]
   dynamic: []
-  antagonist: []
-variations: [body_weight/camel]
+  antagonist: [hamstrings]
+variations: [body_weight/camel, body_weight/couch-stretch, body_weight/walking-quad-stretch]
 ---
 The back hero is a stretch for the front of the thighs and hips, based on the yoga hero pose. It targets the quadriceps (including rectus femoris) and the hip flexors, and asks for good knee comfort.
 

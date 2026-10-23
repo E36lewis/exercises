@@ -2,17 +2,17 @@
 id: 3356c60b-04a0-404a-b69a-6ea6d96695b9
 name: front shoulder raise
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: barbell/front_raise
 other_examples: [barbell/reverse_bicep_curl]
 muscles:
   target: [deltoid]
-  stabilizer: [abductor-pollicis-longus, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, levator-scapulae, palmaris-longus, trapezius]
-  synergist: [deltoid, pectoralis-major, serratus-anterior, trapezius]
-  dynamic: []
-  antagonist: []
-variations: [dumbbell/single-arm-shoulder-raise]
+  stabilizer: [supraspinatus, levator-scapulae, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus, external-and-internal-obliques, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [pectoralis-major, serratus-anterior, trapezius]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, teres-major]
+variations: [dumbbell/front-arm-raise, dumbbell/single-arm-shoulder-raise]
 ---
 The front shoulder raise lifts a barbell straight in front of you to shoulder height. It works the front of the shoulder, and the grip muscles of the forearm hold the bar.
 

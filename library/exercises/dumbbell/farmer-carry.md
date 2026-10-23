@@ -2,15 +2,15 @@
 id: 9a8cbc1e-eaf7-4426-83a9-575d6f65a0a7
 name: farmer carry
 equipment: dumbbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Multi Region"
 type: weight
 muscles:
-  target: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, infrapinatus, multifidus, psoas-major, quadratus-lumborum, rotatores, sartorius, tensor-fasciae-latae]
-  synergist: [deltoid, levator-scapulae, teres-major, teres-minor, trapezius]
-  dynamic: [external-and-internal-obliques, rectus-abdominis]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: [dumbbell/wrist-curl-palm-down, dumbbell/wrist-curl-palm-up, resistance_band/finger-extensions]
+  target: [flexor-digitorum-superficialis, flexor-digitorum-profundus, trapezius]
+  stabilizer: [quadratus-lumborum, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, rotatores, gluteus-minimus, tensor-fasciae-latae, infrapinatus]
+  synergist: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-pollicis-longus, deltoid, levator-scapulae, gluteus-medius]
+  dynamic: [gastrocnemius, hamstrings]
+  antagonist: [extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digitorum]
+variations: [dumbbell/wrist-curl-palm-down, dumbbell/wrist-curl-palm-up, kettlebell/farmer-carry, kettlebell/suitcase-carry, resistance_band/farmer-carry, resistance_band/finger-extensions, sandbag/sandbag-carry]
 ---
 The dumbbell farmer carry is a walk while holding a dumbbell in each hand. Your forearms and grip hold the weights, while your shoulders, upper back and trunk keep you upright and level.
 

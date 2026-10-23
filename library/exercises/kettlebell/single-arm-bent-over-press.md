@@ -6,12 +6,12 @@ region: Shoulder & Upper Arm
 type: weight
 example: kettlebell/single_bent_over_press
 muscles:
-  target: [adductor-muscle-group, external-and-internal-obliques, gluteus-maximus, hamstrings, iliocostalis-portion, latissimus-dorsi, multifidus, psoas-major, quadratus-lumborum, rotatores, triceps-brachii]
-  stabilizer: [biceps-brachii, coracobrachialis, deltoid, iliocostalis-portion, infrapinatus, latissimus-dorsi, longissimus-portion, pectoralis-major, serratus-anterior, spinalis-portion, supraspinatus, teres-major, teres-minor, trapezius]
-  synergist: []
-  dynamic: [abductor-pollicis-longus, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, palmaris-longus]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [barbell/skull-crusher, dumbbell/single-arm-extension, kettlebell/single-extended-range-arm-press]
+  target: [triceps-brachii]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, multifidus, quadratus-lumborum, gluteus-maximus, hamstrings, transversus-abdominis, external-and-internal-obliques, latissimus-dorsi, supraspinatus, infrapinatus, teres-minor, subscapularis]
+  synergist: [anconeus, deltoid]
+  dynamic: []
+  antagonist: [biceps-brachii, brachialis]
+variations: [dumbbell/single-arm-extension, dumbbell/tricep-extension, barbell/skull-crusher, dumbbell/skull-crusher]
 ---
 This is a one-arm kettlebell press done while you hinge forward. The triceps do the pressing, and your lats, glutes, hamstrings and core hold your torso steady.
 

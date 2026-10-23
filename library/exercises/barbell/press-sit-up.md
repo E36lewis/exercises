@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: barbell/press_sit_up
 muscles:
-  target: [external-and-internal-obliques, rectus-abdominis, transversus-abdominis]
-  stabilizer: [biceps-brachii, brachialis, deltoid, subscapularis, triceps-brachii]
+  target: [rectus-abdominis, external-and-internal-obliques]
+  stabilizer: [transversus-abdominis, deltoid, triceps-brachii, trapezius, serratus-anterior, supraspinatus, subscapularis]
   synergist: [iliacus, psoas-major]
-  dynamic: [infrapinatus, teres-major, teres-minor]
-  antagonist: []
-variations: []
+  dynamic: [rectus-femoris]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [kettlebell/situp]
 ---
 A sit-up where you hold a light barbell straight above you the whole way up and down. The abdominals and hip flexors do the sit-up, while the shoulders and arms hold the bar overhead.
 

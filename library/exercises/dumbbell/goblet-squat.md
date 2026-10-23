@@ -2,17 +2,17 @@
 id: b6248b3a-6a01-4053-bef6-303e3ca474cf
 name: goblet squat
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: dumbbell/goblet_squat
 other_examples: [kettlebell/goblet_squat, kettlebellalt/goblet_squat]
 muscles:
   target: [gluteus-maximus, rectus-femoris, vasti-group]
-  stabilizer: [gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [adductor-muscle-group, external-and-internal-obliques, iliacus, psoas-major, quadratus-lumborum, rectus-abdominis, rectus-femoris, sartorius, transversus-abdominis]
-  dynamic: [adductor-muscle-group, gastrocnemius, hamstrings, soleus]
+  stabilizer: [gluteus-medius, gluteus-minimus, rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, soleus, hamstrings]
+  dynamic: [gastrocnemius, hamstrings]
   antagonist: [iliacus, psoas-major]
-variations: [kettlebell/goblet-squat]
+variations: [barbell/front-squat, dumbbell/squat, kettlebell/goblet-squat]
 ---
 The dumbbell goblet squat holds one dumbbell vertically at your chest. It works the thighs and glutes, and the abdomen steadies your trunk against the weight in front of you.
 

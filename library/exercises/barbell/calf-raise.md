@@ -2,17 +2,17 @@
 id: 7b4a535b-ad32-4098-a688-14b2fb95432e
 name: calf raise
 equipment: barbell
-region: Knee & Lower Leg
+region: "Knee & Lower Leg"
 type: weight
 example: barbell/calf_raise
 other_examples: [body_weight/calf_raise, body_weight/calf_raise_single]
 muscles:
   target: [gastrocnemius]
-  stabilizer: [gluteus-medius, gluteus-minimus, levator-scapulae, trapezius]
-  synergist: [soleus]
-  dynamic: []
-  antagonist: []
-variations: []
+  stabilizer: [gluteus-medius, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [soleus, fibularis-longus, fibularis-brevis, tibialis-posterior, flexor-hallucis-longus]
+  dynamic: [gastrocnemius]
+  antagonist: [tibialis-anterior]
+variations: [machine/seated-calf-raise]
 ---
 The barbell calf raise is a standing exercise that lifts your heels with a bar across your upper back. The gastrocnemius and the soleus (the two main calf muscles) do the lifting, and the bar adds load.
 

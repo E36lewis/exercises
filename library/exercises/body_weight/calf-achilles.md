@@ -5,12 +5,12 @@ equipment: body weight
 region: Knee & Lower Leg
 type: stretch
 muscles:
-  target: [gastrocnemius, soleus]
-  stabilizer: []
-  synergist: []
+  target: [gastrocnemius, plantaris, soleus]
+  synergist: [flexor-digitorum-longus, flexor-hallucis-longus, tibialis-posterior]
+  stabilizer: [gluteus-medius, vasti-group]
   dynamic: []
-  antagonist: []
-variations: [body_weight/calf-wall]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/calf-wall, body_weight/bent-knee-calf-stretch, body_weight/eccentric-heel-drop]
 ---
 The calf/Achilles stretch lengthens the calf muscles and the Achilles tendon, the thick cord at the back of the ankle. It is often done on a step or against a wall.
 

@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: body_weight/bird_dog
 muscles:
-  target: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  stabilizer: [gluteus-medius, gluteus-minimus, obturator-externus, pectoralis-major, piriformis, serratus-anterior, triceps-brachii]
-  synergist: [deltoid, gluteus-maximus, trapezius]
+  target: [gluteus-maximus, iliocostalis-portion, longissimus-portion, multifidus, spinalis-portion]
+  synergist: [deltoid, trapezius]
+  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, pectoralis-major, rectus-abdominis, serratus-anterior, transversus-abdominis, triceps-brachii]
   dynamic: [hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  antagonist: [iliacus, psoas-major]
+variations: [stability_ball/bird-dog, body_weight/dead-bug, body_weight/superman, body_weight/bear-plank-hold]
 ---
 The bird dog is a body-weight exercise on hands and knees. You extend one arm and the opposite leg while holding your trunk still, which trains the back extensors, glutes, shoulders and core to work together.
 

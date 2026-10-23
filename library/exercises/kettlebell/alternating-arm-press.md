@@ -7,12 +7,12 @@ type: weight
 example: kettlebell/alternating_arm_press
 other_examples: [kettlebellalt/alternating_arm_press]
 muscles:
-  target: [deltoid]
-  stabilizer: [levator-scapulae, trapezius]
-  synergist: [deltoid, pectoralis-major, serratus-anterior, supraspinatus, trapezius, triceps-brachii]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: []
-variations: [dumbbell/alternating-arm-press, kettlebell/seesaw-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-maximus, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [serratus-anterior, trapezius, pectoralis-major]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, teres-major]
+variations: [dumbbell/alternating-arm-press, kettlebell/seesaw-press, kettlebell/double-press, kettlebell/seated-press, dumbbell/single-arm-press]
 ---
 The kettlebell alternating arm press is a standing overhead press done one arm at a time. It works the shoulders and triceps, while your core and glutes keep you steady against the off-centre load.
 

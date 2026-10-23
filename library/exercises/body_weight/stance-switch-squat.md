@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: cardio
 example: body_weight/stance_switch_squat
 muscles:
-  target: [adductor-muscle-group, gastrocnemius, gracilis, plantaris, rectus-femoris, sartorius, soleus, vasti-group]
-  stabilizer: [adductor-muscle-group, gracilis, hamstrings, rectus-femoris, sartorius, vasti-group]
-  synergist: []
-  dynamic: [adductor-muscle-group, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, iliocostalis-portion, longissimus-portion, spinalis-portion, trapezius]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]
+  synergist: [adductor-muscle-group, gluteus-medius, gracilis, plantaris, sartorius]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/stance-squat, body_weight/switch-lunge, body_weight/180-switch-jump, body_weight/split-squat]
 ---
 The stance switch squat is a body-weight cardio squat where you swap which foot is in front between reps. You squat in a staggered stance, then hop to change feet. It works the thighs, inner thighs, calves and glutes.
 
@@ -23,7 +23,7 @@ The stance switch squat is a body-weight cardio squat where you swap which foot 
 5. Squat again straight away.
 6. Keep alternating the lead foot.
 
-**Tips:** Keep your hops low and your chest upright. Bend your knees on landing. If you lose your balance, step instead of hopping.
+**Tips:** Keep your hops low and your chest upright. Bend your knees on landing. If you lose your balance, step instead of hopping. Try 3 to 5 sets of 20 to 30 seconds, resting 30 to 45 seconds.
 
 ### In daily life
 Rapid changes of foot position help when you step around a puddle or a pet and have to keep moving.

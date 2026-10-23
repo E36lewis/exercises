@@ -2,15 +2,15 @@
 id: 3edbcc7a-d985-4892-9243-e657730a3c93
 name: lunge with twist
 equipment: hammer
-region: "Abdomen, Lower Back, & Pelvis"
+region: Hip & Thigh
 type: weight
 muscles:
-  target: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, vasti-group]
-  stabilizer: [deltoid, gluteus-maximus, gluteus-medius, gluteus-minimus, gracilis, levator-scapulae, pectineus, pectoralis-major, pectoralis-minor, piriformis, psoas-major, sartorius, tensor-fasciae-latae, tibialis-anterior, trapezius, vasti-group]
-  synergist: [adductor-muscle-group, deltoid, gluteus-maximus, psoas-major, quadratus-lumborum, soleus]
-  dynamic: [external-and-internal-obliques, gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion]
-variations: []
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [external-and-internal-obliques, adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [body_weight/lunge, body_weight/walking-lunge, body_weight/reverse-lunge, kettlebell/lunge-pass-through, dumbbell/lunge]
 ---
 A lunge with a trunk rotation toward the front leg. It works the thighs and glutes, and the abdominal and back muscles that rotate your trunk (the obliques and the spinal muscles).
 

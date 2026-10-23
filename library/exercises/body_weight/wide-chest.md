@@ -6,12 +6,12 @@ region: Thorax
 type: stretch
 example: body_weight/wide_chest
 muscles:
-  target: [biceps-brachii, deltoid, infrapinatus, pectoralis-major, pectoralis-minor, teres-minor]
-  stabilizer: []
-  synergist: []
-  dynamic: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus]
+  target: [deltoid, pectoralis-major, pectoralis-minor]
+  synergist: [coracobrachialis, infrapinatus, rhomboids, teres-minor, trapezius]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+  dynamic: [biceps-brachii]
   antagonist: []
-variations: [body_weight/expand-contract-chest-back]
+variations: [body_weight/expand-contract-chest-back, body_weight/cross-body-shoulder-stretch]
 ---
 The wide chest stretch opens the chest and the front of the shoulders by holding your arms out wide and pressing them slightly back. It stretches the pectoral muscles, the front of the deltoid, and the biceps when your elbows are straight.
 

@@ -2,16 +2,16 @@
 id: d6ad42db-3e18-49a1-b09a-cfe6b12ba250
 name: gap jump
 equipment: body weight
-region: "Abdomen, Lower Back, & Pelvis"
+region: Hip & Thigh
 type: cardio
 example: body_weight/gap_jump
 muscles:
-  target: [adductor-muscle-group, gastrocnemius, soleus, tibialis-posterior, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [adductor-muscle-group, gluteus-maximus, psoas-major, rectus-femoris, sartorius]
-  dynamic: [adductor-muscle-group, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [body_weight/frog-leap, body_weight/lateral-leap]
+  target: [adductor-muscle-group, gastrocnemius, gluteus-maximus, soleus, vasti-group]
+  synergist: [gracilis, pectineus, plantaris, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/frog-leap, body_weight/lateral-leap, body_weight/broad-jump, body_weight/reach-jump]
 ---
 The gap jump is a bodyweight jump forward over a gap or a line on the floor. It asks your calves, thighs and inner thighs to push you off the ground and then absorb the landing, so it trains power and control together.
 
@@ -24,7 +24,7 @@ The gap jump is a bodyweight jump forward over a gap or a line on the floor. It 
 6. Bend your knees as you land to soak up the impact.
 7. Pause, turn around and jump back.
 
-**Tips:** Widen the gap only when you land quietly every time. Keep your knees pointing the same way as your toes. Use a non-slip, flat surface.
+**Tips:** Widen the gap only when you land quietly every time. Keep your knees pointing the same way as your toes. Use a non-slip, flat surface. Try 4 to 6 sets of 5 to 8 jumps, resting 45 to 60 seconds between sets.
 
 ### In daily life
 Clearing a puddle, a ditch or a gap between two stepping points uses the same push-off and landing.

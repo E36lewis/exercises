@@ -2,20 +2,20 @@
 id: 3203d9d4-1e9d-4fba-b5dc-634f076f3a03
 name: upright row
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 muscles:
   target: [deltoid, trapezius]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  synergist: [biceps-brachii, brachialis, levator-scapulae, trapezius]
-  dynamic: [infrapinatus, supraspinatus, teres-minor]
+  stabilizer: [infrapinatus, teres-minor, flexor-digitorum-superficialis, flexor-digitorum-profundus, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [biceps-brachii, brachialis, levator-scapulae, rhomboids, supraspinatus, serratus-anterior]
+  dynamic: []
   antagonist: [latissimus-dorsi, pectoralis-major, triceps-brachii]
-variations: []
+variations: [kettlebell/sumo-high-pull]
 ---
 The upright row pulls a weight straight up the front of your body, leading with the elbows. It works the side of the shoulders (deltoids) and the upper trapezius, which sits between your neck and shoulders, with the biceps helping.
 
 ### How to do it
-1. Stand tall with your feet hip-width apart, holding a bar or two dumbbells in front of your thighs with an overhand grip, hands about shoulder-width apart.
+1. Stand tall with your feet hip-width apart, holding a barbell in front of your thighs with an overhand grip, hands about shoulder-width apart.
 2. Brace your abs and keep your shoulders down.
 3. Lead with your elbows and raise the weight along your body toward your chest.
 4. Stop when your elbows are about level with your shoulders.

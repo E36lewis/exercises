@@ -2,16 +2,16 @@
 id: d40eaf4c-7349-46fe-a521-34cbbff887eb
 name: wide feet hamstring stretch
 equipment: body weight
-region: Multi Region
+region: Hip & Thigh
 type: stretch
 example: body_weight/wide_feet_hamstring_stretch
 muscles:
-  target: [adductor-muscle-group, gastrocnemius, gluteus-maximus, hamstrings, soleus]
-  stabilizer: [gluteus-medius, gluteus-minimus, infrapinatus]
-  synergist: [deltoid, triceps-brachii]
-  dynamic: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  antagonist: []
-variations: [body_weight/side-to-side-hamstring, body_weight/sitting-hamstring]
+  target: [adductor-muscle-group, gluteus-maximus, gracilis, hamstrings]
+  synergist: [soleus]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, vasti-group]
+  dynamic: [gastrocnemius]
+  antagonist: [iliacus, psoas-major]
+variations: [body_weight/side-to-side-hamstring, body_weight/sitting-hamstring, body_weight/straddle-stretch]
 ---
 The wide feet hamstring stretch is a standing forward fold with your feet set wide apart. It stretches the hamstrings at the back of the thighs and the adductors on the inner thighs, and the calves and glutes also feel it.
 

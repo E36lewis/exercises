@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: cardio
 example: body_weight/switch_lunge
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: [deltoid, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, quadratus-lumborum, rectus-abdominis, rhomboids, spinalis-portion, tibialis-anterior, trapezius, triceps-brachii]
-  synergist: [adductor-muscle-group, deltoid, gastrocnemius, gluteus-maximus, gracilis, psoas-major, quadratus-lumborum, soleus]
-  dynamic: [gastrocnemius, gracilis, hamstrings, pectineus, piriformis, sartorius, tensor-fasciae-latae, vasti-group]
-  antagonist: []
-variations: []
+  target: [gluteus-maximus, vasti-group]
+  synergist: [adductor-muscle-group, gluteus-medius, psoas-major, soleus]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, quadratus-lumborum, rectus-abdominis, spinalis-portion, transversus-abdominis]
+  dynamic: [gastrocnemius, hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/lunge, body_weight/reverse-lunge, body_weight/walking-lunge, body_weight/stance-switch-squat, body_weight/180-switch-jump]
 ---
 The switch lunge is a body-weight cardio exercise, also called a jumping lunge. You jump and swap your legs in the air so that you land in a lunge on the opposite side. It works the thighs, glutes and calves, and the core keeps you upright.
 
@@ -23,7 +23,7 @@ The switch lunge is a body-weight cardio exercise, also called a jumping lunge. 
 5. Land in a lunge on the opposite side, keeping your torso upright.
 6. Continue to alternate sides.
 
-**Tips:** Land softly and keep your front knee in line with your ankle. Keep your core tight and your gaze forward. Do a regular alternating lunge if the jump bothers your knees.
+**Tips:** Land softly and keep your front knee in line with your ankle. Keep your core tight and your gaze forward. Do a regular alternating lunge if the jump bothers your knees. Try 3 to 5 sets of 20 to 30 seconds, resting 30 to 60 seconds, or 10 to 16 switches per set.
 
 ### In daily life
 It prepares you for quick footwork such as sprinting to stop a rolling ball, or running down a hill.

@@ -2,15 +2,15 @@
 id: 2bc27b2e-c928-4afb-bdc3-1bfa62002219
 name: renegade row
 equipment: dumbbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Multi Region"
 type: weight
 muscles:
   target: [latissimus-dorsi, rhomboids, trapezius]
-  stabilizer: [external-and-internal-obliques, rectus-abdominis, subscapularis, supraspinatus, teres-minor, transversus-abdominis]
-  synergist: [biceps-brachii, deltoid]
-  dynamic: [biceps-brachii, deltoid]
-  antagonist: [triceps-brachii]
-variations: []
+  stabilizer: [serratus-anterior, pectoralis-major, triceps-brachii, gluteus-maximus, rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, infrapinatus, supraspinatus, subscapularis, teres-minor]
+  synergist: [biceps-brachii, deltoid, teres-major, brachialis]
+  dynamic: [biceps-brachii]
+  antagonist: [pectoralis-minor]
+variations: [dumbbell/row, dumbbell/single-arm-bent-row, kettlebell/alternating-pushup-row]
 ---
 A plank with a dumbbell in each hand where you row one dumbbell at a time. It works the back (lats, trapezius and rhomboids), the shoulders and the biceps, while your core resists twisting and your support arm holds you up.
 

@@ -5,12 +5,12 @@ equipment: stability ball
 region: Hip & Thigh
 type: weight
 muscles:
-  target: [gluteus-maximus]
-  stabilizer: [adductor-muscle-group, gastrocnemius, soleus]
-  synergist: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, rectus-femoris, spinalis-portion, transversus-abdominis, vasti-group]
-  dynamic: [hamstrings]
-  antagonist: [adductor-muscle-group, iliacus, pectineus, psoas-major, rectus-femoris, sartorius, tensor-fasciae-latae]
-variations: []
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group]
+  dynamic: [gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [body_weight/glute-bridge, stability_ball/glute-bridge-marches, stability_ball/hamstring-curls, body_weight/single-leg-glute-bridge, barbell/hip-thrust]
 ---
 The stability ball bridge is a hip lift with your heels or upper back on a ball. The glutes lift the hips, the hamstrings help, and the unstable ball makes your core and legs work to keep you steady.
 

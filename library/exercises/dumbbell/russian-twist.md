@@ -8,11 +8,11 @@ example: dumbbell/russian_twist
 other_examples: [kettlebell/russian_twist, kettlebellalt/russian_twist]
 muscles:
   target: [external-and-internal-obliques]
-  stabilizer: [iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion]
-  synergist: [gemellus-inferior, gemellus-superior, gluteus-maximus, gluteus-medius, iliacus, obturator-externus, obturator-internus, piriformis, psoas-major, tensor-fasciae-latae]
-  dynamic: [iliocostalis-portion, longissimus-portion, multifidus, spinalis-portion, transversus-abdominis]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: [medicine_ball/russian-twist]
+  stabilizer: [transversus-abdominis, multifidus, rotatores, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [rectus-abdominis, iliacus, psoas-major]
+  dynamic: []
+  antagonist: []
+variations: [body_weight/russian-twist, medicine_ball/russian-twist, stability_ball/russian-twist]
 ---
 This is a seated rotating core exercise with a dumbbell. You lean back slightly and turn your torso side to side, moving the weight with you. It mainly works the obliques, the muscles at the sides of your waist, while the hip flexors and deep trunk muscles help.
 

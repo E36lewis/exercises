@@ -2,16 +2,16 @@
 id: 60292345-082b-48e4-855a-82dd2b31295f
 name: camel
 equipment: body weight
-region: Hip & Thigh
+region: Multi Region
 type: stretch
 example: body_weight/camel
 muscles:
-  target: [deltoid, external-and-internal-obliques, gluteus-medius, gluteus-minimus, iliacus, pectoralis-major, psoas-major, rectus-abdominis, rectus-femoris, tibialis-anterior, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: []
-  dynamic: [external-and-internal-obliques, gluteus-maximus, hamstrings, infrapinatus, subscapularis, supraspinatus]
+  target: [iliacus, pectoralis-major, psoas-major, rectus-abdominis, rectus-femoris, vasti-group]
+  synergist: [deltoid, external-and-internal-obliques, sartorius]
+  stabilizer: [gluteus-maximus, gluteus-medius, iliocostalis-portion, longissimus-portion, rhomboids, spinalis-portion, trapezius]
+  dynamic: []
   antagonist: []
-variations: []
+variations: [body_weight/bow, body_weight/back-hero, body_weight/upward-dog, body_weight/couch-stretch]
 ---
 The camel is a kneeling backbend from yoga. You arch back with your hands on your heels, which stretches the front of the thighs, hip flexors, abdomen and chest.
 

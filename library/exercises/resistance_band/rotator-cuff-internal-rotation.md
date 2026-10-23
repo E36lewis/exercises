@@ -2,15 +2,15 @@
 id: 95a9b284-0f45-4d13-adb2-7a6b0a18208d
 name: rotator cuff internal rotation
 equipment: resistance band
-region: "Abdomen, Lower Back, & Pelvis"
+region: Shoulder & Upper Arm
 type: weight
 muscles:
   target: [subscapularis]
-  stabilizer: [deltoid, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, rhomboids, trapezius]
-  synergist: [deltoid, latissimus-dorsi, pectoralis-major, teres-major]
+  stabilizer: [supraspinatus, serratus-anterior, rhomboids, trapezius]
+  synergist: [pectoralis-major, latissimus-dorsi, teres-major]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [infrapinatus, teres-minor]
+variations: [resistance_band/rotator-cuff-external-rotation, resistance_band/internal-rotation-at-90-degrees]
 ---
 This is a shoulder exercise with a resistance band. You turn your forearm inward across your belly while your elbow stays at your side. It works the internal rotators, mainly the subscapularis on the front of the shoulder blade, with teres major helping.
 

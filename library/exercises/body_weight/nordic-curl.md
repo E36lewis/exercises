@@ -7,11 +7,11 @@ type: weight
 example: body_weight/nordic_curl
 muscles:
   target: [hamstrings]
-  stabilizer: [adductor-muscle-group, gluteus-maximus, iliocostalis-portion, longissimus-portion, spinalis-portion]
   synergist: [gastrocnemius, gracilis, popliteus, sartorius]
+  stabilizer: [adductor-muscle-group, external-and-internal-obliques, gluteus-maximus, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion]
   dynamic: []
-  antagonist: [external-and-internal-obliques, rectus-abdominis, rectus-femoris, tibialis-anterior]
-variations: []
+  antagonist: [rectus-femoris, tibialis-anterior]
+variations: [machine/leg-curl, machine/glute-ham-raise, slide_board/hamstring-slide-curl, stability_ball/hamstring-curls, body_weight/reverse-nordic]
 ---
 A bodyweight exercise where you kneel with your feet held down and lower your body forward, using your hamstrings (the back of your thighs) to slow the fall. It is a slow, controlled lowering, and the calves and hips help.
 

@@ -5,12 +5,12 @@ equipment: stability ball
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [rectus-abdominis]
-  stabilizer: [deltoid, external-and-internal-obliques, pectoralis-major, rectus-abdominis, rectus-femoris, serratus-anterior, triceps-brachii, vasti-group]
-  synergist: [adductor-muscle-group, external-and-internal-obliques, iliacus, psoas-major, sartorius, tensor-fasciae-latae]
+  target: [rectus-abdominis, psoas-major, iliacus]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, deltoid, pectoralis-major, serratus-anterior, supraspinatus, infrapinatus, teres-minor, subscapularis, triceps-brachii]
+  synergist: [tensor-fasciae-latae, sartorius]
   dynamic: [rectus-femoris]
-  antagonist: [iliocostalis-portion, longissimus-portion, rhomboids, spinalis-portion, trapezius]
-variations: [stability_ball/stability-ball-front-plank]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [stability_ball/pike, stability_ball/stability-ball-front-plank, body_weight/mountain-climber, resistance_band/band-plank-march, slide_board/slide-board-mountain-climber]
 ---
 A core exercise from a push-up position with your shins on a stability ball. You pull your knees in toward your chest, rolling the ball with you. It works the abdominals and hip flexors, while your shoulders and arms hold you up.
 

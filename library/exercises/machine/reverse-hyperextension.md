@@ -5,12 +5,12 @@ equipment: machine
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [gluteus-maximus, iliocostalis-portion, interspinales, quadratus-lumborum]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [hamstrings]
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, quadratus-lumborum, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [iliocostalis-portion, longissimus-portion, spinalis-portion, multifidus, adductor-muscle-group]
   dynamic: []
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  antagonist: [rectus-abdominis, psoas-major, iliacus]
+variations: [body_weight/hyperextension, stability_ball/back-extension, machine/glute-ham-raise, barbell/good-morning]
 ---
 A machine exercise where you lie face down with your hips at the edge and lift your legs behind you. It works the glutes and the muscles along your lower back, with the hamstrings helping.
 

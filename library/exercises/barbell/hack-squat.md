@@ -2,16 +2,16 @@
 id: 01d77932-6683-4fdb-aec0-ad7d422188e5
 name: hack squat
 equipment: barbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: barbell/hack_squat
 muscles:
-  target: [gluteus-maximus, rectus-femoris, vasti-group]
-  stabilizer: [gemellus-inferior, gemellus-superior, obturator-externus, obturator-internus, piriformis, quadratus-femoris, quadratus-lumborum]
-  synergist: [adductor-muscle-group, external-and-internal-obliques, gluteus-medius, gluteus-minimus, gracilis, iliocostalis-portion, longissimus-portion, rectus-abdominis, soleus, spinalis-portion, transversus-abdominis]
+  target: [rectus-femoris, vasti-group, gluteus-maximus]
+  stabilizer: [quadratus-lumborum, trapezius, rhomboids, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, gluteus-medius, gluteus-minimus, gracilis, soleus]
   dynamic: [gastrocnemius, hamstrings]
-  antagonist: []
-variations: []
+  antagonist: [rectus-abdominis]
+variations: [barbell/front-squat, barbell/squat]
 ---
 The barbell hack squat holds the bar behind your legs, so you squat with the load hanging down behind you. It works the thighs and glutes, and the position keeps your torso fairly upright.
 

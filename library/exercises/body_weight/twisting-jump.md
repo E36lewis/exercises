@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: cardio
 example: body_weight/twisting_jump
 muscles:
-  target: [adductor-muscle-group, flexor-digitorum-longus, flexor-hallucis-brevis, flexor-hallucis-longus, gastrocnemius, plantaris, rectus-femoris, sartorius, soleus, tibialis-posterior, vasti-group]
-  stabilizer: [adductor-muscle-group, gluteus-maximus, gluteus-medius, gluteus-minimus, gracilis, pectineus, piriformis, psoas-major, rectus-femoris, sartorius, tensor-fasciae-latae]
-  synergist: [adductor-muscle-group, gluteus-maximus, hamstrings]
-  dynamic: [iliocostalis-portion, levator-scapulae, longissimus-portion, multifidus, quadratus-lumborum, spinalis-portion, trapezius]
-  antagonist: []
-variations: [body_weight/twist-180]
+  target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]
+  synergist: [adductor-muscle-group, flexor-hallucis-longus, gluteus-medius, gluteus-minimus, piriformis, plantaris, tensor-fasciae-latae, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, multifidus, quadratus-lumborum, rotatores, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/twist-180, body_weight/180-switch-jump]
 ---
 The twisting jump is a body-weight cardio exercise where you hop and swivel your hips and legs to one side while your chest keeps facing forward. It works the legs and glutes, and the trunk muscles that control the twist.
 
@@ -22,7 +22,7 @@ The twisting jump is a body-weight cardio exercise where you hop and swivel your
 4. Immediately jump again and rotate your hips and feet to the left.
 5. Keep alternating at a steady pace.
 
-**Tips:** Twist from the hips rather than twisting your knees on planted feet. Keep your landings quiet. Make the movement smaller if your knees feel uncomfortable, and keep your core tight so your upper body stays steady.
+**Tips:** Twist from the hips rather than twisting your knees on planted feet. Keep your landings quiet. Make the movement smaller if your knees feel uncomfortable, and keep your core tight so your upper body stays steady. Try 3 to 5 sets of 20 to 30 seconds, resting 30 to 45 seconds.
 
 ### In daily life
 It trains the hip and ankle control used to change direction on your feet, as in tennis, dancing, or stepping sideways in a crowded place.

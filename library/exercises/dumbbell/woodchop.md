@@ -2,15 +2,15 @@
 id: c82239ce-1df5-4a4a-8eb4-e059435358f7
 name: woodchop
 equipment: dumbbell
-region: Multi Region
+region: "Multi Region"
 type: weight
 muscles:
   target: [external-and-internal-obliques]
-  stabilizer: [gluteus-maximus, gluteus-medius, gluteus-minimus, rectus-femoris, transversus-abdominis, vasti-group]
-  synergist: [iliocostalis-portion, latissimus-dorsi, longissimus-portion, spinalis-portion]
-  dynamic: [deltoid, gluteus-maximus, hamstrings, infrapinatus, subscapularis, supraspinatus, teres-minor]
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis, multifidus, gluteus-medius, gluteus-minimus, rectus-femoris, vasti-group, infrapinatus, supraspinatus, subscapularis, teres-minor]
+  synergist: [latissimus-dorsi, gluteus-maximus, deltoid, rectus-abdominis, serratus-anterior]
+  dynamic: [hamstrings]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [cable/cable-chop, hammer/wood-choppers, landmine/landmine-rotation]
 ---
 The dumbbell woodchop is a rotational core exercise in which you move a dumbbell diagonally across your body in a chopping motion. It mainly works the obliques, with the spinal erectors, lats and glutes helping to power and steady the turn.
 

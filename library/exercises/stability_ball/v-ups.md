@@ -6,11 +6,11 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
   target: [rectus-abdominis]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
-  synergist: [external-and-internal-obliques, transversus-abdominis]
-  dynamic: [iliacus, psoas-major, rectus-femoris]
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, adductor-muscle-group, serratus-anterior]
+  synergist: [psoas-major, iliacus, tensor-fasciae-latae]
+  dynamic: [rectus-femoris, sartorius]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [body_weight/v-up, body_weight/hollow-body-hold, pull_up_bar/toes-to-bar]
 ---
 The stability ball V-up is a core exercise in which you hold a ball overhead, lift your arms and legs together, and pass the ball from your hands to your feet. It works the rectus abdominis and the deep core muscles, and the ball adds a coordination challenge.
 

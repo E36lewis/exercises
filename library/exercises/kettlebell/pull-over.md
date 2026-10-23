@@ -2,17 +2,17 @@
 id: 5b0a71c4-b9bd-4f53-a89f-82f67282b4ad
 name: pull over
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Thorax
 type: weight
 example: kettlebellalt/pull_over
 other_examples: [kettlebell/incline_pull_over, kettlebell/pull_over]
 muscles:
   target: [latissimus-dorsi]
-  stabilizer: [abductor-pollicis-longus, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, palmaris-longus]
-  synergist: [levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids, teres-major, trapezius, triceps-brachii]
-  dynamic: []
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis, rectus-abdominis, flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-carpi-radialis, flexor-carpi-ulnaris]
+  synergist: [pectoralis-major, teres-major]
+  dynamic: [triceps-brachii]
+  antagonist: [deltoid, coracobrachialis]
+variations: [dumbbell/pull-over, cable/straight-arm-pulldown, resistance_band/banded-straight-arm-pulldown]
 ---
 A pull over done lying on a bench or the floor with a kettlebell held by its horns. It works the lats, with the chest, the triceps and the upper back helping, and your forearms working to keep hold of the kettlebell.
 

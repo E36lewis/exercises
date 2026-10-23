@@ -5,11 +5,11 @@ equipment: resistance band
 region: Wrist & Hand
 type: weight
 muscles:
-  target: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis]
-  stabilizer: []
-  synergist: []
-  dynamic: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digiti-minimi-brevis, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
-  antagonist: []
+  target: [extensor-digitorum, extensor-indicis, extensor-digiti-minimi]
+  stabilizer: [extensor-carpi-radialis-longus, extensor-carpi-radialis-brevis, extensor-carpi-ulnaris]
+  synergist: [extensor-pollicis-longus, extensor-pollicis-brevis, abductor-pollicis-longus, dorsal-interossei-hand]
+  dynamic: []
+  antagonist: [flexor-digitorum-superficialis, flexor-digitorum-profundus]
 variations: []
 ---
 Finger extensions use a resistance band around the fingers to train opening the hand. They work the finger and wrist extensors on the back of the forearm, which balance the many muscles used to grip.

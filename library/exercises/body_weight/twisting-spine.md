@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: stretch
 example: body_weight/twisting_spine
 muscles:
-  target: [gluteus-maximus, iliocostalis-portion, interspinales, longissimus-portion, serratus-posterior-superior, spinalis-portion]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, serratus-posterior-superior]
-  synergist: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, pectoralis-minor, rectus-abdominis, serratus-posterior-superior]
-  dynamic: [biceps-brachii, deltoid, infrapinatus, subcostales, subscapularis, supraspinatus, triceps-brachii]
+  target: [gluteus-maximus, iliocostalis-portion, longissimus-portion, multifidus, piriformis, rotatores]
+  synergist: [external-and-internal-obliques, serratus-posterior-inferior]
+  stabilizer: [deltoid, spinalis-portion, transversus-abdominis]
+  dynamic: []
   antagonist: []
-variations: []
+variations: [body_weight/thread-the-needle, body_weight/open-book, body_weight/glute-stretch]
 ---
 The twisting spine is a seated stretch that turns your upper body over a bent knee. It gently stretches the muscles along the spine, the glutes and the outer hip, and it opens the chest as you turn.
 

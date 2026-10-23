@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: bosu_ball/single_leg_deadlift
 muscles:
-  target: [external-and-internal-obliques, gluteus-maximus, hamstrings, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
-  stabilizer: [adductor-muscle-group, gluteus-medius, gluteus-minimus]
-  synergist: [iliacus, psoas-major, quadratus-lumborum]
-  dynamic: [fibularis-brevis, fibularis-longus, gastrocnemius, soleus, tibialis-anterior]
-  antagonist: [rectus-femoris, vasti-group]
-variations: []
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, quadratus-lumborum, fibularis-brevis, fibularis-longus, tibialis-anterior]
+  synergist: [adductor-muscle-group]
+  dynamic: [gastrocnemius]
+  antagonist: [vasti-group, psoas-major, iliacus]
+variations: [kettlebell/single-leg-deadlift, dumbbell/single-leg-deadlift, body_weight/single-leg-romanian-deadlift]
 ---
 This is a one-leg hip hinge with your foot on a Bosu ball. It works the glutes and hamstrings, and the core and ankle muscles work to keep you steady on the wobbling dome.
 

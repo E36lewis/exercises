@@ -6,11 +6,11 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
   target: [external-and-internal-obliques, transversus-abdominis]
-  stabilizer: [adductor-muscle-group, deltoid, gluteus-maximus, gluteus-medius, gluteus-minimus, gracilis, hamstrings, pectineus, pectoralis-major, pectoralis-minor, psoas-major, rectus-abdominis, sartorius, tensor-fasciae-latae, trapezius, vasti-group]
-  synergist: [psoas-major, quadratus-lumborum]
-  dynamic: [external-and-internal-obliques]
-  antagonist: []
-variations: []
+  stabilizer: [quadratus-lumborum, multifidus, gluteus-maximus, gluteus-medius, vasti-group]
+  synergist: [deltoid, latissimus-dorsi, serratus-anterior, pectoralis-major, triceps-brachii, rectus-abdominis]
+  dynamic: []
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [cable/cable-chop, dumbbell/woodchop, hammer/sledgehammer-slam]
 ---
 Wood choppers use a hammer or similar weight to copy the motion of chopping wood. You swing the weight from above one shoulder down across your body, which works the obliques and the deep core muscles that turn and brace the trunk.
 

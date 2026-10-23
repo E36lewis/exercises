@@ -2,14 +2,14 @@
 id: c46518e6-0ecd-4802-9de7-cb73a185aba3
 name: push-up hands on ball
 equipment: stability ball
-region: Shoulder & Upper Arm
+region: Thorax
 type: weight
 muscles:
-  target: [pectoralis-major, pectoralis-minor]
-  stabilizer: [infrapinatus, rhomboids, serratus-anterior, subscapularis, supraspinatus, teres-minor, trapezius]
-  synergist: [biceps-brachii, external-and-internal-obliques, rectus-abdominis, transversus-abdominis]
-  dynamic: [deltoid, triceps-brachii]
-  antagonist: []
+  target: [pectoralis-major, deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, rhomboids, trapezius, rectus-abdominis, transversus-abdominis, external-and-internal-obliques, gluteus-maximus, vasti-group, rectus-femoris]
+  synergist: [serratus-anterior, anconeus]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi]
 variations: [body_weight/push-up, bosu_ball/pushup-feet-on-bosu-ball, bosu_ball/pushup-hands-on-bosu-ball]
 ---
 A push-up with your hands on top of a stability ball. It works the chest and shoulders as a normal push-up does, and the ball's wobble makes your core, shoulder blades and arms work harder to keep you steady.

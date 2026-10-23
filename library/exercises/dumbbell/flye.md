@@ -2,17 +2,17 @@
 id: 695bc48b-6f87-445b-a1c1-43b92cb0abd3
 name: flye
 equipment: dumbbell
-region: Thorax
+region: "Thorax"
 type: weight
 example: dumbbell/flye
 other_examples: [dumbbell/single_flye, kettlebell/flye, kettlebell/single_flye, kettlebellalt/flye]
 muscles:
   target: [pectoralis-major]
-  stabilizer: [abductor-pollicis-longus, biceps-brachii, brachialis, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, palmaris-longus, pectoralis-minor, triceps-brachii]
-  synergist: [deltoid, pectoralis-major, triceps-brachii]
-  dynamic: []
-  antagonist: []
-variations: [dumbbell/incline-flye]
+  stabilizer: [pectoralis-minor, serratus-anterior, brachialis, triceps-brachii, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [deltoid, coracobrachialis]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, rhomboids, teres-major]
+variations: [barbell/bench-press, dumbbell/bench-press, dumbbell/incline-flye]
 ---
 The dumbbell flye is a chest exercise in which you open and close your arms like wings while lying on a flat bench. It works the chest (pectoralis major), with the front of the shoulders and the arms steadying the weights.
 

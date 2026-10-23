@@ -2,17 +2,17 @@
 id: 4ca190ea-6902-4728-9579-d4cc8701e875
 name: single arm press
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/single_arm_press
 other_examples: [dumbbell/single_bench_press, kettlebell/single_arm_press, kettlebell/single_bench_press, kettlebellalt/single_arm_press]
 muscles:
-  target: [deltoid, serratus-anterior]
-  stabilizer: [levator-scapulae, rhomboids, trapezius]
-  synergist: [deltoid, infrapinatus, pectoralis-major, serratus-anterior, teres-major, teres-minor, trapezius, triceps-brachii]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: []
-variations: [dumbbell/alternating-arm-press, kettlebell/alternating-arm-press, kettlebell/seated-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [infrapinatus, subscapularis, teres-minor, quadratus-lumborum, external-and-internal-obliques, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [serratus-anterior, trapezius, pectoralis-major, supraspinatus]
+  dynamic: [triceps-brachii]
+  antagonist: [latissimus-dorsi, biceps-brachii]
+variations: [dumbbell/alternating-arm-press, dumbbell/shoulder-press, kettlebell/alternating-arm-press, kettlebell/seated-press]
 ---
 This is a one-arm overhead press with a dumbbell. It works your shoulders and the muscles around your shoulder blade, with the triceps finishing the press.
 

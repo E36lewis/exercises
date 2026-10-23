@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: stretch
 example: body_weight/childs_pose
 muscles:
-  target: [deltoid, gluteus-maximus, iliocostalis-portion, latissimus-dorsi, longissimus-portion, pectoralis-major, pectoralis-minor, spinalis-portion, triceps-brachii]
-  stabilizer: []
-  synergist: [levator-scapulae, pectoralis-major, teres-major, teres-minor]
-  dynamic: [infrapinatus, levator-scapulae, teres-major, teres-minor, trapezius]
+  target: [gluteus-maximus, iliocostalis-portion, latissimus-dorsi, longissimus-portion, spinalis-portion]
+  synergist: [quadratus-lumborum, teres-major, triceps-brachii]
+  stabilizer: [diaphragm]
+  dynamic: []
   antagonist: []
-variations: []
+variations: [body_weight/frog-pose, body_weight/cat-stretch, body_weight/sleeper-stretch]
 ---
 Child's pose is a resting yoga stretch. You sit back onto your heels and fold forward with your arms out in front, which gently stretches the back, hips and shoulders.
 

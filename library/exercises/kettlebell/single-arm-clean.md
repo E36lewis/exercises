@@ -2,17 +2,17 @@
 id: 60cca37d-1945-4bb4-890d-e8086036fc06
 name: single arm clean
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: weight
 example: kettlebellalt/single_arm_clean
 other_examples: [dumbbell/single_arm_clean, kettlebell/single_arm_clean]
 muscles:
-  target: [adductor-muscle-group, biceps-brachii, brachioradialis, coracobrachialis, deltoid, gluteus-maximus, gracilis, hamstrings, rectus-femoris, sartorius, vasti-group]
-  stabilizer: [biceps-brachii, external-and-internal-obliques, rectus-abdominis, triceps-brachii]
-  synergist: [deltoid, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, levator-scapulae, serratus-anterior, supraspinatus, trapezius]
-  dynamic: [latissimus-dorsi, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids, subscapularis]
-  antagonist: [iliocostalis-portion, longissimus-portion, psoas-major, quadratus-lumborum, spinalis-portion, trapezius]
-variations: [kettlebell/alternating-hang-clean, kettlebell/clean-from-hang]
+  target: [gluteus-maximus, hamstrings, vasti-group, adductor-muscle-group]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, supraspinatus, infrapinatus, teres-minor, subscapularis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [trapezius, deltoid, biceps-brachii, serratus-anterior, levator-scapulae]
+  dynamic: [rectus-femoris, gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [kettlebell/arm-clean, kettlebell/alternating-hang-clean, kettlebell/clean-from-hang, dumbbell/clean-press, barbell/clean]
 ---
 This is a fast lift that brings a kettlebell from the floor to your shoulder with one hand. Your legs, hips and shoulder drive it, and your forearm and grip keep it controlled.
 

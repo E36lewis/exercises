@@ -5,12 +5,12 @@ equipment: body weight
 region: Hip & Thigh
 type: stretch
 muscles:
-  target: [gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings]
-  stabilizer: [gluteus-maximus, gluteus-medius, gluteus-minimus]
-  synergist: []
-  dynamic: [gluteus-maximus, hamstrings]
-  antagonist: []
-variations: []
+  target: [hamstrings]
+  synergist: [gluteus-maximus]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  dynamic: [gastrocnemius]
+  antagonist: [iliacus, psoas-major, vasti-group]
+variations: [body_weight/single-sitting-hamstring, body_weight/sitting-hamstring, body_weight/half-split]
 ---
 The split hamstring stretch is a body-weight stretch for the back of the thigh. Your legs are split, one straight in front and the other bent or tucked, so one hamstring is lengthened at a time. You may feel it in the buttock as well.
 

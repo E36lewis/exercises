@@ -2,15 +2,15 @@
 id: 7e32b309-d966-479d-b5fb-026e576990be
 name: sledgehammer slam
 equipment: hammer
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: weight
 muscles:
-  target: [deltoid, gluteus-maximus, levator-scapulae, rectus-femoris, rhomboids, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, trapezius]
-  synergist: [adductor-muscle-group, deltoid, gluteus-maximus, hamstrings, latissimus-dorsi, levator-scapulae, rectus-femoris, rhomboids, vasti-group]
-  dynamic: [adductor-muscle-group, hamstrings, latissimus-dorsi]
-  antagonist: [adductor-muscle-group, external-and-internal-obliques, gracilis, hamstrings, rectus-abdominis, sartorius, trapezius]
-variations: []
+  target: [latissimus-dorsi, triceps-brachii, gluteus-maximus, vasti-group]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, rectus-abdominis, flexor-digitorum-superficialis, flexor-digitorum-profundus, trapezius, rhomboids]
+  synergist: [deltoid, teres-major, adductor-muscle-group]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: []
+variations: [medicine_ball/ball-slam, battle_rope/battle-rope-slam, hammer/wood-choppers]
 ---
 The sledgehammer slam is a full-body conditioning move. You raise a sledgehammer overhead and bring it down onto a large tire. The legs, hips, back, shoulders and core all take part.
 

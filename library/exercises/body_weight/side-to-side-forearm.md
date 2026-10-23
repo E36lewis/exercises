@@ -5,12 +5,12 @@ equipment: body weight
 region: Elbow & Forearm
 type: stretch
 muscles:
-  target: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
+  target: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, flexor-carpi-radialis, flexor-carpi-ulnaris]
+  synergist: [abductor-pollicis-longus, extensor-pollicis-brevis]
   stabilizer: []
-  synergist: []
-  dynamic: [biceps-brachii, brachialis, triceps-brachii]
+  dynamic: []
   antagonist: []
-variations: []
+variations: [body_weight/lean-back-forearm, body_weight/wrist-circles, body_weight/wrist-extensor-stretch, body_weight/wrist-flexor-stretch]
 ---
 This is a gentle forearm stretch that moves your hand sideways at the wrist. It eases the muscles along both edges of your forearm.
 

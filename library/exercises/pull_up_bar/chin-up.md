@@ -2,20 +2,20 @@
 id: ac537b7a-7b26-424e-85fb-edae34681bda
 name: chin up
 equipment: pull up bar
-region: "Abdomen, Lower Back, & Pelvis"
+region: Thorax
 type: weight
 muscles:
-  target: [latissimus-dorsi]
-  stabilizer: []
-  synergist: [brachialis, brachioradialis, deltoid, infrapinatus, latissimus-dorsi, pectoralis-major, rhomboids, teres-major, teres-minor, trapezius]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: []
-variations: [pull_up_bar/pull-up]
+  target: [latissimus-dorsi, biceps-brachii, brachialis]
+  stabilizer: [transversus-abdominis, rectus-abdominis, supraspinatus, infrapinatus, teres-minor, subscapularis, serratus-anterior, external-and-internal-obliques]
+  synergist: [brachioradialis, rhomboids, trapezius, teres-major, deltoid, pectoralis-major, flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-carpi-radialis, flexor-carpi-ulnaris]
+  dynamic: []
+  antagonist: [triceps-brachii]
+variations: [pull_up_bar/pull-up, pull_up_bar/neutral-grip-pull-up, pull_up_bar/archer-pull-up, pull_up_bar/lock-off-pull-up, pull_down_machine/lat-pulldown, body_weight/inverted-row]
 ---
-The chin up is a pulling exercise. You hang from a bar with an underhand grip and pull your chin above it. The latissimus dorsi (the large back muscle) leads, with the biceps working hard because of the palms-facing-you grip.
+The chin up is a pulling exercise. You hang from a pull-up bar with an underhand grip and pull your chin above it. The latissimus dorsi (the large back muscle) leads, with the biceps working hard because of the palms-facing-you grip.
 
 ### How to do it
-1. Reach up and grip the bar with an underhand grip, hands about shoulder-width apart.
+1. Reach up and grip the pull-up bar with an underhand grip, hands about shoulder-width apart.
 2. Hang with your arms straight and your legs bent or crossed behind you.
 3. Pull your shoulder blades down, then pull your elbows toward your ribs.
 4. Lift until your chin clears the bar.

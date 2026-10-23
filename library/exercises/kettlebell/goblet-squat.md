@@ -5,12 +5,12 @@ equipment: kettlebell
 region: Hip & Thigh
 type: weight
 muscles:
-  target: [gluteus-maximus, rectus-femoris, tensor-fasciae-latae, vasti-group]
-  stabilizer: [iliocostalis-portion, infrapinatus, longissimus-portion, spinalis-portion, trapezius]
-  synergist: [adductor-muscle-group, soleus, tibialis-anterior, tibialis-posterior]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, trapezius, rhomboids]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [dumbbell/goblet-squat, kettlebell/squat, dumbbell/squat, barbell/front-squat, kettlebell/pistol-squat, sandbag/sandbag-bear-hug-squat]
 ---
 The kettlebell goblet squat holds a kettlebell against your chest like a cup. The weight in front of you acts as a counterbalance, which makes it easy to sit deep with your chest up while your thighs and glutes do the work.
 

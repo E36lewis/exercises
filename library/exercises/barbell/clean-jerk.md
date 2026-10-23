@@ -2,16 +2,16 @@
 id: 935ba93e-0e47-4b5f-affc-5029f3fa5b6e
 name: clean jerk
 equipment: barbell
-region: Multi Region
+region: "Multi Region"
 type: weight
 example: barbell/clean_jerk
 muscles:
-  target: [deltoid, gastrocnemius, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, iliocostalis-portion, longissimus-portion, pectoralis-major, rectus-abdominis, rectus-femoris, soleus, spinalis-portion, transversus-abdominis, trapezius, triceps-brachii, vasti-group]
-  stabilizer: [external-and-internal-obliques, multifidus, rectus-abdominis, transversus-abdominis]
-  synergist: [adductor-muscle-group, biceps-brachii, infrapinatus, rhomboids, sartorius, subscapularis, supraspinatus, tensor-fasciae-latae, teres-minor]
-  dynamic: [deltoid, gastrocnemius, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, iliocostalis-portion, latissimus-dorsi, opponens-pollicis, pectoralis-major, rectus-femoris, sartorius, soleus, spinalis-portion, trapezius, vasti-group]
+  target: [gluteus-maximus, hamstrings, vasti-group, trapezius, deltoid, triceps-brachii]
+  stabilizer: [rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, infrapinatus, supraspinatus, subscapularis, teres-minor, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [rectus-femoris, soleus, adductor-muscle-group, latissimus-dorsi, rhomboids, serratus-anterior, biceps-brachii]
+  dynamic: [gastrocnemius, hamstrings]
   antagonist: [iliacus, psoas-major, tibialis-anterior]
-variations: []
+variations: [barbell/clean, barbell/hang-power-clean, barbell/push-jerk, barbell/snatch]
 ---
 The clean and jerk is a barbell lift in two parts: you pull the bar from the floor to your shoulders (the clean), then drive it overhead (the jerk). It uses nearly the whole body: legs, hips, back, shoulders and arms, all timed together.
 

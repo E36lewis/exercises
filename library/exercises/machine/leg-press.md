@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: machine/leg_press
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: []
-  synergist: [adductor-muscle-group, gluteus-maximus, soleus]
-  dynamic: [gastrocnemius, hamstrings]
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [gluteus-medius, tibialis-anterior, fibularis-brevis, fibularis-longus]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
   antagonist: []
-variations: []
+variations: [barbell/squat, barbell/hack-squat, dumbbell/squat]
 ---
 A machine exercise where you push a weighted platform away with your feet while seated or reclined. It mainly works the quadriceps (the front of your thighs), with the glutes, inner thighs and calves helping.
 

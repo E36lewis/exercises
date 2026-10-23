@@ -6,11 +6,11 @@ region: Ankle & Foot
 type: stretch
 muscles:
   target: [abductor-digiti-minimi-foot, abductor-hallucis, flexor-digitorum-brevis]
-  stabilizer: []
-  synergist: [fibularis-longus, tibialis-anterior]
+  synergist: [fibularis-brevis, fibularis-longus, tibialis-anterior, tibialis-posterior]
+  stabilizer: [flexor-hallucis-brevis, quadratus-plantae]
   dynamic: [extensor-hallucis-longus]
   antagonist: []
-variations: []
+variations: [body_weight/short-foot, body_weight/toe-object-pick-up, body_weight/ankle-circles]
 ---
 The foot arch roll is a gentle bodyweight exercise for the arch of your foot. It moves the foot between its outer and inner edges, which works the small muscles of the sole.
 

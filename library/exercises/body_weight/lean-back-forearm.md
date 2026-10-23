@@ -6,12 +6,12 @@ region: Elbow & Forearm
 type: stretch
 example: body_weight/lean_back_forearm
 muscles:
-  target: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
-  stabilizer: []
-  synergist: []
+  target: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, palmaris-longus]
+  synergist: [pronator-teres]
+  stabilizer: [anconeus, serratus-anterior, triceps-brachii]
   dynamic: []
-  antagonist: []
-variations: [body_weight/side-to-side-forearm]
+  antagonist: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digitorum]
+variations: [body_weight/side-to-side-forearm, body_weight/wrist-flexor-stretch, body_weight/wrist-extensor-stretch]
 ---
 A stretch for the forearm and wrist, using your own body weight. With your palms flat and fingers pointing back, you lean away to lengthen the muscles on the palm side of your forearm that bend the wrist and fingers.
 

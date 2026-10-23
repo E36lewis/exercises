@@ -2,16 +2,16 @@
 id: b1248c3e-3455-4c80-81e7-8bd12c2fedde
 name: overhead push press
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: barbell/overhead_push_press
 muscles:
-  target: [deltoid, pectoralis-major, trapezius, triceps-brachii]
-  stabilizer: [extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-pollicis-longus, rhomboids, subscapularis, teres-minor, trapezius]
-  synergist: [external-and-internal-obliques, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, iliocostalis-portion, longissimus-portion, rectus-abdominis, rectus-femoris, spinalis-portion, transversus-abdominis, vasti-group]
-  dynamic: [deltoid, infrapinatus, pectoralis-major, serratus-anterior, supraspinatus, trapezius, triceps-brachii]
-  antagonist: [biceps-brachii]
-variations: [barbell/overhead-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, infrapinatus, supraspinatus, subscapularis, teres-minor]
+  synergist: [trapezius, serratus-anterior, pectoralis-major, vasti-group, gluteus-maximus, rectus-femoris, hamstrings]
+  dynamic: [triceps-brachii, gastrocnemius]
+  antagonist: [latissimus-dorsi, biceps-brachii]
+variations: [barbell/overhead-press, barbell/push-jerk, barbell/seated-shoulder-press]
 ---
 A barbell press that uses a short dip and drive from your legs to help send the bar overhead. It works the shoulders, triceps and upper chest, while the legs and core pass force up to the bar.
 

@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/glute_stretch
 muscles:
   target: [gluteus-maximus, gluteus-medius, gluteus-minimus, piriformis]
-  stabilizer: []
-  synergist: []
-  dynamic: []
-  antagonist: []
-variations: []
+  synergist: [gemellus-inferior, gemellus-superior, obturator-internus, quadratus-femoris]
+  stabilizer: [transversus-abdominis]
+  dynamic: [hamstrings]
+  antagonist: [iliacus, psoas-major]
+variations: [body_weight/twisting-spine, body_weight/90-90-hip-switch, body_weight/hip-airplane]
 ---
 The glute stretch is a floor stretch for the buttock muscles. Crossing one ankle over the opposite knee and pulling the leg toward you lengthens the muscles at the back and side of the hip.
 

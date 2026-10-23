@@ -2,16 +2,16 @@
 id: 0b14a61b-300e-4b8b-b192-77154e18ef61
 name: deadlift
 equipment: barbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: barbell/deadlift
 muscles:
-  target: [gluteus-maximus]
-  stabilizer: [iliocostalis-portion, levator-scapulae, longissimus-portion, rhomboids, spinalis-portion, trapezius]
-  synergist: [adductor-muscle-group, hamstrings, soleus, vasti-group]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [body_weight/single-leg-romanian-deadlift, dumbbell/single-leg-deadlift, kettlebell/single-leg-deadlift]
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [latissimus-dorsi, trapezius, rhomboids, levator-scapulae, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [vasti-group, rectus-femoris, adductor-muscle-group, soleus, gastrocnemius]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [iliacus, psoas-major, tibialis-anterior]
+variations: [barbell/romanian-deadlift, barbell/sumo-deadlift, body_weight/single-leg-romanian-deadlift, dumbbell/deadlift, dumbbell/single-leg-deadlift, kettlebell/single-leg-deadlift, trap_bar/trap-bar-deadlift]
 ---
 The barbell deadlift lifts a loaded bar from the floor to a standing position. It is a hip hinge that works the glutes, hamstrings and thighs, while your back and grip hold the bar and your trunk stays braced.
 

@@ -2,15 +2,15 @@
 id: 36a615fb-57be-43ff-aa73-e50867b887e1
 name: farmer carry
 equipment: resistance band
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: weight
 muscles:
-  target: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, infrapinatus, multifidus, psoas-major, quadratus-lumborum, rotatores, sartorius, tensor-fasciae-latae]
-  synergist: [deltoid, levator-scapulae, teres-major, teres-minor, trapezius]
-  dynamic: [external-and-internal-obliques, rectus-abdominis]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: [dumbbell/farmer-carry, dumbbell/wrist-curl-palm-down, dumbbell/wrist-curl-palm-up, kettlebell/farmer-carry]
+  target: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-pollicis-longus, trapezius]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, quadratus-lumborum, iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-medius, gluteus-maximus]
+  synergist: [levator-scapulae, rhomboids, deltoid]
+  dynamic: []
+  antagonist: []
+variations: [dumbbell/farmer-carry, kettlebell/farmer-carry, sandbag/sandbag-carry, kettlebell/suitcase-carry]
 ---
 The band farmer carry is a walk in which you stand on a resistance band and hold its handles at your sides. The band pulls your hands down, so your forearms and grip work to hold on while your shoulders and trunk keep you upright.
 

@@ -6,11 +6,11 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
   target: [external-and-internal-obliques]
-  stabilizer: [rhomboids, serratus-anterior, trapezius]
-  synergist: [iliacus, iliocostalis-portion, longissimus-portion, psoas-major, rectus-femoris, spinalis-portion, transversus-abdominis]
-  dynamic: [rectus-abdominis]
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis]
+  synergist: [rectus-abdominis, psoas-major, iliacus]
+  dynamic: [rectus-femoris]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [stability_ball/russian-twist, body_weight/bicycle-crunch, body_weight/crunch]
 ---
 A crunch on a stability ball with a twist. It targets the obliques (the side abdominal muscles), with the deeper core muscles and hip flexors helping, and the ball makes your trunk work to stay balanced.
 

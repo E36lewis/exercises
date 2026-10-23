@@ -2,17 +2,17 @@
 id: 04925111-046c-4d31-ba04-63e93d0965e4
 name: single arm swing
 equipment: kettlebell
-region: Shoulder & Upper Arm
+region: Hip & Thigh
 type: weight
 example: kettlebell/single_kettlebell_swing
 other_examples: [dumbbell/single_dumbbell_swing, kettlebellalt/single_kettlebell_swing]
 muscles:
-  target: [adductor-muscle-group, gluteus-maximus, hamstrings, vasti-group]
-  stabilizer: [coracobrachialis, deltoid, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, iliocostalis-portion, longissimus-portion, multifidus, quadratus-femoris, spinalis-portion, supraspinatus, trapezius]
-  synergist: [adductor-muscle-group, gluteus-maximus, hamstrings, vasti-group]
-  dynamic: [latissimus-dorsi, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids, serratus-anterior]
-  antagonist: [external-and-internal-obliques]
-variations: []
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, multifidus, quadratus-lumborum, gluteus-medius, trapezius, rhomboids, latissimus-dorsi, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [adductor-muscle-group, vasti-group, deltoid]
+  dynamic: [gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [kettlebell/kettlebell-swing, kettlebell/swing-arm-switch, kettlebell/kettlebell-snatch, kettlebell/pirate-swing]
 ---
 This is a kettlebell swing with one hand. It works the glutes, hamstrings and thighs, and your shoulder and grip hold the bell as it swings.
 

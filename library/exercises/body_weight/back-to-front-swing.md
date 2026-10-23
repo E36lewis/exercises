@@ -6,12 +6,12 @@ region: Shoulder & Upper Arm
 type: stretch
 example: body_weight/back_to_front_swing
 muscles:
-  target: [deltoid]
-  stabilizer: [biceps-brachii, iliocostalis-portion, infrapinatus, longissimus-portion, spinalis-portion, triceps-brachii]
-  synergist: [deltoid, pectoralis-major]
-  dynamic: [coracobrachialis]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [body_weight/single-arm-swing]
+  target: [deltoid, pectoralis-major]
+  synergist: [coracobrachialis, serratus-anterior, trapezius]
+  stabilizer: [iliocostalis-portion, infrapinatus, longissimus-portion, spinalis-portion, teres-minor]
+  dynamic: [biceps-brachii, triceps-brachii]
+  antagonist: [latissimus-dorsi, rhomboids]
+variations: [body_weight/single-arm-swing, body_weight/arm-circles, body_weight/alternation-swing-raise]
 ---
 The back to front swing is a body-weight arm movement in which you swing both arms from behind your body to the front. It warms up the shoulders and chest and takes the shoulder joint through a wide range.
 

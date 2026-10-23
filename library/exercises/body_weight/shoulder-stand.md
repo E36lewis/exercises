@@ -2,16 +2,16 @@
 id: 4dcf78f8-9d40-4ff3-a3a9-0bd48629281b
 name: shoulder stand
 equipment: body weight
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: stretch
 example: body_weight/shoulder_stand
 muscles:
-  target: [deltoid, external-and-internal-obliques, gluteus-maximus, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, rectus-abdominis, rhomboids, serratus-anterior, spinalis-portion]
-  stabilizer: [external-and-internal-obliques, gluteus-maximus, hamstrings, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion]
-  synergist: []
-  dynamic: []
+  target: [deltoid, gluteus-maximus, rectus-abdominis, serratus-anterior, splenius-capitis, splenius-cervicis]
+  synergist: [gluteus-medius, gluteus-minimus, rhomboids]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, trapezius, triceps-brachii]
+  dynamic: [hamstrings]
   antagonist: []
-variations: []
+variations: [body_weight/hip-airplane, body_weight/glute-bridge]
 ---
 This is an inverted body-weight pose where you balance on your shoulders with your legs pointing up. You hold it with your hands supporting your lower back. It works the core, glutes and the muscles around the shoulder blades to keep the body in a line, and it gives a calm stretch.
 

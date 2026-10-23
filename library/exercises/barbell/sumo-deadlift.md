@@ -2,16 +2,16 @@
 id: 032539c8-c74c-4385-9843-0a7cf5c352a4
 name: sumo deadlift
 equipment: barbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: barbell/sumo_deadlift
 muscles:
-  target: [adductor-muscle-group, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, rhomboids, spinalis-portion, transversus-abdominis, trapezius]
-  synergist: [quadratus-lumborum, transversus-abdominis]
-  dynamic: [gastrocnemius, soleus]
-  antagonist: [rectus-abdominis, tibialis-anterior]
-variations: [barbell/deadlift, dumbbell/deadlift]
+  target: [gluteus-maximus, adductor-muscle-group, hamstrings]
+  stabilizer: [trapezius, rhomboids, multifidus, transversus-abdominis, external-and-internal-obliques, rectus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [vasti-group, rectus-femoris, gluteus-medius, gluteus-minimus, soleus, quadratus-lumborum]
+  dynamic: [gastrocnemius, hamstrings]
+  antagonist: [iliacus, psoas-major]
+variations: [barbell/deadlift, dumbbell/deadlift, trap_bar/trap-bar-deadlift]
 ---
 The barbell sumo deadlift is a deadlift with a wide stance, toes turned out and a narrow grip inside your knees. The wide stance keeps the torso more upright than a conventional deadlift. It works the glutes, inner thighs, thighs and hamstrings, with the back and core holding firm.
 

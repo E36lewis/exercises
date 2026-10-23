@@ -6,12 +6,12 @@ region: Neck
 type: stretch
 example: body_weight/neck_stretch
 muscles:
-  target: [obliquus-capitis-superior, platysma, rectus-capitis-posterior-major, rectus-capitis-posterior-minor, splenius-capitis, splenius-cervicis, trapezius]
-  stabilizer: []
-  synergist: []
-  dynamic: [splenius-capitis, splenius-cervicis, trapezius]
-  antagonist: []
-variations: []
+  target: [levator-scapulae, scalenes, splenius-capitis, splenius-cervicis, trapezius]
+  synergist: [obliquus-capitis-inferior, semispinalis]
+  stabilizer: [longus-capitis, longus-colli]
+  dynamic: []
+  antagonist: [sternocleidomastoid]
+variations: [body_weight/neck-stretch, body_weight/levator-scapulae-stretch, body_weight/neck-side-flexion-isometric]
 ---
 A gentle stretch for the neck and upper shoulder muscles, using only the weight of your hand. You tilt your head toward one shoulder to lengthen the muscles on the opposite side of your neck.
 

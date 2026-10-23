@@ -2,17 +2,17 @@
 id: 29c69872-6149-4ffc-a74a-f458f2e89f6a
 name: step up
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: kettlebell/step_up
 other_examples: [dumbbell/step_up, kettlebellalt/step_up]
 muscles:
   target: [gluteus-maximus, rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, iliocostalis-portion, levator-scapulae, longissimus-portion, quadratus-lumborum, spinalis-portion, trapezius]
-  synergist: [adductor-muscle-group, gastrocnemius, soleus]
+  stabilizer: [gluteus-minimus, quadratus-lumborum, trapezius, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, gastrocnemius, soleus, hamstrings, gluteus-medius]
   dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  antagonist: [iliacus, psoas-major]
+variations: [dumbbell/lunge]
 ---
 The dumbbell step-up is a single-leg lower-body exercise. You step onto a box while holding weights. The working leg's glutes and thighs lift you, and the calves and inner thighs help.
 

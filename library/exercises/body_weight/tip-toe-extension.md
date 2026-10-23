@@ -5,12 +5,12 @@ equipment: body weight
 region: Ankle & Foot
 type: stretch
 muscles:
-  target: [extensor-digitorum-brevis, extensor-digitorum-longus, extensor-hallucis-longus]
+  target: [extensor-digitorum-brevis, extensor-digitorum-longus, extensor-hallucis-brevis, extensor-hallucis-longus, tibialis-anterior]
+  synergist: [flexor-digitorum-brevis, flexor-digitorum-longus, flexor-hallucis-longus, gastrocnemius, soleus]
   stabilizer: []
-  synergist: []
   dynamic: []
   antagonist: []
-variations: []
+variations: [body_weight/toe-flexor, body_weight/ankle-circles]
 ---
 The tip toe extension is a body-weight stretch for the top of the foot and toes. Pointing the foot and curling the toes under stretches the toe extensor muscles, which run along the top of the foot from the shin.
 

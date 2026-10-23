@@ -2,17 +2,17 @@
 id: a670bb63-fa2a-4864-8bc6-1e6265a05de2
 name: sumo high pull
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: weight
 example: kettlebell/sumo_high_pull
 other_examples: [dumbbell/sumo_high_pull, kettlebellalt/sumo_high_pull]
 muscles:
-  target: [gluteus-maximus, trapezius]
-  stabilizer: [iliocostalis-portion, levator-scapulae, longissimus-portion, rhomboids, spinalis-portion, trapezius]
-  synergist: [adductor-muscle-group, hamstrings, rectus-femoris, trapezius, vasti-group]
-  dynamic: [biceps-brachii, deltoid, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [gluteus-maximus, vasti-group, adductor-muscle-group, trapezius]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, supraspinatus, infrapinatus, teres-minor, subscapularis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [deltoid, levator-scapulae, rhomboids, biceps-brachii, brachialis]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [kettlebell/clean-from-hang, barbell/upright-row, barbell/clean-pull]
 ---
 The kettlebell sumo high pull is a hip-driven lift. From a wide stance, you stand and pull the kettlebell up to your chest or chin. It works the glutes, thighs, upper back and shoulders.
 

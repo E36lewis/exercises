@@ -5,12 +5,12 @@ equipment: stability ball
 region: Thorax
 type: weight
 muscles:
-  target: [pectoralis-major, pectoralis-minor]
-  stabilizer: [external-and-internal-obliques, gluteus-maximus, infrapinatus, rectus-abdominis, rhomboids, serratus-anterior, subscapularis, supraspinatus, teres-minor, transversus-abdominis, trapezius]
-  synergist: [biceps-brachii, deltoid, triceps-brachii]
-  dynamic: []
-  antagonist: []
-variations: [dumbbell/bench-press]
+  target: [pectoralis-major, deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, gluteus-maximus, hamstrings, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [serratus-anterior, pectoralis-minor]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi]
+variations: [dumbbell/bench-press, dumbbell/incline-bench-press, barbell/bench-press]
 ---
 The stability ball chest press is a dumbbell press done with your upper back on a ball. It works the chest, front of the shoulders and triceps, and the ball makes your core and hips work to keep you steady.
 

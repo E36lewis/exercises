@@ -2,15 +2,15 @@
 id: 3fa8bdb5-f9e5-4eeb-ae2d-cf0ce0baa3df
 name: banded kneeling one arm pull
 equipment: resistance band
-region: "Abdomen, Lower Back, & Pelvis"
+region: Thorax
 type: weight
 muscles:
   target: [latissimus-dorsi]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [biceps-brachii, brachialis, brachioradialis, deltoid, infrapinatus, levator-scapulae, pectoralis-minor, rhomboids, teres-major, teres-minor, trapezius]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-maximus]
+  synergist: [teres-major, rhomboids, trapezius, deltoid, biceps-brachii, brachialis, brachioradialis]
   dynamic: [triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  antagonist: [pectoralis-major]
+variations: [kettlebell/single-arm-bent-over-row, dumbbell/single-arm-bent-row, resistance_band/alternate-lateral-pulldown, cable/seated-cable-row]
 ---
 This is a one-arm pull with a resistance band, done from a kneeling position. It works the latissimus dorsi, the back of the shoulder and the biceps, and your trunk works to keep you from twisting.
 

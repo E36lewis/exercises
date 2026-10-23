@@ -2,16 +2,16 @@
 id: e1d69cf3-70aa-4525-84f9-0e1182887719
 name: side push up
 equipment: body weight
-region: Shoulder & Upper Arm
+region: Thorax
 type: weight
 example: body_weight/side_push_up
 muscles:
-  target: [triceps-brachii]
-  stabilizer: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, trapezius]
-  synergist: [deltoid, latissimus-dorsi, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids]
+  target: [deltoid, pectoralis-major, triceps-brachii]
+  synergist: [anconeus, pectoralis-minor, serratus-anterior]
+  stabilizer: [external-and-internal-obliques, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, rectus-abdominis, trapezius]
   dynamic: [biceps-brachii]
-  antagonist: [iliocostalis-portion, longissimus-portion, rhomboids, spinalis-portion]
-variations: [body_weight/push-up]
+  antagonist: [rhomboids]
+variations: [body_weight/push-up, body_weight/archer-push-up, body_weight/incline-push-up, body_weight/plyo-push-up]
 ---
 This is a body-weight push-up where you shift your weight over one hand as you lower. The triceps lead, and your chest and shoulders help.
 

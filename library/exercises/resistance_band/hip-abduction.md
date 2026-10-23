@@ -6,11 +6,11 @@ region: Hip & Thigh
 type: weight
 muscles:
   target: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae]
-  stabilizer: []
-  synergist: [gluteus-medius, gluteus-minimus, obturator-internus, piriformis, tensor-fasciae-latae]
-  dynamic: []
-  antagonist: []
-variations: [resistance_band/lateral-walk]
+  stabilizer: [quadratus-lumborum, transversus-abdominis, external-and-internal-obliques, tibialis-anterior, fibularis-brevis, fibularis-longus]
+  synergist: [gluteus-maximus, piriformis]
+  dynamic: [sartorius]
+  antagonist: [adductor-muscle-group]
+variations: [resistance_band/lateral-walk, resistance_band/clam, resistance_band/hip-adduction, resistance_band/lateral-single-leg-hop, body_weight/fire-hydrant]
 ---
 Hip abduction with a resistance band moves your leg out to the side against the band. It works the muscles on the outside of the hip, mainly gluteus medius and minimus and the tensor fasciae latae.
 

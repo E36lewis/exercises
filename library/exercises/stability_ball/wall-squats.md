@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: bosu_ball/single_seated_wall_squat
 muscles:
-  target: [rectus-femoris, vasti-group]
-  stabilizer: [gluteus-medius, quadratus-lumborum, transversus-abdominis]
-  synergist: [adductor-muscle-group, gluteus-maximus, hamstrings]
-  dynamic: [gastrocnemius, iliocostalis-portion, longissimus-portion, soleus, spinalis-portion]
-  antagonist: []
-variations: []
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, fibularis-brevis, fibularis-longus, tibialis-anterior]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [bosu_ball/seated-wall-squat, bosu_ball/balanced-squat, kettlebell/goblet-squat]
 ---
 The stability ball wall squat is a squat with a ball held between your lower back and a wall. The ball rolls as you bend and straighten your knees, giving back support. It mainly works the quadriceps, with the glutes, hamstrings and adductors helping.
 

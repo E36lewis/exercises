@@ -5,12 +5,12 @@ equipment: stability ball
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  stabilizer: [external-and-internal-obliques, multifidus, quadratus-lumborum, rectus-abdominis, rotatores, semispinalis, transversus-abdominis]
-  synergist: [gluteus-maximus, hamstrings, rhomboids, serratus-anterior, trapezius]
+  target: [iliocostalis-portion, longissimus-portion, spinalis-portion, multifidus, gluteus-maximus]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, quadratus-lumborum, gluteus-medius, serratus-anterior, supraspinatus, infrapinatus, teres-minor, subscapularis]
+  synergist: [hamstrings, deltoid, trapezius, rhomboids]
   dynamic: []
-  antagonist: []
-variations: [body_weight/bird-dog]
+  antagonist: [rectus-abdominis, psoas-major, iliacus]
+variations: [body_weight/bird-dog, stability_ball/back-extension, body_weight/superman]
 ---
 The stability ball bird dog has you lie face down over a ball and lift the opposite arm and leg. The ball moves under you, so your trunk muscles, back extensors and glutes must work to keep you steady.
 

@@ -2,16 +2,16 @@
 id: 272e8f2f-a99a-4bef-9dcc-15c6251b22d2
 name: reverse bicep curl
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: barbell/drag_curl
 muscles:
-  target: [brachioradialis]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digitorum]
-  synergist: [pronator-teres]
-  dynamic: [biceps-brachii, brachialis]
+  target: [brachioradialis, brachialis]
+  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digitorum, external-and-internal-obliques, transversus-abdominis]
+  synergist: [biceps-brachii, pronator-teres]
+  dynamic: [biceps-brachii]
   antagonist: [triceps-brachii]
-variations: [barbell/bicep-curl]
+variations: [barbell/bicep-curl, barbell/drag-curl, dumbbell/hammer-curl]
 ---
 A barbell curl with an overhand grip (palms down). It works the brachioradialis, the forearm muscle along the thumb side, and the brachialis and biceps in the upper arm, and it challenges your wrist extensors and grip.
 

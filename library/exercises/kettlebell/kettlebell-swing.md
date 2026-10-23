@@ -2,17 +2,17 @@
 id: 609981d3-43b8-4c3d-ad91-4adfcc99f05f
 name: kettlebell swing
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Hip & Thigh
 type: weight
 example: kettlebell/kettlebell_swing
 other_examples: [dumbbell/dumbbell_swing, kettlebellalt/kettlebell_swing]
 muscles:
-  target: [adductor-muscle-group, gluteus-maximus, hamstrings, rectus-femoris, vasti-group]
-  stabilizer: [biceps-brachii, coracobrachialis, deltoid, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-pollicis-brevis, extensor-pollicis-longus, iliocostalis-portion, infrapinatus, longissimus-portion, multifidus, quadratus-lumborum, spinalis-portion, supraspinatus, trapezius, triceps-brachii]
-  synergist: [adductor-muscle-group, gluteus-maximus, hamstrings, vasti-group]
-  dynamic: [latissimus-dorsi, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids, serratus-anterior]
-  antagonist: [external-and-internal-obliques, psoas-major]
-variations: [kettlebell/single-arm-swing, kettlebell/swing-arm-switch]
+  target: [gluteus-maximus, hamstrings]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, multifidus, quadratus-lumborum, gluteus-medius, trapezius, rhomboids, latissimus-dorsi, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [adductor-muscle-group, vasti-group, deltoid]
+  dynamic: [gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [kettlebell/single-arm-swing, kettlebell/swing-arm-switch, kettlebell/kettlebell-snatch, kettlebell/pirate-swing]
 ---
 The kettlebell swing swings a kettlebell from between your legs to chest height by snapping your hips forward. It is a hip hinge, not a squat, so the glutes and hamstrings drive the bell while your arms mostly guide it.
 

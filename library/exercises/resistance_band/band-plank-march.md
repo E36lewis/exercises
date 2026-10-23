@@ -5,12 +5,12 @@ equipment: resistance band
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [iliacus, multifidus, psoas-major]
-  stabilizer: [external-and-internal-obliques, pectoralis-major, rectus-abdominis, rectus-femoris, serratus-anterior, triceps-brachii, vasti-group]
-  synergist: [adductor-muscle-group, sartorius, tensor-fasciae-latae]
-  dynamic: [rectus-femoris]
-  antagonist: [iliocostalis-portion, longissimus-portion, rhomboids, spinalis-portion, trapezius]
-variations: [stability_ball/pull-in-stability-ball]
+  target: [rectus-abdominis, transversus-abdominis, external-and-internal-obliques]
+  stabilizer: [gluteus-maximus, gluteus-medius, gluteus-minimus, deltoid, serratus-anterior, pectoralis-major, triceps-brachii, supraspinatus, infrapinatus, teres-minor, subscapularis, multifidus]
+  synergist: [psoas-major, iliacus, rectus-femoris, tensor-fasciae-latae]
+  dynamic: [sartorius]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [body_weight/plank, body_weight/mountain-climber, stability_ball/pull-in-stability-ball, body_weight/plank-shoulder-tap]
 ---
 The band plank march is a plank with a resistance band around your legs in which you lift one foot at a time. It works the abdominals, shoulders and hips, with the band adding extra work for the outer hips and glutes.
 

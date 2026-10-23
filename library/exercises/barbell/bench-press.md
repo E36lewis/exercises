@@ -2,16 +2,16 @@
 id: cc87f23e-1847-4fbf-8bef-a8f05d2e69fe
 name: bench press
 equipment: barbell
-region: Thorax
+region: "Thorax"
 type: weight
 example: barbell/bench_press
 muscles:
   target: [pectoralis-major]
-  stabilizer: [pectoralis-minor, serratus-anterior]
-  synergist: [deltoid, pectoralis-major, triceps-brachii]
+  stabilizer: [pectoralis-minor, serratus-anterior, subscapularis, supraspinatus]
+  synergist: [deltoid, triceps-brachii]
   dynamic: [biceps-brachii]
-  antagonist: []
-variations: [barbell/incline-bench-press, body_weight/push-up, dumbbell/bench-press, dumbbell/flye]
+  antagonist: [latissimus-dorsi, rhomboids]
+variations: [barbell/close-grip-bench-press, barbell/incline-bench-press, body_weight/push-up, dumbbell/bench-press, dumbbell/flye]
 ---
 The barbell bench press is a classic strength lift done lying on a flat bench. The chest (pectoralis major) does most of the work, with help from the front of the shoulders and the triceps.
 

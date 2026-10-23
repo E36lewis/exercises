@@ -6,11 +6,11 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
   target: [rectus-abdominis, transversus-abdominis]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [external-and-internal-obliques]
-  dynamic: [iliacus, psoas-major]
-  antagonist: []
-variations: []
+  stabilizer: [external-and-internal-obliques, multifidus, quadratus-lumborum, serratus-anterior]
+  synergist: [psoas-major, iliacus, tensor-fasciae-latae, deltoid]
+  dynamic: [rectus-femoris]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [body_weight/dead-bug, body_weight/hollow-body-hold, body_weight/bird-dog]
 ---
 The deadbug is a core exercise done lying on your back, holding a stability ball between your hands and knees. Your abdominal muscles keep your spine still while your limbs move, which is the whole challenge.
 

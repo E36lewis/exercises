@@ -7,12 +7,12 @@ type: weight
 example: kettlebellalt/pistol_squat
 other_examples: [kettlebell/pistol_squat]
 muscles:
-  target: [gluteus-maximus, rectus-femoris, vasti-group]
-  stabilizer: [abductor-pollicis-longus, external-and-internal-obliques, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, gluteus-medius, gluteus-minimus, levator-scapulae, palmaris-longus, quadratus-lumborum]
-  synergist: [adductor-muscle-group, gluteus-maximus, iliocostalis-portion, longissimus-portion, soleus, spinalis-portion]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: [external-and-internal-obliques, flexor-digitorum-longus, flexor-hallucis-longus, gastrocnemius, plantaris, rectus-abdominis, soleus, tibialis-anterior]
-variations: []
+  target: [vasti-group, rectus-femoris, gluteus-maximus]
+  stabilizer: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, fibularis-brevis, fibularis-longus, tibialis-anterior]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [rectus-abdominis]
+variations: [dumbbell/pistol-squat, kettlebell/goblet-squat, bosu_ball/balanced-squat-star]
 ---
 A single-leg squat holding a kettlebell, with the other leg held out in front. It works the thighs, glutes and hips, and challenges balance and ankle and hip mobility, so it is an advanced exercise.
 

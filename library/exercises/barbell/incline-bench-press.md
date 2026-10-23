@@ -2,15 +2,15 @@
 id: c47b0395-efd7-436d-a376-b5ec3108268e
 name: incline bench press
 equipment: barbell
-region: Thorax
+region: "Thorax"
 type: weight
 muscles:
   target: [pectoralis-major]
-  stabilizer: []
-  synergist: [deltoid, pectoralis-major, triceps-brachii]
+  stabilizer: [pectoralis-minor, serratus-anterior, subscapularis, supraspinatus]
+  synergist: [deltoid, triceps-brachii, coracobrachialis]
   dynamic: [biceps-brachii]
-  antagonist: []
-variations: [dumbbell/bench-press, dumbbell/flye, dumbbell/incline-flye]
+  antagonist: [latissimus-dorsi, rhomboids]
+variations: [barbell/bench-press, dumbbell/bench-press, dumbbell/flye, dumbbell/incline-bench-press, dumbbell/incline-flye]
 ---
 The barbell incline bench press lowers and presses a bar while you lie on an angled bench. The slope emphasises the upper chest, with the front of the shoulders and the triceps helping.
 

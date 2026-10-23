@@ -2,16 +2,16 @@
 id: bf4fac7b-5e26-49df-9e7e-c3a794928c40
 name: bicep curl
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: barbell/bicep_curl
 muscles:
   target: [biceps-brachii]
-  stabilizer: [deltoid, infrapinatus, subscapularis, supraspinatus, teres-minor]
-  synergist: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, pronator-teres]
-  dynamic: [brachialis, brachioradialis]
+  stabilizer: [deltoid, flexor-carpi-radialis, flexor-carpi-ulnaris, external-and-internal-obliques, transversus-abdominis]
+  synergist: [brachialis, brachioradialis]
+  dynamic: [biceps-brachii]
   antagonist: [triceps-brachii]
-variations: [dumbbell/bicep-curl]
+variations: [barbell/drag-curl, barbell/reverse-bicep-curl, dumbbell/bicep-curl]
 ---
 The barbell bicep curl is a basic arm exercise. It builds the biceps at the front of the upper arm, with help from the deeper elbow flexors and the forearm. Using both hands on one bar lets you lift a fairly heavy load.
 

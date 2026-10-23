@@ -2,16 +2,16 @@
 id: dd0d807e-0b9a-42c8-9478-3faa00c8b193
 name: wrist curl palm up
 equipment: dumbbell
-region: Elbow & Forearm
+region: "Elbow & Forearm"
 type: weight
 example: dumbbell/wrist_curl_palm_up
 other_examples: [kettlebell/wrist_curl_palm_up]
 muscles:
-  target: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
-  stabilizer: []
-  synergist: []
-  dynamic: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis]
-  antagonist: []
+  target: [flexor-carpi-radialis, flexor-carpi-ulnaris, palmaris-longus]
+  stabilizer: [supinator]
+  synergist: [flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-pollicis-longus]
+  dynamic: [flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  antagonist: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digitorum]
 variations: [dumbbell/wrist-curl-palm-down, resistance_band/finger-extensions]
 ---
 The dumbbell wrist curl with your palm facing up works the flexor muscles on the underside of the forearm. These muscles bend the wrist and the fingers, so they play a large part in your grip.

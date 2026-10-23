@@ -2,16 +2,16 @@
 id: 6cdc32ac-7503-4ce4-a20e-15f1423ba8e0
 name: single arm shoulder raise
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: kettlebellalt/single_arm_raise
 muscles:
   target: [deltoid]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, levator-scapulae, teres-minor, trapezius]
-  synergist: [deltoid, pectoralis-major, serratus-anterior, trapezius]
-  dynamic: []
-  antagonist: []
-variations: []
+  stabilizer: [levator-scapulae, infrapinatus, teres-minor, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, external-and-internal-obliques, transversus-abdominis]
+  synergist: [pectoralis-major, serratus-anterior, trapezius, supraspinatus]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, teres-major]
+variations: [barbell/front-shoulder-raise, dumbbell/front-arm-raise, dumbbell/single-arm-lateral-raise]
 ---
 This is a one-arm dumbbell raise that lifts the weight to shoulder height. It works the deltoid, and the chest and shoulder-blade muscles help.
 

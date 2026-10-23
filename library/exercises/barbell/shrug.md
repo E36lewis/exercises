@@ -2,16 +2,16 @@
 id: 6b273be4-ca13-4f01-8409-37b19e7df856
 name: shrug
 equipment: barbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Thorax"
 type: weight
 example: barbell/shrug
 muscles:
   target: [trapezius]
-  stabilizer: [flexor-digitorum-profundus, flexor-digitorum-superficialis, iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [levator-scapulae, trapezius]
+  stabilizer: [flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-carpi-radialis, flexor-carpi-ulnaris, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [levator-scapulae, rhomboids]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [latissimus-dorsi, pectoralis-minor]
+variations: [barbell/jump-shrug, barbell/upright-row]
 ---
 This is a lifting exercise with a barbell. You hold the bar in front of your thighs and raise your shoulders straight up towards your ears. It works the upper trapezius, the muscle between your neck and shoulders, along with the levator scapulae, while your grip holds the bar.
 

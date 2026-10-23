@@ -2,16 +2,16 @@
 id: 87e69805-9ba7-4ec1-9316-74fd513bc8bd
 name: hammer curl
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/hammer_curl
 muscles:
   target: [brachialis, brachioradialis]
-  stabilizer: [external-and-internal-obliques, levator-scapulae, rectus-abdominis, rhomboids, transversus-abdominis, trapezius]
-  synergist: [biceps-brachii, deltoid, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, trapezius]
-  dynamic: []
-  antagonist: [pronator-teres, triceps-brachii]
-variations: [dumbbell/bicep-curl]
+  stabilizer: [deltoid, trapezius, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, flexor-carpi-radialis, flexor-carpi-ulnaris, external-and-internal-obliques, transversus-abdominis]
+  synergist: [biceps-brachii]
+  dynamic: [biceps-brachii]
+  antagonist: [triceps-brachii]
+variations: [barbell/reverse-bicep-curl, dumbbell/bicep-curl, dumbbell/incline-bicep-curl]
 ---
 The hammer curl is a dumbbell curl with your palms facing each other, as if you were holding a hammer. That grip shifts more of the work to the brachialis and brachioradialis, the muscles on the front and thumb side of your elbow and forearm.
 

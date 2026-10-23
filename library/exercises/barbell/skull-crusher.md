@@ -2,16 +2,16 @@
 id: 7ef868d8-9fb4-4b2e-87da-95c606439a21
 name: skull crusher
 equipment: barbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: barbell/skull_crusher
 muscles:
   target: [triceps-brachii]
-  stabilizer: [deltoid, pectoralis-minor, rectus-abdominis, subscapularis, supraspinatus, transversus-abdominis]
-  synergist: []
-  dynamic: [biceps-brachii, coracobrachialis]
-  antagonist: []
-variations: [body_weight/side-push-up, body_weight/tricep-dip, dumbbell/single-arm-extension]
+  stabilizer: [deltoid, subscapularis, supraspinatus, pectoralis-minor, serratus-anterior, transversus-abdominis]
+  synergist: [anconeus]
+  dynamic: [triceps-brachii]
+  antagonist: [biceps-brachii]
+variations: [body_weight/side-push-up, body_weight/tricep-dip, dumbbell/single-arm-extension, dumbbell/skull-crusher, dumbbell/tricep-extension]
 ---
 The skull crusher is a lying barbell triceps exercise. Only your elbows bend, so the triceps at the back of the upper arm do almost all the work. It is also called a lying triceps extension.
 

@@ -2,15 +2,15 @@
 id: 8a1bc5c8-6b4a-431d-9e63-86131eaf8272
 name: farmer carry
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: weight
 muscles:
-  target: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, infrapinatus, multifidus, psoas-major, quadratus-lumborum, rotatores, sartorius, tensor-fasciae-latae]
-  synergist: [deltoid, levator-scapulae, teres-major, teres-minor, trapezius]
-  dynamic: [external-and-internal-obliques, rectus-abdominis]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: [dumbbell/farmer-carry, dumbbell/wrist-curl-palm-down, dumbbell/wrist-curl-palm-up]
+  target: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-pollicis-longus, trapezius]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, quadratus-lumborum, iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-medius, gluteus-maximus]
+  synergist: [levator-scapulae, rhomboids, deltoid]
+  dynamic: []
+  antagonist: []
+variations: [dumbbell/farmer-carry, resistance_band/farmer-carry, sandbag/sandbag-carry, kettlebell/suitcase-carry, kettlebell/kettlebell-front-rack-carry, kettlebell/waiter-carry]
 ---
 The kettlebell farmer carry is a walk while holding a kettlebell in each hand. The forearms and grip work hardest, with the shoulders, upper back and trunk holding you tall and still.
 

@@ -7,12 +7,12 @@ type: weight
 example: kettlebell/side_lunge
 other_examples: [dumbbell/side_lunge, kettlebellalt/side_lunge]
 muscles:
-  target: [rectus-femoris, sartorius, vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, levator-scapulae, quadratus-lumborum, rectus-abdominis, tibialis-anterior, trapezius]
-  synergist: [adductor-muscle-group, gluteus-maximus]
-  dynamic: [gastrocnemius, hamstrings]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: []
+  target: [vasti-group, rectus-femoris, gluteus-maximus, adductor-muscle-group]
+  stabilizer: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, fibularis-brevis, fibularis-longus]
+  synergist: [soleus, pectineus]
+  dynamic: [hamstrings, gastrocnemius, sartorius, gracilis]
+  antagonist: [psoas-major, iliacus]
+variations: [body_weight/cossack-squat, body_weight/lunge, dumbbell/lunge, kettlebell/lunge-pass-through, body_weight/curtsy-lunge, slide_board/slide-board-lateral-lunge]
 ---
 This is a sideways lunge holding a kettlebell. You step wide to one side, sit back into that hip and push back up. It works the front of the thighs and the glutes and inner thighs, while your core keeps you steady.
 

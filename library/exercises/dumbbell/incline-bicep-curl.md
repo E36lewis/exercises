@@ -2,17 +2,17 @@
 id: 4979179e-4b50-4991-b638-c36df8fb8bd5
 name: incline bicep curl
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: kettlebell/incline_bicep_curl
 other_examples: [dumbbell/incline_bicep_curl]
 muscles:
   target: [biceps-brachii]
-  stabilizer: [abductor-pollicis-longus, deltoid, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
+  stabilizer: [deltoid, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus]
   synergist: [brachialis, brachioradialis]
-  dynamic: []
-  antagonist: []
-variations: []
+  dynamic: [biceps-brachii]
+  antagonist: [triceps-brachii]
+variations: [barbell/bicep-curl, dumbbell/bicep-curl, dumbbell/hammer-curl]
 ---
 The incline curl is a dumbbell curl done sitting back on an angled bench, with your arms hanging behind your body. That position stretches the long head of the biceps before each curl and lets you do it with less swing.
 

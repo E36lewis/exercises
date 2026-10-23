@@ -2,16 +2,16 @@
 id: 2b4e9e15-f5b6-4a12-a963-63f8635c5716
 name: clean
 equipment: barbell
-region: Multi Region
+region: "Multi Region"
 type: weight
 example: barbell/clean
 muscles:
-  target: [deltoid, gastrocnemius, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, iliocostalis-portion, latissimus-dorsi, longissimus-portion, rectus-femoris, soleus, spinalis-portion, trapezius, vasti-group]
-  stabilizer: [external-and-internal-obliques, multifidus, rectus-abdominis, transversus-abdominis]
-  synergist: [adductor-muscle-group, biceps-brachii, infrapinatus, rhomboids, sartorius, subscapularis, supraspinatus, tensor-fasciae-latae, teres-minor]
+  target: [gluteus-maximus, hamstrings, vasti-group, trapezius]
+  stabilizer: [rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, infrapinatus, supraspinatus, subscapularis, teres-minor, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [rectus-femoris, soleus, adductor-muscle-group, deltoid, latissimus-dorsi, rhomboids, biceps-brachii]
   dynamic: [gastrocnemius, hamstrings]
   antagonist: [iliacus, psoas-major, tibialis-anterior]
-variations: [barbell/clean-jerk]
+variations: [barbell/clean-jerk, barbell/clean-pull, barbell/hang-power-clean, kettlebell/single-arm-clean]
 ---
 The barbell clean is a power lift that brings the bar from the floor to your shoulders in one fast movement. It uses the legs, hips, back and shoulders together and needs good technique.
 

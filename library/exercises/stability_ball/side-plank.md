@@ -5,12 +5,12 @@ equipment: stability ball
 region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
-  target: [external-and-internal-obliques]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [quadratus-lumborum, rectus-abdominis, rhomboids, serratus-anterior, transversus-abdominis, trapezius]
-  dynamic: [deltoid, gluteus-medius]
-  antagonist: []
-variations: []
+  target: [external-and-internal-obliques, quadratus-lumborum]
+  stabilizer: [transversus-abdominis, deltoid, supraspinatus, infrapinatus, teres-minor, subscapularis, serratus-anterior, trapezius, gluteus-medius, gluteus-minimus]
+  synergist: [rectus-abdominis, adductor-muscle-group, gluteus-maximus, multifidus]
+  dynamic: [tensor-fasciae-latae]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [body_weight/side-plank, body_weight/copenhagen-plank, stability_ball/stability-ball-front-plank]
 ---
 This is a side-on core hold using a stability ball. You support yourself on one forearm with your body in a straight line and your feet on the ball. It mainly works the obliques, the muscles at the sides of your waist, with the shoulder-blade muscles and the deep lower-back muscle (quadratus lumborum) helping.
 

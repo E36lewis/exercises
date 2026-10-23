@@ -2,17 +2,17 @@
 id: 13e1567b-894b-444c-ac7b-a64b555f2c88
 name: incline flye
 equipment: dumbbell
-region: Thorax
+region: "Thorax"
 type: weight
 example: dumbbell/incline_flye
 other_examples: [dumbbell/single_incline_flye, kettlebell/incline_flye, kettlebell/single_incline_flye]
 muscles:
   target: [pectoralis-major]
-  stabilizer: [abductor-pollicis-longus, biceps-brachii, brachialis, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, palmaris-longus, triceps-brachii]
-  synergist: [deltoid, pectoralis-major]
-  dynamic: []
-  antagonist: []
-variations: []
+  stabilizer: [pectoralis-minor, serratus-anterior, brachialis, triceps-brachii, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [deltoid, coracobrachialis]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, rhomboids, teres-major]
+variations: [dumbbell/flye, dumbbell/incline-bench-press]
 ---
 The incline flye opens your arms out to the sides like a hug in reverse, while you lie on an angled bench. It stretches and works the pectoral muscles, especially the upper chest, with only a small bend at the elbow.
 

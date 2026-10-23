@@ -2,15 +2,15 @@
 id: 4a1e19bd-8ccc-49c8-a792-4cfb4eab636b
 name: arm clean
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: weight
 muscles:
-  target: [adductor-muscle-group, brachialis, coracobrachialis, deltoid, gluteus-maximus, hamstrings, vasti-group]
-  stabilizer: [biceps-brachii, iliocostalis-portion, longissimus-portion, spinalis-portion, triceps-brachii]
-  synergist: [adductor-muscle-group, coracobrachialis, deltoid, hamstrings, levator-scapulae, rectus-femoris, sartorius, serratus-anterior, supraspinatus, trapezius, vasti-group]
-  dynamic: [latissimus-dorsi, levator-scapulae, pectoralis-minor, rhomboids, serratus-anterior]
-  antagonist: [external-and-internal-obliques, multifidus, psoas-major, quadratus-lumborum, rectus-abdominis, rotatores]
-variations: [kettlebell/single-arm-clean]
+  target: [gluteus-maximus, hamstrings, vasti-group, adductor-muscle-group]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, supraspinatus, infrapinatus, teres-minor, subscapularis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [trapezius, deltoid, biceps-brachii, serratus-anterior, levator-scapulae]
+  dynamic: [rectus-femoris, gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [kettlebell/single-arm-clean, kettlebell/clean-from-hang, kettlebell/alternating-hang-clean, dumbbell/clean-press, barbell/clean]
 ---
 The arm clean is a one-arm kettlebell lift that brings the bell from the floor to your shoulder in one fluid motion. The hips, legs and glutes supply the power, and the back, shoulder and grip finish the job.
 

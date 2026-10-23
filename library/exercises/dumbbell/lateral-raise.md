@@ -2,17 +2,17 @@
 id: faa45e15-b8c6-4358-93b5-8ebda071c7f2
 name: lateral raise
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/lateral_raise
 other_examples: [kettlebell/lateral_raise, kettlebellalt/lateral_raise]
 muscles:
   target: [deltoid]
-  stabilizer: [levator-scapulae, rhomboids, subscapularis, teres-major, trapezius]
-  synergist: [deltoid, infrapinatus, serratus-anterior, teres-minor, trapezius]
-  dynamic: [supraspinatus]
-  antagonist: [biceps-brachii, latissimus-dorsi, pectoralis-major]
-variations: [dumbbell/single-arm-lateral-raise]
+  stabilizer: [levator-scapulae, rhomboids, subscapularis, infrapinatus, teres-minor, external-and-internal-obliques, transversus-abdominis]
+  synergist: [supraspinatus, trapezius, serratus-anterior]
+  dynamic: []
+  antagonist: [latissimus-dorsi, pectoralis-major, teres-major]
+variations: [dumbbell/front-arm-raise, dumbbell/scaption, dumbbell/single-arm-lateral-raise]
 ---
 A dumbbell exercise that lifts your arms out to the sides to train the deltoids (the shoulder muscles), especially the middle part that gives the shoulder its width. The upper back helps hold your shoulder blades steady as you lift.
 

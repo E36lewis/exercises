@@ -6,12 +6,12 @@ region: Multi Region
 type: cardio
 example: body_weight/circle_run
 muscles:
-  target: [gastrocnemius, pectineus, plantaris, rectus-femoris, sartorius, soleus, tensor-fasciae-latae, tibialis-posterior, vasti-group]
-  stabilizer: [external-and-internal-obliques, multifidus, psoas-major, quadratus-lumborum, rotatores]
-  synergist: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, multifidus, psoas-major, sartorius, tensor-fasciae-latae, vasti-group]
-  dynamic: [adductor-muscle-group, flexor-digitorum-brevis, gluteus-maximus, hamstrings, psoas-major, tibialis-posterior]
-  antagonist: [extensor-digitorum-longus, extensor-hallucis-longus, tibialis-anterior]
-variations: []
+  target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]
+  synergist: [adductor-muscle-group, fibularis-longus, gluteus-medius, gluteus-minimus, iliacus, psoas-major, sartorius, tensor-fasciae-latae, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, multifidus, quadratus-lumborum, rotatores, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [extensor-digitorum-longus, tibialis-anterior]
+variations: [body_weight/running, body_weight/carioca, body_weight/cutting-drill, body_weight/interval-run]
 ---
 The circle run is a cardio drill in which you run around a circle. It works the legs and hips, trains your heart and lungs, and asks you to lean slightly into the turn.
 
@@ -23,7 +23,7 @@ The circle run is a cardio drill in which you run around a circle. It works the 
 5. After a set time, change direction and run the other way.
 6. Slow to a walk to cool down.
 
-**Tips:** Keep a tall posture and look ahead. Change direction so both sides work equally. Wear shoes with good grip, and start at a gentle pace on a smooth surface.
+**Tips:** Keep a tall posture and look ahead. Change direction so both sides work equally. Wear shoes with good grip, and start at a gentle pace on a smooth surface. Try 4 to 6 laps of the circle in each direction, resting 30 seconds between, or run it for 10 to 20 minutes at an easy pace.
 
 ### In daily life
 It trains the turning you do when you circle round a table or chase a child in a playground.

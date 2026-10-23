@@ -2,13 +2,13 @@
 id: 7f97d958-0720-41cd-8a99-946b3a10cd48
 name: turkish get up
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Multi Region
 type: weight
 muscles:
-  target: [adductor-muscle-group, deltoid, external-and-internal-obliques, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, iliocostalis-portion, infrapinatus, latissimus-dorsi, longissimus-portion, multifidus, pectineus, psoas-major, quadratus-lumborum, tensor-fasciae-latae, triceps-brachii, vasti-group]
-  stabilizer: [coracobrachialis, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, latissimus-dorsi, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids, teres-major, teres-minor, triceps-brachii]
-  synergist: [biceps-brachii, coracobrachialis, deltoid, infrapinatus, latissimus-dorsi, pectoralis-major, teres-major, teres-minor]
-  dynamic: [gluteus-medius, gluteus-minimus, levator-scapulae, pectoralis-major, pectoralis-minor, sartorius, serratus-anterior, supraspinatus, tensor-fasciae-latae, trapezius]
+  target: [gluteus-maximus, vasti-group, external-and-internal-obliques, deltoid]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, trapezius, serratus-anterior, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion, quadratus-lumborum, gluteus-medius, gluteus-minimus, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [hamstrings, adductor-muscle-group, triceps-brachii, pectoralis-major]
+  dynamic: [rectus-femoris]
   antagonist: []
 variations: []
 ---

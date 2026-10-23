@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: body_weight/plank
 muscles:
-  target: [rectus-abdominis]
-  stabilizer: [external-and-internal-obliques, gracilis, pectoralis-major, pectoralis-minor, rectus-femoris, sartorius, serratus-anterior, tensor-fasciae-latae]
-  synergist: []
+  target: [rectus-abdominis, transversus-abdominis]
+  synergist: [external-and-internal-obliques]
+  stabilizer: [deltoid, gluteus-maximus, gluteus-medius, gracilis, pectoralis-major, pectoralis-minor, rectus-femoris, sartorius, serratus-anterior, tensor-fasciae-latae, vasti-group]
   dynamic: []
   antagonist: [iliocostalis-portion, longissimus-portion, rhomboids, spinalis-portion, trapezius]
-variations: [body_weight/side-plank, resistance_band/band-plank-march, stability_ball/stability-ball-front-plank]
+variations: [body_weight/side-plank, body_weight/bear-plank-hold, body_weight/plank-shoulder-tap, body_weight/copenhagen-plank, body_weight/hollow-body-hold, resistance_band/band-plank-march, stability_ball/stability-ball-front-plank, slide_board/body-saw]
 ---
 A hold on your forearms and toes with your body in a straight line. It is mainly an abdominal exercise: the rectus abdominis and obliques stop your hips from sagging, while the shoulders, glutes and thighs help keep you steady.
 

@@ -2,17 +2,17 @@
 id: 5ef0d2df-9b4d-49e4-84ad-285aa62fb35e
 name: single arm lateral raise
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: kettlebell/single_arm_raise
 other_examples: [dumbbell/single_arm_lateral_raise, dumbbell/single_arm_raise, kettlebell/single_arm_lateral_raise, kettlebellalt/single_arm_lateral_raise]
 muscles:
   target: [deltoid]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, infrapinatus, levator-scapulae, teres-minor, trapezius]
-  synergist: [deltoid, serratus-anterior, supraspinatus, trapezius]
+  stabilizer: [levator-scapulae, rhomboids, infrapinatus, teres-minor, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, external-and-internal-obliques, transversus-abdominis]
+  synergist: [supraspinatus, trapezius, serratus-anterior]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [latissimus-dorsi, pectoralis-major, teres-major]
+variations: [dumbbell/front-arm-raise, dumbbell/lateral-raise, dumbbell/single-arm-shoulder-raise]
 ---
 This is a one-arm dumbbell raise out to the side. It mainly works the side of your shoulder (deltoid), and the rotator cuff helps hold the joint steady.
 

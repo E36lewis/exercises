@@ -2,14 +2,14 @@
 id: 220c1a35-cc0e-408d-bae6-9e1fc0687df5
 name: halo
 equipment: kettlebell
-region: "Abdomen, Lower Back, & Pelvis"
+region: Shoulder & Upper Arm
 type: weight
 muscles:
-  target: [coracobrachialis, deltoid, supraspinatus]
-  stabilizer: [biceps-brachii, external-and-internal-obliques, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, levator-scapulae, psoas-major, quadratus-lumborum, rectus-abdominis, rotatores, trapezius, triceps-brachii]
-  synergist: [deltoid, trapezius]
-  dynamic: [serratus-anterior, trapezius]
-  antagonist: [iliocostalis-portion, longissimus-portion, multifidus, spinalis-portion]
+  target: [deltoid, trapezius]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, gluteus-maximus, supraspinatus, infrapinatus, teres-minor, subscapularis]
+  synergist: [serratus-anterior, rhomboids, triceps-brachii]
+  dynamic: []
+  antagonist: [pectoralis-major, latissimus-dorsi]
 variations: []
 ---
 The halo circles a kettlebell around your head like a halo. It moves and strengthens the shoulders and upper back, and your trunk has to stay still while the weight passes behind you.

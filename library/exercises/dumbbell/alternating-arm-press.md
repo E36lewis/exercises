@@ -2,16 +2,16 @@
 id: b5811348-e8c3-444c-9f20-86c3855f023a
 name: alternating arm press
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/alternating_arm_press
 muscles:
-  target: [deltoid]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, levator-scapulae, trapezius]
-  synergist: [deltoid, serratus-anterior, supraspinatus, trapezius, triceps-brachii]
-  dynamic: []
-  antagonist: []
-variations: []
+  target: [deltoid, triceps-brachii]
+  stabilizer: [infrapinatus, subscapularis, teres-minor, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [trapezius, serratus-anterior, supraspinatus, pectoralis-major]
+  dynamic: [triceps-brachii]
+  antagonist: [latissimus-dorsi, biceps-brachii]
+variations: [barbell/overhead-press, dumbbell/shoulder-press, dumbbell/single-arm-press, kettlebell/alternating-arm-press]
 ---
 The dumbbell alternating arm press is an overhead press done one arm at a time, so each shoulder works on its own while the other rests. It works the shoulders and triceps, with your core keeping you upright.
 

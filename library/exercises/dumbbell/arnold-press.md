@@ -2,17 +2,17 @@
 id: 0116c441-b709-4286-a208-7ac8a8aa14d7
 name: arnold press
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/arnold_press
 other_examples: [kettlebell/arnold_press, kettlebellalt/arnold_press]
 muscles:
   target: [deltoid]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, infrapinatus, longissimus-portion, rectus-abdominis, spinalis-portion, subscapularis, teres-minor, transversus-abdominis]
-  synergist: [pectoralis-major, supraspinatus, triceps-brachii]
-  dynamic: [trapezius]
-  antagonist: [biceps-brachii]
-variations: [dumbbell/single-arm-shoulder-raise, kettlebell/alternating-arm-press]
+  stabilizer: [infrapinatus, subscapularis, teres-minor, rectus-abdominis, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [triceps-brachii, pectoralis-major, supraspinatus, trapezius, serratus-anterior]
+  dynamic: [triceps-brachii]
+  antagonist: [biceps-brachii, latissimus-dorsi]
+variations: [barbell/overhead-press, dumbbell/shoulder-press, dumbbell/single-arm-shoulder-raise, kettlebell/alternating-arm-press]
 ---
 The Arnold press is a dumbbell shoulder press that adds a half turn of the hands as you press. It works all three heads of the deltoid, with the triceps and upper chest helping.
 

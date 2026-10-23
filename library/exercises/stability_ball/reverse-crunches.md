@@ -6,11 +6,11 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 muscles:
   target: [rectus-abdominis]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
-  synergist: [external-and-internal-obliques, gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, transversus-abdominis]
-  dynamic: [iliacus, psoas-major]
-  antagonist: []
-variations: []
+  stabilizer: [transversus-abdominis]
+  synergist: [psoas-major, iliacus, adductor-muscle-group, external-and-internal-obliques]
+  dynamic: [rectus-femoris]
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+variations: [body_weight/lying-floor-leg-raise, body_weight/crunch, body_weight/v-up, pull_up_bar/hanging-knee-raise]
 ---
 A crunch where you curl your hips off the floor instead of lifting your shoulders, with a stability ball held between your lower legs. It works the lower part of the rectus abdominis, with the hip flexors and obliques helping.
 

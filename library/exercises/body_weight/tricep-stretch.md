@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/tricep_stretch
 muscles:
   target: [triceps-brachii]
-  stabilizer: [deltoid, infrapinatus]
-  synergist: []
+  synergist: [anconeus, latissimus-dorsi, teres-major]
+  stabilizer: [deltoid, serratus-anterior, trapezius]
   dynamic: []
   antagonist: [biceps-brachii]
-variations: []
+variations: [body_weight/bicep-stretch, body_weight/cross-body-shoulder-stretch, body_weight/sleeper-stretch]
 ---
 The tricep stretch is a standing or seated stretch for the back of the upper arm. Bending the elbow fully and lifting the arm overhead lengthens the triceps, including the long head that crosses the shoulder.
 

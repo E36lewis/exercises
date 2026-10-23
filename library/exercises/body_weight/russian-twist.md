@@ -7,11 +7,11 @@ type: weight
 example: body_weight/russian_twist
 muscles:
   target: [external-and-internal-obliques, rectus-abdominis]
-  stabilizer: [infrapinatus, rhomboids, supraspinatus, trapezius]
-  synergist: [trapezius]
-  dynamic: [iliacus, iliocostalis-portion, longissimus-portion, psoas-major, rectus-femoris, spinalis-portion, transversus-abdominis]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: []
+  synergist: [iliacus, psoas-major, transversus-abdominis]
+  stabilizer: [iliocostalis-portion, infrapinatus, longissimus-portion, rhomboids, spinalis-portion, supraspinatus, trapezius]
+  dynamic: [rectus-femoris]
+  antagonist: []
+variations: [dumbbell/russian-twist, medicine_ball/russian-twist, stability_ball/russian-twist, resistance_band/banded-core-twist, body_weight/bicycle-crunch]
 ---
 This is a seated rotating core exercise that needs no equipment. You hold your hands together, lean back and turn from side to side. It works the abs and the obliques, the muscles at the sides of your waist, with the hip flexors helping you stay leaned back.
 

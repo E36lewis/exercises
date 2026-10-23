@@ -7,11 +7,11 @@ type: weight
 example: medicine_ball/russian_twist
 muscles:
   target: [external-and-internal-obliques]
-  stabilizer: [iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion]
-  synergist: [gemellus-inferior, gemellus-superior, gluteus-medius, gluteus-minimus, iliacus, obturator-externus, obturator-internus, piriformis, psoas-major, tensor-fasciae-latae]
-  dynamic: [iliocostalis-portion, longissimus-portion, multifidus, spinalis-portion, transversus-abdominis]
+  stabilizer: [rectus-abdominis, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [psoas-major, iliacus, tensor-fasciae-latae]
+  dynamic: [rectus-femoris]
   antagonist: []
-variations: []
+variations: [dumbbell/russian-twist, stability_ball/russian-twist, body_weight/russian-twist]
 ---
 This is a seated rotating core exercise with a medicine ball. You lean back and swing the ball from beside one hip to beside the other. It mainly works the obliques, the muscles at the sides of your waist, with the hip flexors and deep trunk muscles helping.
 

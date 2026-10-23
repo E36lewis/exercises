@@ -2,17 +2,17 @@
 id: 5f0ea070-568c-43cb-9b3b-205dd44b79fd
 name: wrist curl palm down
 equipment: dumbbell
-region: Elbow & Forearm
+region: "Elbow & Forearm"
 type: weight
 example: dumbbell/wrist_curl_palm_down
 other_examples: [kettlebell/wrist_curl_palm_down]
 muscles:
-  target: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis]
-  stabilizer: []
-  synergist: []
-  dynamic: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus]
-  antagonist: []
-variations: [resistance_band/finger-extensions]
+  target: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digitorum]
+  stabilizer: [pronator-teres, pronator-quadratus]
+  synergist: [extensor-digiti-minimi, extensor-indicis]
+  dynamic: [extensor-digitorum]
+  antagonist: [flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus, flexor-pollicis-longus]
+variations: [dumbbell/wrist-curl-palm-up, resistance_band/finger-extensions]
 ---
 The dumbbell wrist curl with your palm facing down, also called a wrist extension, works the extensor muscles on the top of the forearm. These muscles lift the back of your hand up, and they work as a balance to the stronger flexors on the underside.
 

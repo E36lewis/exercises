@@ -7,12 +7,12 @@ type: weight
 example: kettlebell/single_extended_range_arm_press
 other_examples: [dumbbell/single_extended_range_arm_press, kettlebellalt/single_extended_range_arm_press]
 muscles:
-  target: [deltoid, pectoralis-major, pectoralis-minor, triceps-brachii]
-  stabilizer: [coracobrachialis, levator-scapulae, pectoralis-major, pectoralis-minor, rhomboids, teres-major, triceps-brachii]
-  synergist: [deltoid, pectoralis-major, triceps-brachii]
-  dynamic: [biceps-brachii, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, triceps-brachii]
-  antagonist: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion]
-variations: [kettlebell/alternating-arm-press-floor]
+  target: [pectoralis-major, deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, transversus-abdominis, external-and-internal-obliques, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [serratus-anterior, pectoralis-minor]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi]
+variations: [kettlebell/alternating-arm-press-floor, dumbbell/bench-press]
 ---
 This is a one-arm kettlebell press on the floor, with a small reach at the top. It works the chest, front shoulder and triceps.
 

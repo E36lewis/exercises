@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/upward_dog
 muscles:
   target: [extensor-digitorum-longus, extensor-hallucis-longus, fibularis-tertitus, iliacus, pectoralis-major, psoas-major, rectus-abdominis, tibialis-anterior]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, triceps-brachii]
-  synergist: []
-  dynamic: []
+  synergist: [gluteus-maximus, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  stabilizer: [deltoid, serratus-anterior, triceps-brachii, vasti-group]
+  dynamic: [rectus-femoris]
   antagonist: []
-variations: []
+variations: [body_weight/downward-dog, body_weight/camel, body_weight/bow]
 ---
 Upward dog is a yoga stretch in which you lie face down and press your chest up on straight arms, with only your hands and the tops of your feet on the floor. It opens the chest, shoulders, abdomen and the fronts of the hips, and it also stretches the front of the shins and the tops of the feet.
 

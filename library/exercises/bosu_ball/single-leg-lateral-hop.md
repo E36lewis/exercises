@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: bosu_ball/single_leg_lateral_hop
 muscles:
-  target: [gastrocnemius, gluteus-maximus, rectus-femoris, soleus, vasti-group]
-  stabilizer: [gluteus-medius, gluteus-minimus, tibialis-anterior]
-  synergist: [adductor-muscle-group, fibularis-brevis, fibularis-longus, gluteus-medius, gluteus-minimus, tensor-fasciae-latae]
-  dynamic: [adductor-muscle-group, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
+  target: [gluteus-medius, gluteus-maximus, vasti-group]
+  stabilizer: [gluteus-minimus, tensor-fasciae-latae, fibularis-brevis, fibularis-longus, tibialis-anterior, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [adductor-muscle-group, soleus]
+  dynamic: [gastrocnemius, rectus-femoris]
   antagonist: [hamstrings]
-variations: [bosu_ball/single-leg-forward-hop]
+variations: [bosu_ball/single-leg-forward-hop, resistance_band/lateral-single-leg-hop, body_weight/lateral-leap, hurdle/lateral-hurdle-hop, plyo_box/lateral-box-jump]
 ---
 This is a one-leg sideways jump using a Bosu ball. It works the thighs, calves and glutes, and your hips and core help keep you steady.
 

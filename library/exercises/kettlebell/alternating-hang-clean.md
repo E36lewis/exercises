@@ -2,15 +2,15 @@
 id: 252a2820-fe53-49d1-8acb-10c51d955ed7
 name: alternating hang clean
 equipment: kettlebell
-region: Shoulder & Upper Arm
+region: Multi Region
 type: weight
 muscles:
-  target: [adductor-muscle-group, deltoid, gluteus-maximus, hamstrings, rectus-femoris, vasti-group]
-  stabilizer: [biceps-brachii, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, triceps-brachii]
-  synergist: [adductor-muscle-group, coracobrachialis, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, gluteus-maximus, hamstrings, levator-scapulae, rectus-femoris, serratus-anterior, supraspinatus, trapezius, vasti-group]
-  dynamic: [latissimus-dorsi, pectoralis-major, pectoralis-minor, rhomboids, serratus-anterior]
-  antagonist: []
-variations: []
+  target: [gluteus-maximus, hamstrings, vasti-group, adductor-muscle-group]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, supraspinatus, infrapinatus, teres-minor, subscapularis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [trapezius, deltoid, biceps-brachii, serratus-anterior, levator-scapulae]
+  dynamic: [rectus-femoris, gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [kettlebell/clean-from-hang, kettlebell/single-arm-clean, kettlebell/arm-clean, dumbbell/clean-press, barbell/hang-power-clean]
 ---
 The alternating hang clean is a kettlebell lift that starts with the bell hanging near your thighs and ends with it resting at your shoulder, one arm at a time. It is mostly a hip movement that works the glutes, hamstrings and thighs, with the back, shoulders and grip joining in.
 

@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: weight
 example: bosu_ball/single_leg_forward_hop
 muscles:
-  target: [gastrocnemius, gluteus-maximus, hamstrings, soleus]
-  stabilizer: [rectus-femoris, vasti-group]
-  synergist: [fibularis-brevis, fibularis-longus, gastrocnemius, soleus]
-  dynamic: [external-and-internal-obliques, fibularis-brevis, fibularis-longus, iliocostalis-portion, longissimus-portion, spinalis-portion, tibialis-anterior, transversus-abdominis]
-  antagonist: [rectus-femoris, vasti-group]
-variations: []
+  target: [gluteus-maximus, vasti-group, rectus-femoris, soleus]
+  stabilizer: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae, fibularis-brevis, fibularis-longus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [hamstrings, adductor-muscle-group]
+  dynamic: [gastrocnemius]
+  antagonist: [tibialis-anterior]
+variations: [bosu_ball/single-leg-lateral-hop, body_weight/calf-hop, body_weight/single-leg-broad-jump]
 ---
 This is a one-leg forward jump using a Bosu ball for the hop or the landing. It works your calves, hamstrings and glutes, and your core and ankles keep you steady.
 

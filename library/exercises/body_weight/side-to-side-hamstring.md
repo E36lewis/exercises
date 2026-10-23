@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: stretch
 example: body_weight/split_hamstring
 muscles:
-  target: [adductor-muscle-group, gluteus-maximus, hamstrings]
-  stabilizer: []
-  synergist: []
-  dynamic: [gluteus-medius, gluteus-minimus]
-  antagonist: []
-variations: []
+  target: [adductor-muscle-group, gracilis, hamstrings]
+  synergist: [gluteus-maximus]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
+  dynamic: [gastrocnemius]
+  antagonist: [iliacus, psoas-major, vasti-group]
+variations: [body_weight/straddle-stretch, body_weight/sitting-hamstring, body_weight/single-sitting-hamstring, body_weight/wide-feet-hamstring-stretch]
 ---
 This is a seated stretch with your legs wide, reaching towards one foot and then the other. It stretches the back of your thighs, and your inner thighs and glutes feel it too.
 

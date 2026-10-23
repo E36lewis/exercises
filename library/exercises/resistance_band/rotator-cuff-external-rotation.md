@@ -2,15 +2,15 @@
 id: 9aeb162a-6310-4fc5-9565-58b3adcb872c
 name: rotator cuff external rotation
 equipment: resistance band
-region: "Abdomen, Lower Back, & Pelvis"
+region: Shoulder & Upper Arm
 type: weight
 muscles:
   target: [infrapinatus, teres-minor]
-  stabilizer: [deltoid, extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-brevis, extensor-pollicis-longus, rhomboids, trapezius]
-  synergist: [deltoid, teres-minor]
+  stabilizer: [supraspinatus, rhomboids, serratus-anterior]
+  synergist: [deltoid]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [subscapularis, pectoralis-major, latissimus-dorsi, teres-major]
+variations: [resistance_band/rotator-cuff-internal-rotation, resistance_band/external-rotation-at-90-degrees, cable/cable-external-rotation, dumbbell/side-lying-external-rotation]
 ---
 This is a shoulder exercise with a resistance band. You turn your forearm outward while your elbow stays at your side. It strengthens the rotator cuff muscles at the back of the shoulder blade, mainly the infraspinatus and teres minor, with the rear part of the deltoid helping.
 

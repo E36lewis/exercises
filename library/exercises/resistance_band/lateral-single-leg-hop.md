@@ -5,12 +5,12 @@ equipment: resistance band
 region: Hip & Thigh
 type: weight
 muscles:
-  target: [gluteus-medius]
-  stabilizer: [gemellus-inferior, gemellus-superior, gluteus-maximus, gluteus-minimus, obturator-externus, obturator-internus, piriformis, quadratus-lumborum, tensor-fasciae-latae]
-  synergist: [hamstrings, rectus-femoris, vasti-group]
-  dynamic: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
-  antagonist: [adductor-muscle-group, gracilis]
-variations: [resistance_band/hip-abduction, resistance_band/hip-adduction, resistance_band/lateral-walk]
+  target: [gluteus-medius, gluteus-maximus, vasti-group]
+  stabilizer: [gluteus-minimus, tensor-fasciae-latae, fibularis-brevis, fibularis-longus, tibialis-anterior, transversus-abdominis, external-and-internal-obliques]
+  synergist: [soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [adductor-muscle-group]
+variations: [resistance_band/lateral-walk, resistance_band/hip-abduction, resistance_band/hip-adduction, bosu_ball/single-leg-lateral-hop, hurdle/lateral-hurdle-hop, plyo_box/lateral-box-jump]
 ---
 A one-legged sideways hop with a resistance band around your legs. It trains the gluteus medius (the muscle on the outside of the hip that keeps your pelvis level), with the thighs and hamstrings helping you push off and land.
 

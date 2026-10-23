@@ -5,12 +5,12 @@ equipment: kettlebell
 region: Shoulder & Upper Arm
 type: weight
 muscles:
-  target: [deltoid]
-  stabilizer: [levator-scapulae, trapezius]
-  synergist: [deltoid, pectoralis-major, serratus-anterior, supraspinatus, trapezius, triceps-brachii]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: []
-variations: [body_weight/hand-stand-push-up, dumbbell/alternating-arm-press]
+  target: [deltoid, triceps-brachii]
+  stabilizer: [supraspinatus, infrapinatus, teres-minor, subscapularis, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [serratus-anterior, trapezius, pectoralis-major]
+  dynamic: [biceps-brachii]
+  antagonist: [latissimus-dorsi, teres-major]
+variations: [kettlebell/alternating-arm-press, kettlebell/double-press, kettlebell/seesaw-press, dumbbell/shoulder-press, dumbbell/single-arm-press, barbell/seated-shoulder-press]
 ---
 This is a one-arm overhead press with a kettlebell, done sitting down. You press the bell from shoulder height until your arm is straight above you. It mainly works the shoulders (deltoids) and triceps, with the upper back helping you keep the weight steady.
 

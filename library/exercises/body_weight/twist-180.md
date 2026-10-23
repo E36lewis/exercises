@@ -6,12 +6,12 @@ region: Multi Region
 type: cardio
 example: body_weight/twist_180
 muscles:
-  target: [adductor-muscle-group, gastrocnemius, gracilis, plantaris, rectus-femoris, soleus, tibialis-posterior, vasti-group]
-  stabilizer: [adductor-muscle-group, gluteus-maximus, gluteus-medius, pectineus, pectoralis-major, rectus-femoris, sartorius, tensor-fasciae-latae, vasti-group]
-  synergist: [adductor-muscle-group, gluteus-maximus, hamstrings]
-  dynamic: [iliocostalis-portion, levator-scapulae, longissimus-portion, multifidus, quadratus-lumborum, spinalis-portion, trapezius]
-  antagonist: []
-variations: [body_weight/180-switch-jump]
+  target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]
+  synergist: [adductor-muscle-group, gluteus-medius, gracilis, plantaris, tensor-fasciae-latae, tibialis-posterior]
+  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, multifidus, rotatores, spinalis-portion, transversus-abdominis]
+  dynamic: [hamstrings, rectus-femoris]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/180-switch-jump, body_weight/twisting-jump]
 ---
 The twist 180 is a body-weight cardio jump in which you leap off the ground, turn half a turn in the air, and land facing the opposite direction. It raises your heart rate and uses the thighs, calves and glutes to jump and absorb the landing.
 
@@ -23,7 +23,7 @@ The twist 180 is a body-weight cardio jump in which you leap off the ground, tur
 5. Jump again and turn back to where you started.
 6. Continue at a steady rhythm for the time you set.
 
-**Tips:** Keep your knees pointing in the same direction as your toes when you land. Use a clear, non-slip floor with space on all sides. Slow down if you feel dizzy.
+**Tips:** Keep your knees pointing in the same direction as your toes when you land. Use a clear, non-slip floor with space on all sides. Slow down if you feel dizzy. Try 3 to 5 sets of 8 to 12 jumps, alternating direction, with 45 to 60 seconds of rest.
 
 ### In daily life
 It trains turning your body quickly while moving, such as spinning to avoid an obstacle, or turning round when a stair or kerb surprises you.

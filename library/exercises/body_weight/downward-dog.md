@@ -2,16 +2,16 @@
 id: 9b166e0d-ac83-4256-b5ed-4bc8b96f086a
 name: downward dog
 equipment: body weight
-region: Hip & Thigh
+region: Multi Region
 type: stretch
 example: body_weight/downward_dog
 muscles:
-  target: [gastrocnemius, hamstrings, soleus, tibialis-posterior]
-  stabilizer: [biceps-brachii, deltoid, iliocostalis-portion, infrapinatus, longissimus-portion, pectoralis-major, rhomboids, triceps-brachii]
-  synergist: []
-  dynamic: [biceps-brachii, deltoid, gluteus-maximus, levator-scapulae, rhomboids, triceps-brachii]
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [gastrocnemius, hamstrings, latissimus-dorsi, soleus, teres-major]
+  synergist: [gluteus-maximus, tibialis-posterior, vasti-group]
+  stabilizer: [deltoid, iliocostalis-portion, longissimus-portion, rhomboids, serratus-anterior, spinalis-portion, trapezius, triceps-brachii]
+  dynamic: []
+  antagonist: [iliacus, tibialis-anterior]
+variations: [body_weight/upward-dog, body_weight/bear-plank-hold, body_weight/inchworm]
 ---
 Downward dog is a yoga pose in which your body forms an upside-down V, hands and feet on the floor. It stretches the calves and the back of the legs, and opens the shoulders as you press the floor away.
 

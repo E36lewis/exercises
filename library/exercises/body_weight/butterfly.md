@@ -6,12 +6,12 @@ region: Hip & Thigh
 type: stretch
 example: body_weight/butterfly
 muscles:
-  target: [adductor-muscle-group, gracilis]
-  stabilizer: []
-  synergist: []
+  target: [adductor-muscle-group, gracilis, pectineus]
+  synergist: [piriformis, sartorius]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
   dynamic: []
-  antagonist: []
-variations: []
+  antagonist: [gluteus-minimus]
+variations: [body_weight/frog-pose, body_weight/straddle-stretch, body_weight/90-90-hip-switch]
 ---
 The butterfly is a seated stretch for the inner thighs and groin (the adductors and gracilis). You sit with the soles of your feet together and let your knees fall open.
 

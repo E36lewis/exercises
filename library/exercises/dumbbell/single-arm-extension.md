@@ -2,17 +2,17 @@
 id: 9b04a4ac-f006-4c74-a85a-3dbe590f9fa2
 name: single arm extension
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/single_arm_extension
 other_examples: [kettlebell/single_arm_extension, kettlebellalt/single_arm_extension]
 muscles:
   target: [triceps-brachii]
-  stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digiti-minimi, extensor-digitorum, extensor-indicis, extensor-pollicis-longus, flexor-carpi-ulnaris]
-  synergist: [infrapinatus, teres-major, teres-minor, trapezius]
-  dynamic: [biceps-brachii]
-  antagonist: []
-variations: []
+  stabilizer: [deltoid, supraspinatus, infrapinatus, subscapularis, teres-minor, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, external-and-internal-obliques, transversus-abdominis]
+  synergist: [anconeus]
+  dynamic: [triceps-brachii]
+  antagonist: [biceps-brachii]
+variations: [barbell/skull-crusher, dumbbell/skull-crusher, dumbbell/tricep-extension]
 ---
 This is a one-arm overhead triceps extension with a dumbbell. It works the triceps at the back of your upper arm, and the shoulder muscles keep your arm overhead.
 

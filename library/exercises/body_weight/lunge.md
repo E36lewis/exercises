@@ -2,16 +2,16 @@
 id: 05c93ff5-8780-4f33-a6b0-ffee0b97dd72
 name: lunge
 equipment: body weight
-region: Shoulder & Upper Arm
+region: Hip & Thigh
 type: weight
 example: body_weight/lunge
 muscles:
-  target: [gastrocnemius, gluteus-maximus, hamstrings, rectus-femoris, soleus, vasti-group]
-  stabilizer: [gemellus-inferior, gemellus-superior, obturator-externus, obturator-internus, piriformis, quadratus-femoris, quadratus-lumborum]
-  synergist: [adductor-muscle-group, external-and-internal-obliques, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  dynamic: [fibularis-brevis, fibularis-longus, gastrocnemius, gluteus-maximus, hamstrings, rectus-femoris, soleus, vasti-group]
-  antagonist: [fibularis-brevis, fibularis-longus, gastrocnemius, soleus]
-variations: [dumbbell/lunge]
+  target: [gluteus-maximus, vasti-group]
+  synergist: [adductor-muscle-group, soleus]
+  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion, transversus-abdominis]
+  dynamic: [gastrocnemius, hamstrings, rectus-femoris]
+  antagonist: [iliacus, psoas-major]
+variations: [dumbbell/lunge, body_weight/reverse-lunge, body_weight/walking-lunge, body_weight/switch-lunge, body_weight/curtsy-lunge, kettlebell/lunge-pass-through, dumbbell/reverse-lunge]
 ---
 A bodyweight forward lunge. It works the quadriceps, glutes, hamstrings and calves, with the core steadying your trunk while you balance on a split stance.
 

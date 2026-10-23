@@ -7,12 +7,12 @@ type: stretch
 example: body_weight/low_squat
 other_examples: [body_weight/squat]
 muscles:
-  target: [adductor-muscle-group, gastrocnemius, gluteus-maximus, gracilis, hamstrings, soleus]
-  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  synergist: [gluteus-medius, gluteus-minimus, rectus-femoris, sartorius, vasti-group]
-  dynamic: []
-  antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: []
+  target: [adductor-muscle-group, gluteus-maximus, gracilis, soleus]
+  synergist: [gluteus-medius, gluteus-minimus, rectus-femoris, vasti-group]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, tibialis-anterior, transversus-abdominis]
+  dynamic: [gastrocnemius, hamstrings]
+  antagonist: []
+variations: [dumbbell/goblet-squat, kettlebell/goblet-squat, body_weight/cossack-squat]
 ---
 A deep bodyweight squat held low. It works the glutes, thighs, calves and inner thighs, and it is a stretch for the hips and ankles because you hold the bottom position.
 

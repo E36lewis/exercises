@@ -5,12 +5,12 @@ equipment: body weight
 region: Shoulder & Upper Arm
 type: weight
 muscles:
-  target: [deltoid]
-  stabilizer: [external-and-internal-obliques, levator-scapulae, rectus-abdominis, trapezius]
-  synergist: [deltoid, pectoralis-major, serratus-anterior, trapezius, triceps-brachii]
-  dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-variations: []
+  target: [deltoid, triceps-brachii]
+  synergist: [levator-scapulae, pectoralis-major, serratus-anterior, trapezius]
+  stabilizer: [external-and-internal-obliques, gluteus-maximus, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
+  dynamic: []
+  antagonist: [latissimus-dorsi]
+variations: [body_weight/push-up, body_weight/scapular-push-up]
 ---
 The handstand push-up is done upside down, usually with your feet against a wall. It is a bodyweight press overhead, so it works the shoulders and triceps hard, plus your upper back and trunk to hold you steady.
 

@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/bicep_stretch
 muscles:
   target: [biceps-brachii]
-  stabilizer: []
-  synergist: [deltoid]
-  dynamic: [triceps-brachii]
-  antagonist: []
-variations: []
+  synergist: [brachialis, deltoid, pectoralis-major]
+  stabilizer: [serratus-anterior, trapezius]
+  dynamic: []
+  antagonist: [triceps-brachii]
+variations: [body_weight/tricep-stretch, body_weight/wide-chest, body_weight/wrist-flexor-stretch]
 ---
 The bicep stretch lengthens the biceps at the front of the upper arm. Because the biceps crosses the shoulder, the stretch also reaches the front of the shoulder and a little of the chest.
 

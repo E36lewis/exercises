@@ -6,12 +6,12 @@ region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: body_weight/superman
 muscles:
-  target: [iliocostalis-portion, interspinales, longissimus-portion, quadratus-lumborum, spinalis-portion]
-  stabilizer: []
-  synergist: [adductor-muscle-group, gluteus-maximus, hamstrings]
-  dynamic: []
+  target: [gluteus-maximus, iliocostalis-portion, longissimus-portion, multifidus, quadratus-lumborum, spinalis-portion]
+  synergist: [interspinales]
+  stabilizer: [trapezius]
+  dynamic: [hamstrings]
   antagonist: [external-and-internal-obliques, rectus-abdominis]
-variations: [machine/reverse-hyperextension]
+variations: [machine/reverse-hyperextension, stability_ball/back-extension, body_weight/superman]
 ---
 The bodyweight hyperextension lifts your upper body while you lie face down on an angled bench or machine. It works the muscles along your spine and the glutes and hamstrings.
 

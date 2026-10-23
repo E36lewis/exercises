@@ -5,12 +5,12 @@ equipment: resistance band
 region: Hip & Thigh
 type: cardio
 muscles:
-  target: [hamstrings, iliacus, psoas-major, rectus-femoris, sartorius]
-  stabilizer: [gluteus-maximus, gluteus-medius, gluteus-minimus]
-  synergist: [gastrocnemius, rectus-femoris, soleus, vasti-group]
-  dynamic: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis]
-  antagonist: []
-variations: [resistance_band/lateral-single-leg-hop]
+  target: [psoas-major, iliacus, rectus-femoris]
+  stabilizer: [gluteus-medius, gluteus-minimus, transversus-abdominis, external-and-internal-obliques]
+  synergist: [sartorius, tensor-fasciae-latae, pectineus, vasti-group, soleus]
+  dynamic: [hamstrings, gastrocnemius]
+  antagonist: [gluteus-maximus]
+variations: [resistance_band/lateral-single-leg-hop, body_weight/high-knees, body_weight/running, body_weight/butt-kicks]
 ---
 This is a cardio drill performed without moving forward. You lift your knees alternately while a resistance band adds tension around your thighs. It works the hip flexors and the front and back of the thighs, while the glutes keep your pelvis steady.
 

@@ -2,17 +2,17 @@
 id: 28bcd06d-d577-445e-a6b2-a4117b041b74
 name: incline row
 equipment: dumbbell
-region: "Abdomen, Lower Back, & Pelvis"
+region: "Thorax"
 type: weight
 example: kettlebell/incline_row
 other_examples: [dumbbell/incline_row]
 muscles:
   target: [latissimus-dorsi, rhomboids, trapezius]
-  stabilizer: []
-  synergist: [brachialis, brachioradialis, deltoid, infrapinatus, latissimus-dorsi, levator-scapulae, pectoralis-major, rhomboids, teres-major, teres-minor]
+  stabilizer: [serratus-anterior, supraspinatus, levator-scapulae, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [teres-major, deltoid, infrapinatus, teres-minor, brachialis, brachioradialis]
   dynamic: [biceps-brachii, triceps-brachii]
-  antagonist: []
-variations: []
+  antagonist: [pectoralis-major, pectoralis-minor]
+variations: [barbell/rear-delt-row, dumbbell/row, dumbbell/single-arm-bent-row]
 ---
 The incline row is a dumbbell row done lying chest down on an angled bench. The bench holds your trunk up, so your back muscles and shoulder blades do the pulling without your lower back having to work to hold you.
 

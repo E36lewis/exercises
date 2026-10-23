@@ -2,15 +2,15 @@
 id: b660fa82-4f9b-4661-88c0-1f6db9a5da2b
 name: kneeling side throw
 equipment: medicine ball
-region: Multi Region
+region: "Abdomen, Lower Back, & Pelvis"
 type: weight
 example: medicine_ball/kneeling_side_throw
 muscles:
   target: [external-and-internal-obliques]
-  stabilizer: [adductor-muscle-group, gluteus-medius, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion]
-  synergist: [gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, vasti-group]
-  dynamic: [iliocostalis-portion, longissimus-portion, multifidus, spinalis-portion, transversus-abdominis]
-  antagonist: [external-and-internal-obliques, rectus-femoris]
+  stabilizer: [transversus-abdominis, multifidus, quadratus-lumborum, gluteus-maximus]
+  synergist: [pectoralis-major, deltoid, serratus-anterior, latissimus-dorsi]
+  dynamic: []
+  antagonist: [iliocostalis-portion, longissimus-portion, spinalis-portion]
 variations: [medicine_ball/standing-side-throw]
 ---
 A rotational power exercise with a medicine ball, thrown from a kneeling position. Kneeling takes your legs and feet out of the movement, so your obliques (the side abdominal muscles) and hips have to produce the force.

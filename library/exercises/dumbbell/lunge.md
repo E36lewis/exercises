@@ -2,17 +2,17 @@
 id: da7dbb76-532b-43c6-b236-e7246de7f96e
 name: lunge
 equipment: dumbbell
-region: Hip & Thigh
+region: "Hip & Thigh"
 type: weight
 example: dumbbell/lunge
 other_examples: [kettlebell/lunge, kettlebellalt/lunge]
 muscles:
-  target: [gluteus-maximus, gluteus-medius, gluteus-minimus, hamstrings, rectus-femoris, vasti-group]
-  stabilizer: [external-and-internal-obliques, gluteus-medius, gluteus-minimus, multifidus, transversus-abdominis]
-  synergist: [adductor-muscle-group, gastrocnemius, iliacus, iliocostalis-portion, longissimus-portion, plantaris, psoas-major, quadratus-lumborum, soleus, spinalis-portion, tibialis-anterior, tibialis-posterior]
-  dynamic: [gastrocnemius, soleus]
-  antagonist: []
-variations: [kettlebell/lunge-pass-through, kettlebell/side-lunge]
+  target: [rectus-femoris, vasti-group, gluteus-maximus]
+  stabilizer: [gluteus-minimus, quadratus-lumborum, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [hamstrings, adductor-muscle-group, soleus, gluteus-medius]
+  dynamic: [gastrocnemius, hamstrings]
+  antagonist: [iliacus, psoas-major]
+variations: [body_weight/lunge, body_weight/walking-lunge, dumbbell/reverse-lunge, kettlebell/lunge-pass-through, kettlebell/side-lunge]
 ---
 A forward lunge holding a dumbbell in each hand. The extra weight makes the thighs, glutes and hamstrings work harder, and your hips and trunk work to keep you upright.
 

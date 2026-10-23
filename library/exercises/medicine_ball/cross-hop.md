@@ -2,15 +2,15 @@
 id: de8a024d-7568-448c-a065-fb816f7445d1
 name: cross hop
 equipment: medicine ball
-region: "Abdomen, Lower Back, & Pelvis"
+region: Hip & Thigh
 type: weight
 muscles:
-  target: [gluteus-maximus, rectus-femoris, tensor-fasciae-latae, vasti-group]
-  stabilizer: [iliocostalis-portion, longissimus-portion, quadratus-lumborum, spinalis-portion]
-  synergist: [external-and-internal-obliques, fibularis-brevis, fibularis-longus, gastrocnemius, gluteus-medius, gluteus-minimus, rectus-abdominis, soleus, tensor-fasciae-latae, tibialis-anterior, transversus-abdominis]
-  dynamic: [adductor-muscle-group, gluteus-medius, iliacus, psoas-major, sartorius, tensor-fasciae-latae]
-  antagonist: [gastrocnemius, hamstrings, soleus, vasti-group]
-variations: [body_weight/lateral-leap, body_weight/tire-hop]
+  target: [gluteus-maximus, vasti-group, rectus-femoris, soleus]
+  stabilizer: [gluteus-medius, gluteus-minimus, tensor-fasciae-latae, fibularis-brevis, fibularis-longus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [hamstrings, adductor-muscle-group]
+  dynamic: [gastrocnemius]
+  antagonist: [tibialis-anterior]
+variations: [body_weight/cross-hop-hold, body_weight/lateral-leap, body_weight/tire-hop, bosu_ball/single-leg-lateral-hop, hurdle/lateral-hurdle-hop]
 ---
 The cross hop is a jumping drill in which you hop diagonally across a line while holding a medicine ball. It trains the thighs and glutes to push off, while the hips and trunk keep you steady on each landing.
 

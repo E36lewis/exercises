@@ -2,17 +2,17 @@
 id: 26bf3e6f-e5b8-45de-b241-3ceb02aebc07
 name: clean press
 equipment: dumbbell
-region: Multi Region
+region: "Multi Region"
 type: weight
 example: kettlebell/arm_clean
 other_examples: [dumbbell/arm_clean]
 muscles:
-  target: [deltoid, trapezius]
-  stabilizer: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  synergist: [biceps-brachii, gluteus-maximus, infrapinatus, rhomboids, subscapularis, supraspinatus, teres-minor, vasti-group]
-  dynamic: [triceps-brachii]
+  target: [deltoid, trapezius, triceps-brachii]
+  stabilizer: [rectus-abdominis, infrapinatus, supraspinatus, subscapularis, teres-minor, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]
+  synergist: [gluteus-maximus, vasti-group, hamstrings, biceps-brachii, rhomboids, serratus-anterior]
+  dynamic: [triceps-brachii, hamstrings]
   antagonist: [latissimus-dorsi]
-variations: []
+variations: [barbell/clean, dumbbell/shoulder-press, kettlebell/arm-clean]
 ---
 The dumbbell clean press lifts dumbbells from your thighs to your shoulders (the clean) and then presses them overhead. The legs and hips start the lift, and the shoulders and upper back finish it.
 

@@ -7,11 +7,11 @@ type: stretch
 example: body_weight/sitting_hamstring
 muscles:
   target: [hamstrings]
-  stabilizer: []
-  synergist: []
-  dynamic: [iliocostalis-portion, longissimus-portion, spinalis-portion]
-  antagonist: []
-variations: []
+  synergist: [gluteus-maximus]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion]
+  dynamic: [gastrocnemius]
+  antagonist: [iliacus, vasti-group]
+variations: [body_weight/single-sitting-hamstring, body_weight/side-to-side-hamstring, body_weight/split-hamstring, body_weight/wide-feet-hamstring-stretch]
 ---
 This is a seated stretch with both legs straight in front of you. It stretches the hamstrings at the back of both thighs at once.
 

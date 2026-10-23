@@ -2,17 +2,17 @@
 id: 3640cd58-dcc2-4a66-a84a-eaf840991ffa
 name: skull crusher
 equipment: dumbbell
-region: Shoulder & Upper Arm
+region: "Shoulder & Upper Arm"
 type: weight
 example: dumbbell/skull_crusher
 other_examples: [kettlebell/skull_crusher, kettlebellalt/skull_crusher]
 muscles:
   target: [triceps-brachii]
-  stabilizer: [deltoid, infrapinatus, subscapularis, supraspinatus, teres-minor]
+  stabilizer: [deltoid, subscapularis, supraspinatus, pectoralis-minor, serratus-anterior]
   synergist: [anconeus]
   dynamic: [triceps-brachii]
   antagonist: [biceps-brachii]
-variations: []
+variations: [barbell/skull-crusher, dumbbell/single-arm-extension, dumbbell/tricep-extension]
 ---
 This is a lying triceps exercise with dumbbells. It works the triceps at the back of your upper arm, and the small shoulder muscles keep your arms steady.
 

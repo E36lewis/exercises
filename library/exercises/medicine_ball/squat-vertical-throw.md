@@ -6,12 +6,12 @@ region: Multi Region
 type: weight
 example: medicine_ball/squat_vertical_throw
 muscles:
-  target: [deltoid, gluteus-maximus, hamstrings, rectus-femoris, triceps-brachii, vasti-group]
-  stabilizer: [adductor-muscle-group, gluteus-medius, gluteus-minimus, infrapinatus, rhomboids, subscapularis, supraspinatus, teres-minor, transversus-abdominis]
-  synergist: [anconeus, biceps-brachii, brachialis, gastrocnemius, pectoralis-major, rectus-abdominis, serratus-anterior, soleus, trapezius]
-  dynamic: [external-and-internal-obliques, iliocostalis-portion, longissimus-portion, rectus-abdominis, spinalis-portion, transversus-abdominis]
-  antagonist: [latissimus-dorsi]
-variations: [medicine_ball/ball-slam]
+  target: [gluteus-maximus, vasti-group, rectus-femoris, triceps-brachii, deltoid]
+  stabilizer: [transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion, trapezius, supraspinatus, infrapinatus, teres-minor, subscapularis]
+  synergist: [hamstrings, adductor-muscle-group, soleus, pectoralis-major, latissimus-dorsi]
+  dynamic: [gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [medicine_ball/ball-slam, medicine_ball/standing-side-throw, medicine_ball/reverse-throw, barbell/overhead-push-press, body_weight/jump-squat]
 ---
 The squat vertical throw is a medicine ball power exercise. You squat down, then drive upward and throw the ball straight overhead. The legs and hips supply most of the power, and the shoulders and arms finish the throw.
 

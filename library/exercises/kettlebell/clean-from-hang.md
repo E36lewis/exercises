@@ -2,16 +2,16 @@
 id: 0af429fe-06ec-4ea5-80cc-53dd01b2c7d8
 name: clean from hang
 equipment: kettlebell
-region: Shoulder & Upper Arm
+region: Multi Region
 type: weight
 example: kettlebellalt/arm_clean
 muscles:
-  target: [adductor-muscle-group, biceps-brachii, brachioradialis, coracobrachialis, deltoid, hamstrings, levator-scapulae, rectus-femoris, supraspinatus, triceps-brachii, vasti-group]
-  stabilizer: [biceps-brachii, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-profundus, flexor-digitorum-superficialis, flexor-pollicis-longus, rhomboids, triceps-brachii]
-  synergist: [coracobrachialis, gluteus-maximus, hamstrings, rectus-femoris, supraspinatus, trapezius, vasti-group]
-  dynamic: [external-and-internal-obliques, latissimus-dorsi, levator-scapulae, pectoralis-major, pectoralis-minor, rectus-abdominis, rhomboids, serratus-anterior]
-  antagonist: [iliocostalis-portion, longissimus-portion, multifidus, psoas-major, quadratus-lumborum, spinalis-portion, trapezius]
-variations: []
+  target: [gluteus-maximus, hamstrings, vasti-group, adductor-muscle-group]
+  stabilizer: [iliocostalis-portion, longissimus-portion, spinalis-portion, transversus-abdominis, external-and-internal-obliques, supraspinatus, infrapinatus, teres-minor, subscapularis, flexor-digitorum-superficialis, flexor-digitorum-profundus]
+  synergist: [trapezius, deltoid, biceps-brachii, serratus-anterior, levator-scapulae]
+  dynamic: [rectus-femoris, gastrocnemius]
+  antagonist: [psoas-major, iliacus]
+variations: [kettlebell/alternating-hang-clean, kettlebell/single-arm-clean, kettlebell/arm-clean, barbell/hang-power-clean, dumbbell/clean-press]
 ---
 The clean from hang is a kettlebell lift that brings the bell from the hang position, just in front of your thighs, up to the rack at your shoulder in one fast pull. The power comes from your hips and thighs (glutes, hamstrings, quadriceps), with the upper back and shoulders guiding the bell and the arm finishing the catch.
 
