@@ -3,7 +3,7 @@ id: 158376f3-ca5a-4522-a9ed-696287349733
 name: squat jack
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/squat_jack
 muscles:
   target: [adductor-muscle-group, gastrocnemius, gluteus-maximus, gluteus-medius, soleus, vasti-group]

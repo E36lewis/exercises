@@ -1,6 +1,6 @@
 ---
 id: 935ba93e-0e47-4b5f-affc-5029f3fa5b6e
-name: clean jerk
+name: clean and jerk
 equipment: barbell
 region: "Multi Region"
 type: weight

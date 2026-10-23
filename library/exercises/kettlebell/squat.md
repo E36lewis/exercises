@@ -4,6 +4,7 @@ name: squat
 equipment: kettlebell
 region: Hip & Thigh
 type: weight
+retired: 2026-10-23
 example: kettlebell/squat
 other_examples: [kettlebellalt/squat]
 muscles:

@@ -1,6 +1,6 @@
 ---
 id: a9438de3-61a8-40d2-ae75-c2349fcc09b6
-name: single extended range arm press
+name: one-arm floor press with reach
 equipment: kettlebell
 region: Thorax
 type: weight

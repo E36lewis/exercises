@@ -3,7 +3,7 @@ id: b01918df-15dc-4ff6-8147-04930aac6b1f
 name: rock star jump
 equipment: body weight
 region: Multi Region
-type: cardio
+type: weight
 example: body_weight/rock_star_jump
 muscles:
   target: [deltoid, gastrocnemius, gluteus-maximus, soleus, vasti-group]

@@ -1,6 +1,6 @@
 ---
 id: 68d8b1bf-cc68-4ebd-bed2-306400bdf2f2
-name: quad/flexor crane
+name: quad and hip flexor crane
 equipment: body weight
 region: Hip & Thigh
 type: stretch

@@ -3,7 +3,7 @@ id: a3593fcd-2f0e-4ccf-869d-e97d5eb77f7b
 name: jump squat
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/jump_squat
 muscles:
   target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]

@@ -4,7 +4,6 @@ name: reverse bicep curl
 equipment: barbell
 region: "Shoulder & Upper Arm"
 type: weight
-example: barbell/drag_curl
 muscles:
   target: [brachioradialis, brachialis]
   stabilizer: [extensor-carpi-radialis-brevis, extensor-carpi-radialis-longus, extensor-carpi-ulnaris, extensor-digitorum, external-and-internal-obliques, transversus-abdominis]

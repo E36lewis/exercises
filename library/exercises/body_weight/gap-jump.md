@@ -3,7 +3,7 @@ id: d6ad42db-3e18-49a1-b09a-cfe6b12ba250
 name: gap jump
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/gap_jump
 muscles:
   target: [adductor-muscle-group, gastrocnemius, gluteus-maximus, soleus, vasti-group]

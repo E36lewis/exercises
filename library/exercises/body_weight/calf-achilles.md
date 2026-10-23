@@ -1,6 +1,6 @@
 ---
 id: a2466f1c-f543-4012-b851-2496b182e404
-name: calf/achilles
+name: calf and achilles stretch
 equipment: body weight
 region: Knee & Lower Leg
 type: stretch

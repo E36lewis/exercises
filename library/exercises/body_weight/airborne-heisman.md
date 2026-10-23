@@ -3,7 +3,7 @@ id: d0f8830d-c6a6-447b-925a-314178578567
 name: airborne heisman
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/airborne_heisman
 muscles:
   target: [gastrocnemius, gluteus-maximus, iliacus, psoas-major, rectus-femoris, soleus, vasti-group]

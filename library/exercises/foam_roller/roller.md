@@ -1,6 +1,6 @@
 ---
 id: b6f07a52-e108-410b-a23d-ee1d90154c5a
-name: roller
+name: foam roller upper back
 equipment: foam roller
 region: Thorax
 type: stretch

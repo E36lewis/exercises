@@ -3,7 +3,7 @@ id: d3223991-e6f9-4e4b-a5d5-0f7fee3bb19a
 name: frog leap
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/frog_leap
 muscles:
   target: [adductor-muscle-group, gastrocnemius, gluteus-maximus, soleus, vasti-group]

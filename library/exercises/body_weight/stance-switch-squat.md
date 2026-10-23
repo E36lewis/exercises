@@ -3,7 +3,7 @@ id: 7c59e8b3-fc9d-40a5-97cb-4fc2cf15de28
 name: stance switch squat
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/stance_switch_squat
 muscles:
   target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]

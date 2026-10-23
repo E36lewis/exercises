@@ -3,7 +3,7 @@ id: c778ddb5-2474-4248-850f-b4fb691b4ffa
 name: stance squat
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/stance_squat
 muscles:
   target: [adductor-muscle-group, gluteus-maximus, vasti-group]

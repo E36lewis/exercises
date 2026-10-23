@@ -5,7 +5,6 @@ equipment: barbell
 region: "Shoulder & Upper Arm"
 type: weight
 example: barbell/front_raise
-other_examples: [barbell/reverse_bicep_curl]
 muscles:
   target: [deltoid]
   stabilizer: [supraspinatus, levator-scapulae, flexor-carpi-radialis, flexor-carpi-ulnaris, flexor-digitorum-superficialis, flexor-digitorum-profundus, external-and-internal-obliques, transversus-abdominis, iliocostalis-portion, longissimus-portion, spinalis-portion]

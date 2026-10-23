@@ -3,7 +3,7 @@ id: 084ae162-921a-485a-85ff-d66ae800e3f1
 name: reach jump
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/jump_squat_reach
 muscles:
   target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]

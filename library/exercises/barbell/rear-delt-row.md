@@ -4,7 +4,6 @@ name: rear delt row
 equipment: barbell
 region: "Shoulder & Upper Arm"
 type: weight
-example: kettlebell/incline_row
 muscles:
   target: [deltoid]
   stabilizer: [gluteus-maximus, hamstrings, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]

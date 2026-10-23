@@ -3,7 +3,7 @@ id: 322f6761-42bd-4d66-9ad7-a148dbd1ab26
 name: tire hop
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/tire_hop
 muscles:
   target: [gastrocnemius, soleus, vasti-group]

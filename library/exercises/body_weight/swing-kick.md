@@ -3,7 +3,7 @@ id: 04dadb7e-d57a-4ad1-b632-d5acb7138260
 name: swing kick
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: stretch
 example: body_weight/swing_kick
 muscles:
   target: [iliacus, psoas-major, sartorius]

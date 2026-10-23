@@ -3,7 +3,7 @@ id: bbdef3b8-2a21-40b4-a8f2-c2514e9a5f78
 name: calf hop
 equipment: body weight
 region: Knee & Lower Leg
-type: cardio
+type: weight
 muscles:
   target: [fibularis-longus, soleus, tibialis-posterior]
   synergist: [fibularis-brevis, flexor-digitorum-longus, flexor-hallucis-longus]

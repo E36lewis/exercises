@@ -1,6 +1,6 @@
 ---
 id: fec12242-6cfd-4f23-916d-e28de77e0074
-name: roller
+name: foam roller lats and mid back
 equipment: foam roller
 region: Thorax
 type: stretch

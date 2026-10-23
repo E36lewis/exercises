@@ -1,6 +1,6 @@
 ---
 id: b4ba7c6e-710f-4ae3-bc94-85e0d03d352f
-name: tri dip handle
+name: dip bar tricep dip
 equipment: dip bars
 region: Shoulder & Upper Arm
 type: weight

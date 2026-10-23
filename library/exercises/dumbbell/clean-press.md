@@ -4,7 +4,6 @@ name: clean press
 equipment: dumbbell
 region: "Multi Region"
 type: weight
-example: kettlebell/arm_clean
 other_examples: [dumbbell/arm_clean]
 muscles:
   target: [deltoid, trapezius, triceps-brachii]

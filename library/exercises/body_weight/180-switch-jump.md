@@ -3,7 +3,7 @@ id: dc34def5-9a38-4a4a-8279-7313c27c55a4
 name: 180 switch jump
 equipment: body weight
 region: Multi Region
-type: cardio
+type: weight
 example: body_weight/180_switch_jump
 muscles:
   target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]

@@ -3,7 +3,7 @@ id: 50d3b7d0-5d7b-4521-9970-a72e2ecf10b2
 name: twisting jump
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/twisting_jump
 muscles:
   target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]

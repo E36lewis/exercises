@@ -4,7 +4,6 @@ name: row
 equipment: dumbbell
 region: "Thorax"
 type: weight
-example: kettlebell/one_arm_bent_row
 muscles:
   target: [latissimus-dorsi, rhomboids, trapezius, teres-major]
   stabilizer: [gluteus-maximus, hamstrings, multifidus, transversus-abdominis, external-and-internal-obliques, iliocostalis-portion, longissimus-portion, spinalis-portion]

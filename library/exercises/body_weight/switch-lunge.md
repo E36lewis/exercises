@@ -3,7 +3,7 @@ id: d243a5af-4572-4685-9ed8-6ca0fb2a2185
 name: switch lunge
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/switch_lunge
 muscles:
   target: [gluteus-maximus, vasti-group]

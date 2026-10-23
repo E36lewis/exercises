@@ -3,7 +3,7 @@ id: b4f9bd27-3fbd-4618-99b2-a12fe327ad62
 name: nut crack march
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: stretch
 example: body_weight/nut_crack_march
 muscles:
   target: [iliacus, psoas-major, sartorius]

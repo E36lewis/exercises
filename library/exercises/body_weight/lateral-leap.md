@@ -3,7 +3,7 @@ id: 1b48b343-3dde-4311-8309-537219f46f69
 name: lateral leap
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 example: body_weight/cross_hop_hold
 other_examples: [body_weight/lateral_leap, medicine_ball/cross_hop]
 muscles:

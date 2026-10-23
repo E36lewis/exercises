@@ -3,7 +3,7 @@ id: 6b11c69e-c1eb-4aee-af2c-3784a8cf9db6
 name: cross hop hold
 equipment: body weight
 region: Hip & Thigh
-type: cardio
+type: weight
 muscles:
   target: [gastrocnemius, gluteus-maximus, gluteus-medius, soleus, vasti-group]
   synergist: [adductor-muscle-group, fibularis-longus, gluteus-minimus, tensor-fasciae-latae, tibialis-posterior]

@@ -3,7 +3,7 @@ id: bdc9c516-d538-4bfc-b4c5-b228cc9d03f4
 name: twist 180
 equipment: body weight
 region: Multi Region
-type: cardio
+type: weight
 example: body_weight/twist_180
 muscles:
   target: [gastrocnemius, gluteus-maximus, soleus, vasti-group]
